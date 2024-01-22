@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Henrik Schjøth
 email:
-description: >- Henrik Schjøth analyseblogg
+description: Henrik Schjøth analyseblogg
 twitter_username: username
 github_username: n0rthface43
 minimal_mistakes_skin: default
