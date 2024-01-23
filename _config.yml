@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Henrik Schjøth"
+  name : ""
   age : 
   education : ""
   education_place : "NTNU, Trondheim"
