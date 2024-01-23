@@ -20,6 +20,11 @@ Brentford er kjent for å være svært dyktige på dødballer. De er innovative 
 
 ![figur-en](https://github.com/n0rthface43/Ball/assets/157420543/84b24742-4470-42e3-9d4b-e349c684e190)
 
+
+
+![](/assets/images/figur-en.jpg)
+
+
 Figur 1.
 
 This is the first post on this blog.
