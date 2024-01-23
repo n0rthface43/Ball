@@ -16,6 +16,18 @@ Brentford er kjent for å være svært dyktige på dødballer. De er innovative 
 ![](/assets/images/figur-en.jpg)
 Figur 1: Nottingham setter linjen høyt. Brentford har to mann i offside før ballen går. Resten av spillerne til Brentford er samlet helt i enden av den horisontale forsvarslinjen til Forest(unntak er Røerslev til høyre). 
 
+![](/assets/images/figur-to.jpg)
+Figur 2: Toney og Maupay posisjonerer seg i offsideposisjon før frisparket slås. 
+
+![](/assets/images/figur-tre.jpg)
+Figur 3: Frisparket slås mot lengste, i retning Pinnock, Mee og Collins er. Forest begynner å falle av med forsvaret når ballen går.
+
+![](/assets/images/figur-fire.jpg)
+Figur 4: Mee vinner i lufta og header ballen inn sentralt. Toney og Maupay er nå onside og på vei inn i rommet bak forsvarslinjen til Forest.
+
+![](/assets/images/figur-fem.jpg)
+Figur 5: Headingen fra Mee er for kort, og Forest får klarert. 
+
 This is the first post on this blog.
 <!--more-->
 
