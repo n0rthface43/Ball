@@ -11,12 +11,12 @@ tags:
 ---
 
 Caseanalyse-dødballer – Brentford vs Nottingham Forest
-Brentford er kjent for å være svært dyktige på dødballer. De er innovative i bruk av data og analyse og skaper mye mål og målsjanser. Derfor er det interessant å se nærmere på deres tilnærming til dødballer. Jeg har sett på kampen mot Nottingham Forest og begrenset meg til offensive frispark og cornere. Brentford skapte i denne kampen 1,13 forventede mål (xg) på disse situasjonene [Understat](https://understat.com/match/22104/ "(Understat)"). Totalt skapte Brentford 1,94 xg i denne kampen. Frispark og corner utgjorde 58% av dette. Nedenfor følger en oversikt over strategien til Brentford på deres offensive cornerne og frispark mot Forest som skapte farligheter (jeg har utelukket frisparkene som tas kort og ikke fører til angrep med en gang). 
+Brentford er kjent for å være svært dyktige på dødballer. De er innovative i bruk av data og analyse og skaper mye mål og målsjanser. Derfor er det interessant å se nærmere på deres tilnærming til dødballer. Jeg har sett på kampen mot Nottingham Forest og begrenset meg til offensive frispark og cornere. Brentford skapte i denne kampen 1,13 forventede mål (xg) på disse situasjonene [(Understat)](https://understat.com/match/22104/ "Understat"). Totalt skapte Brentford 1,94 xg i denne kampen. Frispark og corner utgjorde 58% av dette. Nedenfor følger en oversikt over strategien til Brentford på deres offensive cornerne og frispark mot Forest som skapte farligheter (jeg har utelukket frisparkene som tas kort og ikke fører til angrep med en gang). 
 
 ![figur-en](https://github.com/n0rthface43/Ball/assets/157420543/fd62670c-88a8-4d78-9ddc-fdc6ec66cb72)
 Figur 1: Nottingham setter linjen høyt. Brentford har to mann i offside før ballen går. Resten av spillerne til Brentford er samlet helt i enden av den horisontale forsvarslinjen til Forest(unntak er Røerslev til høyre). 
 
-![figur-to]![figur-to](https://github.com/n0rthface43/Ball/assets/157420543/19f75394-e244-46a3-b05d-c6376d24dc1d)
+![figur-to](https://github.com/n0rthface43/Ball/assets/157420543/19f75394-e244-46a3-b05d-c6376d24dc1d)
 Figur 2: Toney og Maupay posisjonerer seg i offsideposisjon før frisparket slås. 
 
 ![figur-tre](https://github.com/n0rthface43/Ball/assets/157420543/4c2a5ac2-0a8d-40e3-bd62-5b82007e9d1d)
@@ -28,6 +28,94 @@ Figur 4: Mee vinner i lufta og header ballen inn sentralt. Toney og Maupay er n�
 ![figur-fem](https://github.com/n0rthface43/Ball/assets/157420543/fb6df5d8-1736-4440-b2da-e2ccc116f12d)
 Figur 5: Headingen fra Mee er for kort, og Forest får klarert. 
 
+19 min – direkte frispark Ivan Toney 
+![figur-seks](https://github.com/n0rthface43/Ball/assets/157420543/32a40513-f997-405a-a54f-71f741df994c)
+Figur 6. Forest har satt opp mur med en mann liggende bak muren. 
+
+![figur-syv](https://github.com/n0rthface43/Ball/assets/157420543/4b674dc2-6a4e-4262-9782-d9b3a0098969)
+Figur 7. Ivan Toney tar tak i ballen etter at muren til Forest er satt.
+
+![figur-otte](https://github.com/n0rthface43/Ball/assets/157420543/780c074a-7816-4435-8b51-0fda6f28b67c)
+Figur 8. Toney flytter ballen 20-30 cm til siden fra der den opprinnelig lå. Toney skyter ballen i nærmeste hjørnet, rundt muren.
+
+Oppsummering av strategi: Toney lykkes på første forsøk i sitt comeback! Brentford setter to mann bak muren for å forstyrre sikten til keeperen. Det bidrar til å redusere tiden keeperen får til å reagere om skytter (Toney) velger det lengste hjørnet. Etter at Forest har satt muren flytter Toney ballen 20-30 cm til siden. Det var nok til å kunne skyte ballen rundt muren og i det korteste hjørnet. Et frekt, og vellykket trekk av Toney og Brentford. Skuddet er satt til 0,11 xg (Understat).
+24min: Corner fra venstre (Mathias Jensen)
+![figur-ni](https://github.com/n0rthface43/Ball/assets/157420543/2f631067-75c2-4a77-965e-1f4e3293f37e)
+Figur 9. Brentford setter opp en mann som tilbyr kort løsning ved hjørneflagget, og en mann helt nede ved dødlinjen, og en rett utenfor 16m(Lewis Potter). Brentford setter 5 mann tett rundt straffemerket. Forest har 3 mann i sonemarkering. To mann som følger de to korte alternativene til Brentford, og resten mannsmarkerer. Legg merke til at Forest ikke har noen på kanten av 16m.
+
+![figur-ti](https://github.com/n0rthface43/Ball/assets/157420543/308eede0-ff23-4d34-bd1a-ad38616d751e)
+Figur 10. Fem spillere fra Brentford i boksen står nesten på horisontal linje før corneren tas. Forest mannsmarkerer fire av dem, Maupay er fri.
+
+![figur-elleve](https://github.com/n0rthface43/Ball/assets/157420543/b8325a11-829d-4797-872d-bf42928ef9f6)
+Figur 11. Brentford velger å spille corneren kort til Damsgaard. Forest reagerer med Hudson-Odoi som er på vei i press. På kanten av 16m har en Forest spiller (Danilo) begynt å bevege seg ut mot 16m (derfor Maupay er helt fri uten mannsmarkering).
+
+![figur-tolv](https://github.com/n0rthface43/Ball/assets/157420543/cc07e973-9dc4-4c65-8023-40fb04534317)
+Figur 12. Brentford spiller ballen videre til Røerslev som ikke har en mann på seg. Hudson-Odoi må gå fra å presse Damsgaard til å endre retning og presse Røerslev, derfor er han langt unna og på etterskudd i presset. Han får god plass til å legge inn. Innlegget er for langt og går inn til keeper.
+
+Oppsummering av strategi: Brentford utnytter et overtall ute ved hjørneflagget til å få slått ett innlegg fra en god posisjon uten press fra motstander. Ved å ha mange mann i boksen tvinger Brentford Forest til å ha mange mann i eget felt. Når Brentford har 3 spillere tillegg tilgjengelig for den korte corneren, velger Forest som motrekk å kun ha 2. Det blir overtall og en fri mann (Roerslev) som får god tid til å slå innlegg fra en god posisjon. 
+
+Det interessant å se at Nottingham Forest kun valgte å sende to mann ut for å presse ved kort corner. Det ser en tydelig på figur 9 før corneren går. Med dødballtaker er det tre mot to utenfor 16, og det utnytter Brentford her. Ut fra denne analysen fra Yuki Shirozu (Forsvar av cornere i PL) kan det være en risk Forest er villig til å ta. Denne gangen ble det ikke mål, men Brentfords strategi ga de likevel en god mulighet (som de skuslet bort med et dårlig innlegg).
+![figur-ni](https://github.com/n0rthface43/Ball/assets/157420543/b875a5c0-c8ba-44d2-90e9-4f29e59ff593)
+
+31 min Corner fra venstre (Mathias Jensen)
+![figur-tretten](https://github.com/n0rthface43/Ball/assets/157420543/bf0017c8-5a5a-4935-899a-d5de82345984)
+Figur 13. Forest har samme oppsett som sist. To mann ute, tre i sone og resten mannsmarkerer. Brentford gjør nesten det samme, med en endring. To mann(Lewis-Potter og Janelt) ligger helt inne ved keeper.
+
+![figur-fjorten](https://github.com/n0rthface43/Ball/assets/157420543/f0d57574-93ab-4083-8743-ab84dcbe3d26)
+Figur 14. Lewis-Potter forstyrrer keeperen i det corneren går. Verdt å merke seg er sperretrekket med med Mee og Toney på femeteren. 
+
+![figur-femten](https://github.com/n0rthface43/Ball/assets/157420543/aa93a6ba-7522-4b82-902d-416185b219e9)
+Figur 15. Toney starter nest ytterst til venstre, i tett kamp med sin markeringsspiller. Mee(16) er rett bak ham.  
+
+![figur-seksten](https://github.com/n0rthface43/Ball/assets/157420543/703f919b-6be6-4c9b-b3a0-af11b36b0b4d)
+Figur 16. Mee blokkerer Toneys markeringsspiller akkurat samtidig som Toney vender rundt. Toney er fri fra sin markeringsspiller. En kan se Mee(16) er i veien for Toneys markeringsspiller og har på seg to mann som gjør at Toney får plass til å løpe.
+
+![figur-sytten](https://github.com/n0rthface43/Ball/assets/157420543/bf3e0594-74b3-4f76-a2de-94b5327a9048)
+Figur 17. Toney er helt fri og kan løpe mot ballen på bakre stolpe. Janelt hindrer også forsvarsspilleren som er nærmest keeper i løpe mot ballen på bakre stolpe. 
+
+![figur-atten](https://github.com/n0rthface43/Ball/assets/157420543/d2ace4ac-1def-48d1-b7c5-95e7f75b5883)
+Figur 18. Toney er helt fri til å motta ballen på bakre stolpe. 
+
+![figur-nitten](https://github.com/n0rthface43/Ball/assets/157420543/759cac20-a175-454b-86ff-7248f40a600d)
+Figur 19. Her har Toney slått ballen inn på første berøring. Janelt og Lewis-Potter klare i feltet for å avslutte. 
+
+![figur-tjue](https://github.com/n0rthface43/Ball/assets/157420543/bf50dca4-7069-4232-939b-7ae57cad2e71)
+Figur 20. Etter klabb og babb i feltet faller ballen til Lewis-Potter(som begynte med å markere keeperen) som skyter i tverrliggeren. 
+
+Oppsummering av strategi
+Oppsettet til Brentford likner forrige corner. Det er åpenbart at målet med denne strategien er å få en ledig spiller på bakre stolpe som skal få ballen inn i boksen igjen og skape en stor målsjanse. Sperretrekket fra Ben Mee er utført med god timing slik at Toney kan løpe seg fri. Innlegget på en berøring fra Toney er godt og Brentford skaper en stor mulighet. Begge de spillerne(Lewis-Potter og Janelt) som startet ved keeperen, er de som får ballen og avslutter angrepet.
+
+![figur-tjueen](https://github.com/n0rthface43/Ball/assets/157420543/ae35308e-1ea6-4135-8bcf-c233d88b648b)
+Figur 21. Brentford har igjen satt en mann ved dødlinjen. To mann utenfor bildet ved 16. Resten i boksen mellom straffefeltet og 16m.
+
+![figur-tjueto](https://github.com/n0rthface43/Ball/assets/157420543/a55cdb4b-ed30-4931-8f4e-68d6e234f41a)
+Figur 22. Forest har i tillegg til sone mannsmarkering på Brentfords spillere i boksen. Mee(16) markeres av Montiel.
+
+![figur-tjuetre](https://github.com/n0rthface43/Ball/assets/157420543/29ea6841-b9d0-4812-907c-5f42e2625a35)
+Figur 23. Mee dytter Montiel samtidig som han tar noen steg mot den bakre stolpen, slik at han kommer nærmere Pinnock. 
+
+![figur-tjuefire](https://github.com/n0rthface43/Ball/assets/157420543/f6348517-3e4e-4d78-ac63-7b82e6916411)
+Figur 24. Mee løsner seg fra sin markeringsspiller. Pinnock gjør seg stor og oppholder Montiel. Mee er fri til å løpe.
+
+![figur-tjuefem](https://github.com/n0rthface43/Ball/assets/157420543/c0278920-dc62-4799-b15b-f8e6f64dabda)
+Figur 25. Pinnock oppholder tre forsvarsspillere. Markeringsspilleren til Mee(Montiel) må løpe rundt Pinnock og er på etterskudd. Sonespilleren til Forest(nummer 5, Mangala) velger å heller markere Pinnock enn Mee. Mee er fri og kan løpe mot ballen på første stolpe. 
+
+![figur-tjueseks](https://github.com/n0rthface43/Ball/assets/157420543/587d6dc0-5bb2-41ba-9f03-80bb37aa660c)
+Figur 26. Mee kommer seg foran sonemarkeringen på første stolpe og vinner duellen. Vi ser også Maupay er klar til å motta ballen om den går forbi Mee.
+
+Oppsummering strategi 
+Denne gangen lyktes Brentford! Ballen ble slått på første stolpe. Pinnock bido med å oppholde markeringsspilleren til Mee(Montiel). Mee er en av de beste spillerne i lufta, vinner omtrent 60% av duellene (fbref). Det er hensiktsmessig og smart av Brentford og forsøke å sette opp han til å heade fritt i boksen. 
+En finner likheter med denne strategien og Arsenals strategi mot Crystal Palace samme helg (21. januar), hvor Leandro Trossard og Gabriel Jesus ved hjelp av blokker forstyrret både sonemarkeringen og mannsmarkeringen av slik at Gabriel Magalhaes fikk heade fritt ved flere anledninger. En analyse av strategien til arsenal finner en her(The Athletic). 
+
+Oppsummering av Brentfords offensive dødballer 
+Utvalget av dødballer er selvfølgelig svært lite når en kun ser en enkelt kamp. Det er likevel fascinerende å se strategien til Brentford, og det er tydelig at variantene deres er både gjennomtenkt og innøvde. Det blir spennende å se om de klarer å skape
+
+
+Kilder: 
+How Do All 20 Premier League Clubs Defend Corner Kicks in 23-24? [Detailed Analysis of Defending Corner Kicks]｜Football Bunseki (footballbunsekicom.com)
+Brentford 3 - 2 Nottingham Forest (January 20 2024) | EPL | 2023/2024 | xG | Understat.com
+EXTENDED HIGHLIGHTS | BRENTFORD 3-2 NOTTINGHAM FOREST | PREMIER LEAGUE - YouTube
+How Arsenal used blocks at set pieces to unblock their first-half frustrations - The Athletic
 This is the first post on this blog.
 <!--more-->
 
