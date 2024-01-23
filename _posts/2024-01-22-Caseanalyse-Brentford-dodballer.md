@@ -13,19 +13,8 @@ tags:
 Caseanalyse-dødballer – Brentford vs Nottingham Forest
 Brentford er kjent for å være svært dyktige på dødballer. De er innovative i bruk av data og analyse og skaper mye mål og målsjanser. Derfor er det interessant å se nærmere på deres tilnærming til dødballer. Jeg har sett på kampen mot Nottingham Forest og begrenset meg til offensive frispark og cornere. Brentford skapte i denne kampen 1,13 forventede mål (xg) på disse situasjonene [Understat](https://understat.com/match/22104/ "Understat"). Totalt skapte Brentford 1,94 xg i denne kampen. Frispark og corner utgjorde 58% av dette. Nedenfor følger en oversikt over strategien til Brentford på deres offensive cornerne og frispark mot Forest som skapte farligheter (jeg har utelukket frisparkene som tas kort og ikke fører til angrep med en gang). 
 
-"![]/assets/images/figur-en.jpg"
-
-![]/assets/images/bio-photo.jpg
-
-
-![figur-en](https://github.com/n0rthface43/Ball/assets/157420543/84b24742-4470-42e3-9d4b-e349c684e190)
-
-
-
 ![](/assets/images/figur-en.jpg)
-
-
-Figur 1.
+Figur 1: Nottingham setter linjen høyt. Brentford har to mann i offside før ballen går. Resten av spillerne til Brentford er samlet helt i enden av den horisontale forsvarslinjen til Forest(unntak er Røerslev til høyre). 
 
 This is the first post on this blog.
 <!--more-->
