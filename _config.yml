@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Henrik Schjøth
-email:
+email:henrik.schjoth@hotmail.com
 description: Henrik Schjøth analyseblogg
 twitter_username: username
 github_username: n0rthface43
@@ -59,7 +59,7 @@ author:
   age : 
   education : ""
   education_place : "NTNU, Trondheim"
-  education_duration : "2015-2019"
+  education_duration : "
   location: ""
   searching_job : "true"
   avatar : "/assets/images/bio-photo.jpg"
