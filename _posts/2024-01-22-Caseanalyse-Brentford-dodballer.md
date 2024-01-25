@@ -12,8 +12,24 @@ tags:
 
 H2 Øyeblikksanalyse av dødballene til Brentford (Underline)
 ------------- 
-Brentford vs Nottingham Forest
-Brentford er kjent for å være svært dyktige på dødballer. De er innovative i bruk av data og analyse og skaper mye mål og målsjanser. Derfor er det interessant å se nærmere på deres tilnærming til dødballer. Jeg har sett på kampen mot Nottingham Forest og begrenset meg til offensive frispark og cornere. Brentford skapte i denne kampen 1,13 forventede mål (xg) på disse situasjonene [(Understat)](https://understat.com/match/22104/ "Understat"). Totalt skapte Brentford 1,94 xg i denne kampen. Frispark og corner utgjorde 58% av dette. Nedenfor følger en oversikt over strategien til Brentford på deres offensive cornerne og frispark mot Forest som skapte farligheter (jeg har utelukket frisparkene som tas kort og ikke fører til angrep med en gang). 
+Brentford er kjent for å være svært dyktige på dødballer. De er innovative i bruk av data og analyse og skaper mye mål og målsjanser. Men hvor gode er de egentlig? Er de i nærheten eller bedre enn de andre i ligaen? Og hva er det egentlig Brentford gjør på dødball som funker? De tre spørsmålene har jeg forsøkt å finne svar på. For å svare på det siste har jeg sett på dødballene i kampen mot Nottingham Forest 20. januar. Jeg har valgt å fokusere på offensive frispark og cornere.
+
+
+### Hvor gode er Brentford på dødballer?
+![figur-a](https://github.com/n0rthface43/Ball/assets/157420543/fc6bc51d-3ac0-428b-a3c3-a2045801940f)
+Figur a. XgSP viser xG fra set pieces for hvert av lagene (inkludert straffer). Data er hentet fra Xg score.
+
+Det korte svaret er at Brentford er det fjerde beste laget i Premier League på dødballer. Per 24. januar 2024 er de nummer fire på tabellen over xG (forventede mål) etter dødballer i Premier League. La oss konsentrere oss om frispark og cornere. Straffer er inkludert i de 11,7 xG som Brentford har produsert fra dødballer. Brentford har fått 3 straffer hittil i sesongen. Det har sålangt blitt tildelt totalt 55 straffer i PL sålangt. Det tilsvarer gjennomsnittlig 2,75 straffer per lag, så straffene endrer ikke nevneverdig på statistikken. Faktisk har alle tre lagene som har høyere xG på dødball enn Brentford, fått flere straffer, Liverpool(4), Arsenal (6), og Chelsea(7). Så la oss kikke nærmere på cornerne. 
+
+![figur-b](https://github.com/n0rthface43/Ball/assets/157420543/6f6839d1-e650-4e12-b44f-9f9b944f2a51)
+Figur b. Viser antall cornere og expected goals fra dødballer(xGSP). Data Hentet fra Totalcorner og Xg score.
+
+Ut fra denne statistikken ser vi at Brentford har relativt få cornere(98). Det er lite sammenliknet med de fleste andre lagene i Premier League(98 totalt). Likevel har de skåret fjerde høyest på xG fra dødballer. Dette tyder på at Brentford utnytter sine cornere i større grad til å skape målsjanser enn lagene som får omtrent like mange cornere (West Ham, Newcastle Everton, Palace og Luton), og mangle av lagene som har flere cornere (Tottenham, Bournemouth, Manchester United og Manchester City), til tross for at disse lagene har hatt mange flere cornere. Chelsea, Liverpool og Arsenal har høyere total xG på dødballer enn Brentford. Chelsea(107), Liverpool(138) og Arsenal(162!) cornere. Arsenal har altså hatt 64 flere enn Brentford. Om en tenker xG per corner. kan en kanskje hevde at Brentford er ligaens beste lag på corner!
+
+![figur-c](https://github.com/n0rthface43/Ball/assets/157420543/f19d8afa-b20d-4fb2-b51a-8d1c68769135)
+Figur c. Mål per 100 corner fra PL 2022/23. Hentet fra Athletic(data fra opta).
+
+Denne illustrasjonen er hentet fra The Athletic, og viser nettop per corner fra forrige sesong, bortsett fra at her er det snakk om mål per corner, og ikke xG. Forrige sesong skåret Brentford 5,6 mål per 100. dødball. Et foreløpig svar på spørsmålet fra begynnelsen, må være at Brentford er et av ligaens aller beste lag på offensiv dødball. Derfor er det interessant å se nærmere på Brentford tilnærming til disse dødballene. Jeg har laget en øyeblikksanalyse av dødballene i kampen mot Nottingham Forest og begrenset meg til offensive frispark og cornere. Brentford skapte i denne kampen 1,13 (xg) på disse situasjonene[(Understat)](https://understat.com/match/22104/ "Understat"). Totalt skapte Brentford 1,94 xg i denne kampen. Frispark og corner utgjorde 58% av dette. Nedenfor følger en oversikt over strategien til Brentford på deres offensive cornerne og frispark mot Forest.
 
 ### 12 min Frispark Mathias Jensen
 ![figur-en](https://github.com/n0rthface43/Ball/assets/157420543/fd62670c-88a8-4d78-9ddc-fdc6ec66cb72)
