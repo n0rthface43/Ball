@@ -55,11 +55,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name  : "Henrik Schjøth"
+  name  : "Henrik Schjoeth"
   age : 
   education : ""
   education_place : "NTNU, Trondheim"
-  education_duration : "
+  education_duration : 
   location: ""
   searching_job : "true"
   avatar : "/assets/images/bio-photo.jpg"
