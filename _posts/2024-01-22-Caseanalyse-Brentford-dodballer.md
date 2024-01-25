@@ -135,7 +135,7 @@ Tallene for h√∏stsesongen viser at Brentford er blant ligaens aller beste lag p√
 
 
 Kilder: 
-[(Yuki Shirozu,How Do All 20 Premier League Clubs Defend Corner Kicks in 23-24?)](https://footballbunsekicom.com/set-piece/how-do-all-20-premier-league-clubs-defend-corner-kicks-in-23-24-detailed-analysis-of-defending-corner-kicks/).
+[(Yuki Shirozu,How Do All 20 Premier League Clubs Defend Corner Kicks in 23-24?](https://footballbunsekicom.com/set-piece/how-do-all-20-premier-league-clubs-defend-corner-kicks-in-23-24-detailed-analysis-of-defending-corner-kicks/).
 
 [(fbref, Ben Mee](https://fbref.com/en/players/8df7a2fb/Ben-Mee#all_stats_defense)
 
