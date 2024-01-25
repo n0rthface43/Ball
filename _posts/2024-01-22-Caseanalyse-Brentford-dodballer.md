@@ -135,7 +135,7 @@ Tallene for h√∏stsesongen viser at Brentford er blant ligaens aller beste lag p√
 
 
 Kilder: 
-[(Yuki Shirozu,How Do All 20 Premier League Clubs Defend Corner Kicks in 23-24?](https://footballbunsekicom.com/set-piece/how-do-all-20-premier-league-clubs-defend-corner-kicks-in-23-24-detailed-analysis-of-defending-corner-kicks/).
+[(Yuki Shirozu](https://footballbunsekicom.com/set-piece/how-do-all-20-premier-league-clubs-defend-corner-kicks-in-23-24-detailed-analysis-of-defending-corner-kicks/).
 
 [(fbref, Ben Mee](https://fbref.com/en/players/8df7a2fb/Ben-Mee#all_stats_defense)
 
@@ -143,7 +143,7 @@ Kilder:
 
 [(xG score)](https://xgscore.io/xg-statistics/epl)
 
-[The Athletic]((https://theathletic.com/5116257/2023/12/19/set-pieces-relegation-battle-importance/))
+[The Athletic]((https://theathletic.com/5116257/2023/12/19/set-pieces-relegation-battle-importance/)
 
 [Totalcorner)](https://www.totalcorner.com/league/corner_stats/1)
 
