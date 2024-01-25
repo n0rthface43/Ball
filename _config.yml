@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name :
+  name:
   age : 
   education : ""
   education_place : "NTNU, Trondheim"
