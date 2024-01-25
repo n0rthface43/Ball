@@ -61,6 +61,7 @@ Figur 7. Ivan Toney tar tak i ballen etter at muren til Forest er satt.
 Figur 8. Toney flytter ballen 20-30 cm til siden fra der den opprinnelig lå. Toney skyter ballen i nærmeste hjørnet, rundt muren.
 
 Oppsummering av strategi: Toney lykkes på første forsøk i sitt comeback! Brentford setter to mann bak muren for å forstyrre sikten til keeperen. Det bidrar til å redusere tiden keeperen får til å reagere om skytter (Toney) velger det lengste hjørnet. Etter at Forest har satt muren flytter Toney ballen 20-30 cm til siden. Det var nok til å kunne skyte ballen rundt muren og i det korteste hjørnet. Et frekt, og vellykket trekk av Toney og Brentford. Skuddet er satt til 0,11 xg (Understat).
+
 ##### 24min - Corner fra venstre (Mathias Jensen)
 ![figur-ni](https://github.com/n0rthface43/Ball/assets/157420543/2f631067-75c2-4a77-965e-1f4e3293f37e)
 Figur 9. Brentford setter opp en mann som tilbyr kort løsning ved hjørneflagget, og en mann helt nede ved dødlinjen, og en rett utenfor 16m(Lewis Potter). Brentford setter 5 mann tett rundt straffemerket. Forest har 3 mann i sonemarkering. To mann som følger de to korte alternativene til Brentford, og resten mannsmarkerer. Legg merke til at Forest ikke har noen på kanten av 16m.
@@ -139,8 +140,6 @@ Kilder:
 [(fbref, Ben Mee](https://fbref.com/en/players/8df7a2fb/Ben-Mee#all_stats_defense)
 
 [(Understat, Brentford 3 - 2 Nottingham Forest (January 20 2024) | EPL | 2023/2024 | xG)](https://understat.com/match/22104/)
-
-[EXTENDED HIGHLIGHTS | BRENTFORD 3-2 NOTTINGHAM FOREST | PREMIER LEAGUE](https://www.youtube.com/watch?v=OrFfjxQDy-8)
 
 [(xG score)](https://xgscore.io/xg-statistics/epl)
 
