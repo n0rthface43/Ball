@@ -18,6 +18,9 @@
 https://github.com/n0rthface43/Ball/assets/157420543/0376b8d8-6dc3-48f1-8e2c-da1b86518f90
 6
 
+[ag11](assets/images/albert-grønbæk-en.mp4)
+7
+
 ![Value](C:\Users\henri\Desktop\Ball\A.G.jpg)
 Kilde:
 https://www.transfermarkt.com/albert-gronbaek/profil/spieler/503866
