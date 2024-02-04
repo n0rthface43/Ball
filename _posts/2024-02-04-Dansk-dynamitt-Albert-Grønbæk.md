@@ -1,10 +1,10 @@
 
 
 
-![albert grønbæk](https://github.com/n0rthface43/Ball/assets/157420543/fd7c3fec-7ee2-4c92-b248-c812be153671)
+![albert-grønbæk](https://github.com/n0rthface43/Ball/assets/157420543/fd7c3fec-7ee2-4c92-b248-c812be153671)
 1
 
-![albert_grønbæk](assets/images/albert-gronbaek18.mp4)
+![albert-grønbæk](assets/images/albert-gronbaek18.mp4)
 3
 
 ![ag](assets/images/albert-gronbaek18.mp4)
