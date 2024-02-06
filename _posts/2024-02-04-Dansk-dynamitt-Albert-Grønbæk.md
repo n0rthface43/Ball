@@ -5,11 +5,16 @@ Kilde: Transfermarkt
 
 Prestasjonene i Europa har skapt interesse langt utover landegrensene. Grønbæk ble kjøpt for ca. 26 millioner fra AGF i august 2022. Etter at Glimt avslo rekordbudet fra Charlotte på over 100 millioner har Grønbæk signert ny kontrakt til 2028. Hva fremtiden til Grønbæk bringer vet vi lite om, mye tyder uansett på at Glimt kommer til å få godt betalt. Når Grønbæk er blitt så attraktiv, blir jeg nysgjerrig. I denne artikkelen vil jeg undersøke hva som gjør Albert til dansk dynamitt!   
 
-
+Lagspilleren
 {% include video id="909840358" provider="vimeo" %}
-Grønbæk 
+
+{% include video id="910602479" provider="vimeo" %}
 
 
+Kreativitet
+{% include video id="910602416" provider="vimeo" %}
+
+{% include video id="910602460" provider="vimeo" %}
 
 
 
