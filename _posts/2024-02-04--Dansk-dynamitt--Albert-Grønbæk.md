@@ -1,6 +1,8 @@
 ### Albert Erlykke Grønbæk - Dansk dynamitt
 50? 80? 80? 90? 100 millioner? Hvor mye er Albert Grønbæk verdt? 110 millioner er i hvert fall ikke nok til å få Bodø Glimt til å selge Grønbæk. Charlotte fikk budet avslått, og Grønbæk har i etterkant signert ny kontrakt. Grønbæk ble kjøpt for ca. 26 millioner fra AGF i august 2022. Transfermarkt verdsetter ham til 10 millioner pund(ca. 130 millioner NOK). Det er høyest i eliteserien, og 3 millioner pund mer enn nestemann på listen(Sverre Nypan). 
+
 ![Transfermarkt A G Value](https://github.com/n0rthface43/Ball/assets/157420543/a425449a-ed8f-48a8-8159-2808333296df)
+
 Kilde: Transfermarkt
 
 Prestasjonene i Europa har skapt interesse langt utover landegrensene. Mye tyder på at det blir ny overgangsrekord(Datro Fofana, 130mill) fra eliteserien den dagen Grønbæk går til utlandet, kanskje allerede til sommeren. Når Grønbæk er blitt den mest attraktive i eliteserien, blir jeg nysgjerrig på hvorfor han er blitt så verdifull. I denne artikkelen vil jeg undersøke hva som gjør Albert til dansk dynamitt. La oss ta en titt!   
@@ -14,6 +16,7 @@ Grønbæk er en midtbanespiller som gjerne trives i roller hvor han kan bevege s
 Dribler og avslutter
 Albert Grønbæk er eksepsjonelt dyktig til å føre ball, og komme seg forbi motstandere. Kombinasjonen av smidighet, ballkontroll og tro på egne ferdigheter gjør ham til en dyktig dribler. Han har raske føtter, og er vanskelig å stoppe for mostanderne. Allerede i Europa League forrige sesong var han en av de beste til å kommme seg forbi motstanderen med ball. 
 ![AG europaleague 22 23](https://github.com/n0rthface43/Ball/assets/157420543/c727aa9a-04e8-41c5-baec-7806c13249e8)
+
 Kilde: Fbref
 
 Nesten 3,6 carries per kamp(fbref definerer progressive carries som føring av ball hvor ballen føres minimum 9,1m(10yards) i retning av motstanderens mål. I tillegg er føring av ball inn i motstanders 16m også inkludert). Denne sesongen har Grønbæk like mange carries per kamp i Conference League, som han hadde i Europa League i 2022/23. Da er det lite overraskende at han også har mange carries inn på den siste tredjedelen. Carries er naturlig nok tett knyttet opp til driblinger, bare at driblinger måler i hvilken grad en dribler motstanderne. Albert har noen enorme tall for vellykede driblinger(succesfull take-ons)! 99. persentilen, betyr at han har flere vellykkede driblinger per kamp enn 99% av de andre midtbanespillerne i turneringen. Dette er åpenbart en ferdighet som kan skape ubalanse hos motstanderen. 
