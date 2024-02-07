@@ -3,7 +3,7 @@ Akkurat nå er Albert Grønbæk den heteste spilleren i eliteserien. Grønbæk b
 ![Value](C:\Users\henri\Desktop\Ball\A.G.jpg)
 Kilde: Transfermarkt
 
-Prestasjonene i Europa har skapt interesse langt utover landegrensene.  Hva fremtiden til Grønbæk bringer vi ingenting om. Mye tyder uansett på at Glimt kommer til å få godt betalt og at Grønbæk på et tidspunkt drar til utlandet og setter overgangsrekord. Når Grønbæk er blitt så attraktiv, blir jeg nysgjerrig. I denne artikkelen vil jeg undersøke hva som gjør Albert til dansk dynamitt.   
+Prestasjonene i Europa har skapt interesse langt utover landegrensene. Mye tyder på at det blir norsk overgangsrekord den dagen Grønbæk går til utlandet, noe som kan skje allerede til sommeren. Når Grønbæk er blitt elitseriens mest verdifulle spiller, blir jeg nysgjerrig. I denne artikkelen vil jeg undersøke hva som gjør Albert til dansk dynamitt.  
 
 Lagspilleren
 {% include video id="909840358" provider="vimeo" %}
