@@ -6,6 +6,7 @@ Kilde: Transfermarkt
 Prestasjonene i Europa har skapt interesse langt utover landegrensene. Mye tyder på at det blir norsk overgangsrekord den dagen Grønbæk går til utlandet, noe som kan skje allerede til sommeren. Når Grønbæk er blitt elitseriens mest verdifulle spiller, blir jeg nysgjerrig. I denne artikkelen vil jeg undersøke hva som gjør Albert til dansk dynamitt.  
 
 Lagspilleren
+Albert Grønbæk har sine fremste egenskaper ved at han er dyktig med ballen. 
 {% include video id="909840358" provider="vimeo" %}
 
 {% include video id="910602479" provider="vimeo" %}
@@ -20,4 +21,4 @@ Kreativitet
 
 Kilde:
 https://www.transfermarkt.com/albert-gronbaek/profil/spieler/503866
-
+https://fbref.com/en/players/0da5076f/scout/11837/Albert-Erlykke-Scouting-Report
