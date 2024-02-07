@@ -8,12 +8,12 @@ tags:
   - Bodø Glimt
   - Albert Grønbæk
 
-
+### Albert Erlykke Grønbæk
 50? 80? 80? 90? 100 millioner? Hvor mye er Albert Grønbæk verdt? 110 millioner er i hvert fall ikke nok til å få Bodø Glimt til å selge Grønbæk. Charlotte fikk budet avslått, og Grønbæk har i etterkant signert ny kontrakt. Grønbæk ble kjøpt for ca. 26 millioner fra AGF i august 2022. Transfermarkt verdsetter ham til 10 millioner pund(ca. 130 millioner NOK). Det er høyest i eliteserien, og 3 millioner pund mer enn nestemann på listen(Sverre Nypan). 
-![Value](C:\Users\henri\Desktop\Ball\A.G.jpg)
+![Transfermarkt A G Value](https://github.com/n0rthface43/Ball/assets/157420543/a425449a-ed8f-48a8-8159-2808333296df)
 Kilde: Transfermarkt
 
-Prestasjonene til Grønbæk i Europa har skapt interesse langt utover landegrensene. Mye tyder på at det blir ny overgangsrekord(Datro Fofana, 130mill) fra eliteserien den dagen Grønbæk går til utlandet, kanskje allerede til sommeren. Når Grønbæk er blitt den mest attraktive i eliteserien, blir jeg nysgjerrig på hvorfor han er blitt så verdifull. I denne artikkelen vil jeg undersøke hva som gjør Albert til dansk dynamitt. La oss ta en titt!   
+Prestasjonene i Europa har skapt interesse langt utover landegrensene. Mye tyder på at det blir ny overgangsrekord(Datro Fofana, 130mill) fra eliteserien den dagen Grønbæk går til utlandet, kanskje allerede til sommeren. Når Grønbæk er blitt den mest attraktive i eliteserien, blir jeg nysgjerrig på hvorfor han er blitt så verdifull. I denne artikkelen vil jeg undersøke hva som gjør Albert til dansk dynamitt. La oss ta en titt!   
 
 Posisjon
 ![posisjon](https://github.com/n0rthface43/Ball/assets/157420543/592342fc-ceeb-4f08-8c43-af7617e92777)
