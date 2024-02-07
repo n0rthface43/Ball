@@ -1,3 +1,15 @@
+---
+title: "Dansk dynamitt - Albert Grønbæk"
+excerpt_separator: "<!--more-->"
+categories:
+  - Spilleranalyse
+tags:
+  - Eliteserien
+  - Spilleranalyse
+  - Bodø Glimt
+  - Albert Grønbæk
+---
+
 ### Albert Erlykke Grønbæk - Dansk dynamitt
 50? 80? 80? 90? 100 millioner? Hvor mye er Albert Grønbæk verdt? 110 millioner er i hvert fall ikke nok til å få Bodø Glimt til å selge Grønbæk. Charlotte fikk budet avslått, og Grønbæk har i etterkant signert ny kontrakt. Grønbæk ble kjøpt for ca. 26 millioner fra AGF i august 2022. Transfermarkt verdsetter ham til 10 millioner pund(ca. 130 millioner NOK). Det er høyest i eliteserien, og 3 millioner pund mer enn nestemann på listen(Sverre Nypan). 
 
