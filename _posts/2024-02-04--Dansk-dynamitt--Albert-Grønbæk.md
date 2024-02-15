@@ -24,7 +24,7 @@ Posisjon
 ![posisjon](https://github.com/n0rthface43/Ball/assets/157420543/592342fc-ceeb-4f08-8c43-af7617e92777)
 Kilde: Fotmob
 
-Grønbæk er en midtbanespiller som trives i ulike roller hvor han kan bevege seg i angrep og true farlige rom. I Glimt har han spilt som en 8-er vanligvis til venstre på midten. Ved noen unntak når Pellegrino har vært ute har han vært benyttet som ving(startet som ving borte mot Brann i nov 23). 
+Grønbæk er en midtbanespiller som trives når han kan føre ball mot forsvarslinjen og true farlige rom. I Glimt har han vanligvis spilt som en 8-er vanligvis venstre på midten i en treer. Ved noen unntak når Pellegrino har vært ute har han vært benyttet som venstreving(startet som ving borte mot Brann i nov 23). 
 
 ### Dribler og avslutter
 Albert Grønbæk er eksepsjonelt dyktig til å føre ball, og komme seg forbi motstandere. Kombinasjonen av smidighet, ballkontroll og tro på egne ferdigheter gjør ham til en dyktig dribler og vanskelig å stoppe for motsanderne. Allerede i Europa League forrige sesong var han en av de beste til å kommme seg forbi motstanderen med ball. 
@@ -33,17 +33,17 @@ Albert Grønbæk er eksepsjonelt dyktig til å føre ball, og komme seg forbi mo
 
 Kilde: Fbref
 
-Nesten 3,6 carries per kamp(fbref definerer progressive carries som føring av ball hvor ballen føres minimum 9,1m(10yards) i retning av motstanderens mål. I tillegg er føring av ball inn i motstanders 16m også inkludert). Denne sesongen har Grønbæk like mange carries per kamp i Conference League, som han hadde i Europa League i 2022/23. Da er det lite overraskende at han også har mange carries inn på den siste tredjedelen. Carries er naturlig nok tett knyttet opp til driblinger, bare at driblinger måler i hvilken grad en dribler motstanderne. Grønbæk har noen enorme tall for vellykede driblinger(succesfull take-ons)! 99. persentilen, betyr at han har flere vellykkede driblinger per kamp enn 99% av de andre midtbanespillerne i turneringen. Dette er åpenbart en ferdighet som kan skape ubalanse hos motstanderen. 
+Nesten 3,6 carries per kamp(fbref definerer progressive carries som føring av ball hvor ballen føres minimum 9,1m(10yards) i retning av motstanderens mål. I tillegg er føring av ball inn i motstanders 16m også inkludert). Denne sesongen har Grønbæk sålang(før Ajaxkampen) like mange carries per kamp i Conference League, som han hadde i Europa League i 2022/23. Da er det lite overraskende at han også har mange carries inn på den siste tredjedelen. Carries er naturlig nok også tett knyttet opp til driblinger, bare at driblinger måler i hvilken grad en dribler motstanderne. Grønbæk har noen enorme tall for vellykede driblinger(succesfull take-ons)! 99. persentilen, betyr at han har flere vellykkede driblinger per kamp enn 99% av de andre midtbanespillerne i turneringen. Dette er åpenbart en ferdighet som kan skape ubalanse hos motstanderen. 
 ![AG conference league 23 24 8 øverste ](https://github.com/n0rthface43/Ball/assets/157420543/ad97a3c5-3c9a-4677-ba97-e5ac5a453302)
 Kilde: fbref
 
-Grønbæk har ferdigheter som gjør at han kan variere med å sette opp medspillere, skape kombinasjoner eller gå for skudd selv. Han er meget farlig når han kommer rettvendt mot motstanderens forsvarslinje, og har flere alternativer å velge mellom. Han er også en ivrig avslutter. 2,58 skudd per kamp er helt i toppen blant midtbanespillerne. 0,29 xG per kamp er også en indikasjon på at han jevnlig kommer til målsjanser. Grønbæks er en dyktig angrepspiller med et bredt repertoar. 
+Grønbæk har ferdigheter som gjør at han kan variere med å sette opp medspillere, skape kombinasjoner eller gå for skudd selv. Han er meget farlig når han kommer rettvendt mot motstanderens forsvarslinje, og har flere alternativer å velge mellom. Han er også en ivrig avslutter. 2,58 skudd per kamp er helt i toppen blant midtbanespillerne. 0,29 xG per kamp er også en indikasjon på at han jevnlig kommer til målsjanser. 
 
 {% include video id="910602460" provider="vimeo" %}
 
 ### Lagspiller
 
-Grønbæk er en toveisspiller. Han er lojal i arbeidet med å forsvare seg og vinne ballen tilbake når Glimt mister ballen, og han er en viktig spiller i presspillet til Glimt.   
+Grønbæk er også en toveisspiller. Han er lojal i arbeidet med å forsvare seg og vinne ballen tilbake når Glimt mister ballen, og han er en viktig spiller i presspillet til Glimt.   
 {% include video id="909840358" provider="vimeo" %}
 
 {% include video id="910602479" provider="vimeo" %}
