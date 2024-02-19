@@ -49,7 +49,7 @@ It is obviously natural for defenders to have more possession than attacking pla
 ##### Summary
 Statistics from Europe show that Albert Grønbæk is tremendous when it comes to carry the ball, dribbling past opponents, and getting shots off. This is his specialty that makes him better and more expensive than anyone else in the norwegian Eliteserien. Grønbæk has a good understanding of the game and the ability to combine and set up teammates. It's interesting to see that despite his skills, he is relatively less involved compared to his teammates (touches and passes per 90). Considering that, it says something about the quality of the involvements he does have. If Bodø Glimt can increase Grønbæk's involvement, he can increase the volume of both chance creation, Xg, shots, and probably goals. Additionally, he is a good team player who works hard to win the ball back. In the first leg of Bodø Glimts Conference tie with Ajax we could see how much trobule Grønbæk made for Ajax. He made the difference for Bodø Glimt and that might win the tie for his team. No matter the result in the secound leg, it will be exciting to follow Grønbæk and his future. It will be expensive for those who want to buy some Danish dynamite! 
 
-Kilde:
+Sources:
 [Transfermarkt](https://www.transfermarkt.com/albert-gronbaek/profil/spieler/503866)
 [Fotmob](https://www.fotmob.com/matches/bodoglimt-vs-molde/2rwsj9#4301593)
 [Fbref](https://fbref.com/en/players/0da5076f/scout/11837/Albert-Erlykke-Scouting-Report)
