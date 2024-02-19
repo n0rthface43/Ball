@@ -1,13 +1,13 @@
 
 ### Albert Erlykke Grønbæk - Danish dynamite
-5? 8? 10? 15?... or 20 million pund? How much is Bodø GLimt player Albert Grønbæk worth? 8,3 million punds is definitely not enough to get Bodø Glimt to sell Grønbæk. Charlotte had the offer rejected, and Grønbæk has subsequently signed a new contract(until 2028). Grønbæk was bought for around 1,96 million pounds from danish AGF in August 2022. Transfermarkt values him now at 10 million pounds. It's the highest in the norwegian Eliteserien, and 3 million pounds more than the next player on the list (Sverre Nypan(Rosenborg)).
+5? 8? 10? 15?... or 20 million pund? How much is Bodø GLimt player Albert Grønbæk worth? 9,8 million pounds is definitely not enough to get Bodø Glimt to sell Grønbæk. Charlotte had the offer rejected, and Grønbæk subsequently signed a new contract(until 2028). Grønbæk was bought for a norwegian buying record fee for around 1,96 million pounds from danish AGF in August 2022. Transfermarkt values him now at 10 million pounds. It's the highest in the norwegian Eliteserien, and 3 million pounds more than the next player on the list (Sverre Nypan(Rosenborg)).
 
 ![Transfermarkt A G Value](https://github.com/n0rthface43/Ball/assets/157420543/a425449a-ed8f-48a8-8159-2808333296df)
 
 Source: Transfermarkt
 
 {% include video id="910602416" provider="vimeo" %}
-Performances in Europe have created interest far beyond national borders. Much indicates that there will be a new transfer record (Datro Fofana, 9,8 million to Chelsea is the record) from Eliteserien the day Grønbæk goes abroad, perhaps already this summer. When Grønbæk has become the most attractive in the Eliteserien, I become curious as to why he has become so valuable. In this article, I will examine what makes Albert Danish dynamite. Let's take a look!
+Performances in Europe have created interest far beyond national borders. Much indicates that there will be a new selling transfer record (Datro Fofana, 9,8 million to Chelsea is the record) from Eliteserien the day Grønbæk goes abroad, perhaps already this summer. Grønbæk has become the most attractive and valuable player in the Eliteserien, and that made me curious about why. In this article, I will examine what makes Albert danish dynamite. Let's take a look!
 
 Position
 ![posisjon](https://github.com/n0rthface43/Ball/assets/157420543/592342fc-ceeb-4f08-8c43-af7617e92777)
