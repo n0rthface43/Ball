@@ -1,4 +1,4 @@
-Det var store forventninger da Bodø GLimt trakk Ajax etter å ha gått videre fra gruppespillet i Conference League i desember. Til tross for at Ajax`s størrelse og stjernespillere(signerte blant annet Jordan Henderson i januar), var det likevel mange optimistiske Bodøværinger før det første møtet i Amsterdam(kanskje noen i Tromsø som håpet på tap:)). Det endte 2-2 til slutt, etter at Bodø Glimt kunne og burde vunnet. La oss se nærmere på hvordan det skjedde.    
+Det var store forventninger da Bodø GLimt trakk Ajax etter å ha gått videre fra gruppespillet i Conference League i desember. Til tross for Ajax`s størrelse og stjernespillere(signerte Jordan Henderson i januar), var det likevel mange optimistiske Bodøværinger før det første møtet i Amsterdam(kanskje noen i Tromsø som håpet på tap:)). Det endte 2-2 til slutt, etter at Bodø Glimt kunne og burde vunnet. La oss se nærmere på hvordan det skjedde.    
 
 Mot Ajax borte er det ingen tvil om at motstanderen ofte vil presse deg høyt på banen. Glimt er kjent for sin evne til å spille seg ut bakfra. Det fikk en også se i denne kampen, og de benyttet mange verktøy fra verktøykassa. 
 
