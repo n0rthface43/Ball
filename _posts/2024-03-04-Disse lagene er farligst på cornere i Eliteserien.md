@@ -20,9 +20,6 @@ Brann angriper med 4 mann som samlet løper inn. Finne starter bak de andre og k
 ### Tromsø - forsvar
 Tromsø en tydelig strategi om å forsvare med 5 mann i sone. Tok ned alle mann mot Brann. Resten mannsmarkerer. Fordel med så mange i sone er at de har noen langs hele femmeteren fra første til bakre stolpe. 
 
-Muligheter for å angripe: Med 5 mann i sone er det færre igjen til mannsmarkering. Ved å ha en mann i kort 
-Angrep
-
 
 
 ### Viking 
