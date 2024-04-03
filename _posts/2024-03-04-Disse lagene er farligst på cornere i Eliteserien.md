@@ -33,7 +33,8 @@ Tredje mulighet: Kort. Om en setter en kort løsning vil en tvinge Viking til å
 
 ### Sarpsborg
 Angrep: 
-Sarpsborg hadde to varianter jeg la merke til mot Viking
+Her er alle 7 cornerne til Sarpsborg mot Viking.
+{% include video id="930423245" provider="vimeo" %}
 1. Slå ballen hardt midt i feltet.
 2. Slå ballen høyt diagonalt på tvers av feltet og direkte skudd. De kom til ett par avslutninger på denne måten og var nære ved to tilfeller. Saprsborg var dyktige til å forstyrre og hindre forsvarerne i å støte på den som skjøt(Tiblling og Junior(heading).
 
