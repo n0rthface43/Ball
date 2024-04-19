@@ -12,7 +12,7 @@ tags:
 
 H2 Øyeblikksanalyse av dødballene til Brentford
 ------------
-Brentford er kjent for å være svært dyktige på dødballer. De er innovative i bruk av data og analyse og skaper mye mål og målsjanser. Men hvor gode er de egentlig? Er de i nærheten eller bedre enn de andre i ligaen? Og hva er det egentlig Brentford gjør på dødball som funker? De tre spørsmålene har jeg forsøkt å finne svar på. For å svare på det siste har jeg sett på dødballene i kampen mot Nottingham Forest 20. januar. Jeg har valgt å fokusere på offensive frispark og cornere.
+Brentford er kjent for å være svært dyktige på dødballer. De er innovative i bruk av data og analyse og skaper mye mål og målsjanser. Men hvor gode er de egentlig, sammenliknet med resten av Premier League? Og hva er det egentlig Brentford gjør på dødball som funker? De to spørsmålene har jeg forsøkt å finne svar på. For å svare på det siste har jeg sett på dødballene til Brentford i kampen mot Nottingham Forest 20. januar. Jeg har valgt å fokusere på offensive frispark og cornere.
 
 
 #### Hvor gode er Brentford på dødballer?
@@ -20,7 +20,7 @@ Brentford er kjent for å være svært dyktige på dødballer. De er innovative 
 
 Figur a. XgSP viser xG fra set pieces for hvert av lagene (inkludert straffer). Data er hentet fra Xg score.
 
-Det korte svaret er at Brentford er det fjerde beste laget i Premier League på dødballer. Per 24. januar 2024 er de nummer fire på tabellen over xG (forventede mål) etter dødballer i Premier League. La oss konsentrere oss om frispark og cornere. Straffer er inkludert i de 11,7 xG som Brentford har produsert fra dødballer. Brentford har fått 3 straffer hittil i sesongen. Det har sålangt blitt tildelt totalt 55 straffer i PL sålangt. Det tilsvarer gjennomsnittlig 2,75 straffer per lag, så straffene endrer ikke nevneverdig på statistikken. Faktisk har alle tre lagene som har høyere xG på dødball enn Brentford, fått flere straffer, Liverpool(4), Arsenal (6), og Chelsea(7). Så la oss kikke nærmere på cornerne. 
+Det korte svaret er at Brentford er det fjerde beste laget i Premier League på dødballer. Per 24. januar 2024 er de nummer fire på tabellen over xG (forventede mål) etter dødballer i Premier League. Straffer er inkludert i de 11,7 xG. Brentford har fått 3 straffer hittil i sesongen. Det har sålangt blitt tildelt totalt 55 straffer i PL sålangt. Det tilsvarer gjennomsnittlig 2,75 straffer per lag, så straffene endrer ikke nevneverdig på statistikken for Brentfords del. Faktisk har alle tre lagene som har høyere xG på dødball enn Brentford, fått flere straffer, Liverpool(4), Arsenal (6), og Chelsea(7). Så la oss kikke nærmere på cornerne.For denne analysen vil jeg konsentrere meg om frispark og cornere.  
 
 ![figur-b](https://github.com/n0rthface43/Ball/assets/157420543/6f6839d1-e650-4e12-b44f-9f9b944f2a51)
 
@@ -32,7 +32,7 @@ Ut fra statistikken ser vi at Brentford har 98 cornere. Det er lite sammenliknet
 
 Figur c. Mål per 100 corner fra PL 2022/23. Hentet fra Athletic(data fra opta).
 
-Statistikken fra The Athletic viser mål per corner fra forrige sesong. Her er det snakk om mål, og ikke xG. Forrige sesong skåret Brentford 5,6 mål per 100. dødball. Et foreløpig svar på spørsmålet fra begynnelsen, må være at Brentford er et av ligaens aller beste lag på offensiv dødball. Derfor er det interessant å se nærmere på Brentford tilnærming til disse dødballene. Jeg har laget en variant av en øyeblikksanalyse av dødballene i kampen mot Nottingham Forest og begrenset meg til offensive frispark og cornere. Brentford skapte i denne kampen 1,13 (xg) på disse situasjonene[(Understat)](https://understat.com/match/22104/ "Understat"). Totalt skapte Brentford 1,94 xg i denne kampen. Frispark og corner utgjorde 58% av dette. Nedenfor følger en oversikt over strategien til Brentford på deres offensive cornerne og frispark mot Forest.
+Statistikken fra The Athletic viser mål per corner fra forrige sesong. Forrige sesong skåret Brentford 5,6 mål per 100. dødball. Et foreløpig svar på spørsmålet fra begynnelsen, må være at Brentford er et av ligaens aller beste lag på offensiv dødball. Derfor er det interessant å se nærmere på Brentford tilnærming til disse dødballene. Jeg har laget en "øyeblikksanalyse" av dødballene i kampen mot Nottingham Forest og begrenset meg til offensive frispark og cornere. Brentford skapte i denne kampen 1,13 (xg) på disse situasjonene[(Understat)](https://understat.com/match/22104/ "Understat"). Totalt skapte Brentford 1,94 xg i denne kampen. Frispark og corner utgjorde 58% av dette. Nedenfor følger en oversikt over strategien til Brentford på deres offensive cornerne og frispark mot Forest.
 
 ##### 12 min Frispark Mathias Jensen
 ![figur-en](https://github.com/n0rthface43/Ball/assets/157420543/fd62670c-88a8-4d78-9ddc-fdc6ec66cb72)
@@ -42,7 +42,7 @@ Figur 1: Nottingham setter linjen høyt. Brentford har to mann i offside før ba
 Figur 2: Toney og Maupay posisjonerer seg i offsideposisjon før frisparket slås. 
 
 ![figur-tre](https://github.com/n0rthface43/Ball/assets/157420543/4c2a5ac2-0a8d-40e3-bd62-5b82007e9d1d)
-Figur 3: Frisparket slås mot lengste, i retning Pinnock, Mee og Collins er. Forest begynner å falle av med forsvaret når ballen går.
+Figur 3: Frisparket slås mot lengste, i retning Pinnock, Mee og Collins. Forest begynner å falle av med forsvaret når ballen går.
 
 ![figur-fire](https://github.com/n0rthface43/Ball/assets/157420543/ac3f614f-b452-4af9-b863-25e13645d281)
 Figur 4: Mee vinner i lufta og header ballen inn sentralt. Toney og Maupay er nå onside og på vei inn i rommet bak forsvarslinjen til Forest.
@@ -75,9 +75,7 @@ Figur 11. Brentford velger å spille corneren kort til Damsgaard. Forest reagere
 ![figur-tolv](https://github.com/n0rthface43/Ball/assets/157420543/cc07e973-9dc4-4c65-8023-40fb04534317)
 Figur 12. Brentford spiller ballen videre til Røerslev som ikke har en mann på seg. Hudson-Odoi må gå fra å presse Damsgaard til å endre retning og presse Røerslev, derfor er han langt unna og på etterskudd i presset. Han får god plass til å legge inn. Innlegget er for langt og går inn til keeper.
 
-Oppsummering av strategi: Brentford utnytter et overtall ute ved hjørneflagget til å få slått ett innlegg fra en god posisjon uten press fra motstander. Ved å ha mange mann i boksen tvinger Brentford Forest til å ha mange mann i eget felt. Når Brentford har 3 spillere tillegg tilgjengelig for den korte corneren, velger Forest som motrekk å kun ha 2. Det blir overtall og en fri mann (Roerslev) som får god tid til å slå innlegg fra en god posisjon. 
-
-Nottingham Forest valgte kun å sende to mann ut for å presse når det kom kort corner. Det ser en tydelig på forberdelsene deres i figur 9 før corneren går. Med dødballtaker(Mathias Jensen) er det tre mot to utenfor 16, og det utnytter Brentford her. Ut fra denne analysen fra Yuki Shirozu[Forsvar av cornere](https://footballbunsekicom.com/set-piece/how-do-all-20-premier-league-clubs-defend-corner-kicks-in-23-24-detailed-analysis-of-defending-corner-kicks/) kan det være en risk Forest er villig til å ta. Denne gangen ble det ikke mål, men Brentfords strategi ga de likevel en god mulighet (som de skuslet bort med et dårlig innlegg).
+Oppsummering av strategi: Brentford utnytter et overtall ute ved hjørneflagget til å få slått ett innlegg fra en god posisjon uten press fra motstander. Når Brentford har tre spillere tillegg tilgjengelig for den korte corneren, velger Forest som motrekk å kun ha to. Det blir overtall og en fri mann (Roerslev) som får god tid til å slå innlegg fra en farlig posisjon. Ut fra denne analysen fra Yuki Shirozu[Forsvar av cornere](https://footballbunsekicom.com/set-piece/how-do-all-20-premier-league-clubs-defend-corner-kicks-in-23-24-detailed-analysis-of-defending-corner-kicks/) kan dette være en risk Forest er villig til å ta for å heller prioritere å være sterkere i boksen. Denne gangen ble det ikke mål, men Brentfords strategi ga de likevel en god mulighet (som de skuslet bort med et dårlig innlegg).
 ![figur-ni](https://github.com/n0rthface43/Ball/assets/157420543/b875a5c0-c8ba-44d2-90e9-4f29e59ff593)
 
 ##### 31 min Corner fra venstre (Mathias Jensen)
