@@ -9,9 +9,8 @@ My name is  {{ site.author.name }}, and I'm a 33 year old teacher of mathematics
 
 Kurs og utdanning: 
 UEFA B 
-Statsbomb:Introduksjonkurs til fotballanalyse. [(Understat)](https://understat.com/match/22104/ "Understat22")
-[(Understat)]([(https://courses.statsbomb.com/certificates/pxcspldijl/ "kursserifikat")])
-
+Statsbomb:Introduksjonkurs til fotballanalyse. 
+[(Kurssertifisering)](https://courses.statsbomb.com/certificates/pxcspldijl/)
 Deltakelse på hacktathon, event med fotballanalyse: [(Understat)([(https://hackathon.xfbanalytics.com/?trk=public_post_comment-text)] "Info om event").
 
 Trenererfaring: 
