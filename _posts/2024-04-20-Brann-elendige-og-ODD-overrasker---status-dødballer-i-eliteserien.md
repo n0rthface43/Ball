@@ -23,18 +23,15 @@ Når en  sorterer etter akkumulert xG ser vi at det bare er RBK blant de fem øv
 ![Understat - xG   xP](https://github.com/n0rthface43/Ball/assets/157420543/97d1fba4-b565-4388-a3e4-0d6d970b98c0) Kilde: [Understat](https://understat.com/league/EPL)
 
 
-Solarized dark             |  Solarized Ocean
+O,15 xG sjanse Sørløkk(FFK vs Sarpsborg)            |  0,04 xG Kartum(Brann vs Viking)
 :-------------------------:|:-------------------------:
-![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f)  |  ![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f))
+![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f)  | ![FFK 0,15 Sørløkk 84min](https://github.com/n0rthface43/Ball/assets/157420543/223faa29-36a0-4d01-8406-4231807f79bf)
 
-Solarized dark             |  Solarized Ocean
+
+
+O,15 xG sjanse Sørløkk(FFK vs Sarpsborg)            |  0,04 xG Kartum(Brann vs Viking)
 :-------------------------:|:-------------------------:
-![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f)  |  ![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f)
-
-
-https://www.fotmob.com/nb/matches/brann-vs-viking/2dhus9#4385416
-
-https://www.fotmob.com/nb/matches/brann-vs-viking/2dhus9#4385416
+![FFK0,15xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/5110a821-3aa6-4745-b386-8eeb971e1e79)  |  ![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f)
 
 
 ### Oppsummering
