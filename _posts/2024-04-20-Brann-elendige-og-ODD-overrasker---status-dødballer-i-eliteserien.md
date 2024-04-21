@@ -14,28 +14,34 @@ Tre runder av elitserien er spilt. Vi har begynt å danne oss et bilde av hvorda
 
 ![Eliteserien xG dødball 20 4 2024](https://github.com/n0rthface43/Ball/assets/157420543/5a80f8b4-ef9f-49d0-bd7f-7fb8eb59c4f9) Kilde:[fotmob](https://www.fotmob.com/nb/leagues/59/matches/eliteserien/by-round?round=1). 
 
-ODD har tilsammen skapt soleklart mest(2,49 xG). Både RBK, KFUM, Bodø-Glimt og FFK har skapt mer enn ett forventet mål. Sandefjord, Kristiansund og Molde har alle skapt svært lite på sine dødballer. Det er overraskende med så lite målsjanser, selv etter tre serierunder. For å bli klokere på hvor dyktige hvert av lagene er til å skape sjanser på dødballer, bør vi også se på mengden dødballer. Jeg har valgt å undersøke cornere nærmere(viktig å ha i bakhodet at xG fra dødball også inkluderer frispark).      
+ODD har tilsammen skapt soleklart mest(2,49 xG). Både RBK, KFUM, Bodø-Glimt og FFK har skapt mer enn ett forventet mål. Sandefjord, Kristiansund og Molde har alle skapt svært lite på sine dødballer. Det er overraskende med så lite målsjanser, selv etter tre serierunder. For å bli klokere på hvor dyktige hvert av lagene er til å skape sjanser på dødballer, bør vi også se på mengden dødballer. Jeg har valgt å undersøke cornere nærmere(viktig å ha i bakhodet at xG fra dødball også inkluderer frispark).    
+
 ![Antall cornere eliteserien 15 4](https://github.com/n0rthface43/Ball/assets/157420543/0cdc2860-5c0f-4659-9158-477722e48eaf)
 Det er åpenbart allerede store forskjeller i antallet cornere lagene skaffer seg. Fra Branns hele 35! cornere til Sandefjords 4(en kamp mindre spilt). Noen av lagene har også svært varierende antall cornere fra kamp til kamp. LSK og Odd har tosifret antall cornere i en kamp, og bare to i en annen kamp. En bedre motstander vil ofte bety færre cornere(LSK med kun to cornere hjemme mot Bodø-Glimt). Da blir det vrient å produsere mye xG totalt i kampen, men cornerne en får blir ennå viktigere.
 
 ![Elitserien dødball,xg,mål og cornere](https://github.com/n0rthface43/Ball/assets/157420543/12a76f24-b6c3-4cb4-a364-56f738857ff4)
-Når en  sorterer etter akkumulert xG ser vi at det bare er RBK blant de fem øverste lagene som hadde "fortjent" en ekstra dødballskåring. De andre har fått betalt omtrent som forventet. Lenger ned på tabellen har Haugesund vært effektive og fått 1,5 mål mer enn det de har produsert. Det er interessant med Sandefjord som har skåret to mål på dødball etter 0,06 xG og kun har hatt fire cornere(de har selvfølgelig hatt frispark i tillegg, men begge målene deres kom fra cornere). Her trenger vi mer data for å se ut om Sandefjord kan fortsette å skåre mål på cornere, eller om de bare har vært utrolig heldige. Tallene indikerer det siste, fordi det er usannsynlig å skåre mange mål på små målsjanser over lengre tid. Når en ser på eksempelet med Sandefjord er det mange som lurer på om xG i det hele tatt er relevant. En skal ta statistikk etter kun tre runder med en stor klype salt, da det er tynt med datamateriale og det kan være stor varians. Dødballer, har av natur et preg av tilfeldigheter med seg. Over tid vil tallene likevel være en sterk indikator på målsjanser, og ofte er xG-tabellen til slutt veldig lik tabellen med antall mål. De dyktige lagene (les[denne](https://n0rthface43.github.io/Ball/set%20piece/Caseanalyse-Brentford-dodballer/)) om Brentford som kanskje er best i Premier League på akkurat dette, og deres xG tall og dødballmål over tid er alt annet enn tilfeldig. Og det til troos for at motstanderne spiller i Champions League. Det er svært effektivt, og her har alle lagene i eliteserien svært mye å hente.  
+
+Når en  sorterer etter akkumulert xG ser vi at det bare er RBK blant de fem øverste lagene som hadde "fortjent" en ekstra dødballskåring. De andre har fått betalt omtrent som forventet. Lenger ned på tabellen har Haugesund vært effektive og fått 1,5 mål mer enn det de har produsert. Det er interessant med Sandefjord som har skåret to mål på dødball etter 0,06 xG og kun har hatt fire cornere(de har selvfølgelig hatt frispark i tillegg, men begge målene deres kom fra cornere). Her trenger vi mer data for å se ut om Sandefjord kan fortsette å skåre mål på cornere, eller om de bare har vært utrolig heldige. Tallene indikerer det siste, fordi det er usannsynlig å skåre mange mål på små målsjanser over lengre tid. Når en ser på eksempelet med Sandefjord er det mange som lurer på om xG i det hele tatt er relevant. En skal ta statistikk etter kun tre runder med en stor klype salt, da det er tynt med datamateriale og det kan være stor varians. Dødballer, har av natur et preg av tilfeldigheter med seg. Over tid vil tallene likevel være en sterk indikator på målsjanser, og ofte er xG-tabellen til slutt veldig lik tabellen med antall mål. De dyktige lagene på dødball (les[denne](https://n0rthface43.github.io/Ball/set%20piece/Caseanalyse-Brentford-dodballer/)) om Brentford) er blitt svært dyktige til å både planlegge, skape rom og separere spillere i boksen, samtidig som de har ulike varianter mot ulike forsvarsstrategier. Og da blir deres xG tall og dødballmål over tid er alt annet enn tilfeldig. Det får Brentford til, til tross for at motstanderne spiller i Champions League. Det er svært effektivt, og her har alle lagene i eliteserien svært mye å hente.  
+
 ![Understat - xG   xP](https://github.com/n0rthface43/Ball/assets/157420543/97d1fba4-b565-4388-a3e4-0d6d970b98c0) Kilde: [Understat](https://understat.com/league/EPL)
 
 
 ![xG per corner](https://github.com/n0rthface43/Ball/assets/157420543/1f257648-9b40-44c8-90d0-cd569ee0c4b2)
+
 Akkumulert dødball-xG fordelt på antall cornere gir oss et ennå tydeligere bilde på hvilke lag som er dyktige på dødballer. ODD skaper fortsatt klart mest.  
 
 
 #### Marginer å hente
+
 O,15 xG sjanse Sørløkk(FFK vs Sarpsborg)            |  0,04 xG Kartum(Brann vs Viking)
 :-------------------------:|:-------------------------:
-![FFK 0,15 Sørløkk 84min](https://github.com/n0rthface43/Ball/assets/157420543/756c67cf-d782-4fbb-93e6-51f229419f6a)|![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f) 
+![FFK 0,15 Sørløkk 84min](https://github.com/n0rthface43/Ball/assets/157420543/756c67cf-d782-4fbb-93e6-51f229419f6a) | ![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f) 
 
 
 O,15 xG sjanse Sørløkk(FFK vs Sarpsborg)            |  0,04 xG Kartum(Brann vs Viking)
 :-------------------------:|:-------------------------:
-![FFK0,15xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/5110a821-3aa6-4745-b386-8eeb971e1e79)  |![Brann kartum0,04xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/49df50df-4e62-47d0-b318-2d1528a47537) 
+![FFK0,15xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/5110a821-3aa6-4745-b386-8eeb971e1e79)  
+ | ![Brann kartum0,04xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/49df50df-4e62-47d0-b318-2d1528a47537) 
 
 Her ser vi forskjellen på en sjanse som er gitt verdien 0,15 xG og verdien 0,04 xG av fotmob og opta. Vi ser av bildene at det er betydningsfull større sannsynlighet for at Sørløkk skårer på sin sjanse enn det er at Kartum setter sin. XG-modellene tar hensyn til vinkel, avstand til mål og forsvarsspillere i veien. De er ikke perfekte, men gir oss en klar idè om hvor stor en mulighet er. Det kan være utfordrende å forstå hvor stor en målsjanse med en gitt xG er, og hva forskjellen på for eksempel 0,1 og 0,2 xG innebærer. Og i hvilken grad den forskjellen kan bety noe. Når Odd skaper xG per dødball på 0,144 tilsvarer det muligheten til Sørløkk. Når Brann skaper i gjennomsnitt skaper 0,027 xG per dødball tilsvarer 
 
