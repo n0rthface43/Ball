@@ -41,7 +41,7 @@ O,15 xG sjanse Sørløkk(FFK vs Sarpsborg)            |  0,04 xG Kartum(Brann vs
 O,15 xG sjanse Sørløkk(FFK vs Sarpsborg)            |  0,04 xG Kartum(Brann vs Viking)
 :-------------------------:|:-------------------------:
 ![FFK0,15xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/5110a821-3aa6-4745-b386-8eeb971e1e79)  
- | ![Brann kartum0,04xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/49df50df-4e62-47d0-b318-2d1528a47537) 
+              | ![Brann kartum0,04xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/49df50df-4e62-47d0-b318-2d1528a47537) 
 
 Her ser vi forskjellen på en sjanse som er gitt verdien 0,15 xG og verdien 0,04 xG av fotmob og opta. Vi ser av bildene at det er betydningsfull større sannsynlighet for at Sørløkk skårer på sin sjanse enn det er at Kartum setter sin. XG-modellene tar hensyn til vinkel, avstand til mål og forsvarsspillere i veien. De er ikke perfekte, men gir oss en klar idè om hvor stor en mulighet er. Det kan være utfordrende å forstå hvor stor en målsjanse med en gitt xG er, og hva forskjellen på for eksempel 0,1 og 0,2 xG innebærer. Og i hvilken grad den forskjellen kan bety noe. Når Odd skaper xG per dødball på 0,144 tilsvarer det muligheten til Sørløkk. Når Brann skaper i gjennomsnitt skaper 0,027 xG per dødball tilsvarer 
 
