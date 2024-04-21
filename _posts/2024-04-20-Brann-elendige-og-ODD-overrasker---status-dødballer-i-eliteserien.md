@@ -23,15 +23,21 @@ Når en  sorterer etter akkumulert xG ser vi at det bare er RBK blant de fem øv
 ![Understat - xG   xP](https://github.com/n0rthface43/Ball/assets/157420543/97d1fba4-b565-4388-a3e4-0d6d970b98c0) Kilde: [Understat](https://understat.com/league/EPL)
 
 
+![xG per corner](https://github.com/n0rthface43/Ball/assets/157420543/1f257648-9b40-44c8-90d0-cd569ee0c4b2)
+Akkumulert dødball-xG fordelt på antall cornere gir oss et ennå tydeligere bilde på hvilke lag som er dyktige på dødballer. ODD skaper fortsatt klart mest.  
+
+
+#### Marginer å hente
 O,15 xG sjanse Sørløkk(FFK vs Sarpsborg)            |  0,04 xG Kartum(Brann vs Viking)
 :-------------------------:|:-------------------------:
-![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f)  | ![FFK 0,15 Sørløkk 84min](https://github.com/n0rthface43/Ball/assets/157420543/223faa29-36a0-4d01-8406-4231807f79bf)
-
+![FFK 0,15 Sørløkk 84min](https://github.com/n0rthface43/Ball/assets/157420543/756c67cf-d782-4fbb-93e6-51f229419f6a)|![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f) 
 
 
 O,15 xG sjanse Sørløkk(FFK vs Sarpsborg)            |  0,04 xG Kartum(Brann vs Viking)
 :-------------------------:|:-------------------------:
-![FFK0,15xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/5110a821-3aa6-4745-b386-8eeb971e1e79)  |  ![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f)
+![FFK0,15xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/5110a821-3aa6-4745-b386-8eeb971e1e79)  |![Brann kartum0,04xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/49df50df-4e62-47d0-b318-2d1528a47537) 
+
+Her ser vi forskjellen på en sjanse som er gitt verdien 0,15 xG og verdien 0,04 xG av fotmob og opta. Vi ser av bildene at det er betydningsfull større sannsynlighet for at Sørløkk skårer på sin sjanse enn det er at Kartum setter sin. XG-modellene tar hensyn til vinkel, avstand til mål og forsvarsspillere i veien. De er ikke perfekte, men gir oss en klar idè om hvor stor en mulighet er. Det kan være utfordrende å forstå hvor stor en målsjanse med en gitt xG er, og hva forskjellen på for eksempel 0,1 og 0,2 xG innebærer. Og i hvilken grad den forskjellen kan bety noe. Når Odd skaper xG per dødball på 0,144 tilsvarer det muligheten til Sørløkk. Når Brann skaper i gjennomsnitt skaper 0,027 xG per dødball tilsvarer 
 
 
 ### Oppsummering
