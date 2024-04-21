@@ -1,3 +1,14 @@
+---
+title: "Brann elendige og ett lag overrasker- dødballer i eliteserien - status etter tre serierunder"
+excerpt_separator: "<!--more-->"
+categories:
+  - Set piece
+  - Eliteserien
+tags:
+  - Eliteserien
+  - Set piece
+---
+
 Tre runder av elitserien er spilt. Vi har begynt å danne oss et bilde av hvordan lagene ser ut, hvem som kommer til å være i toppen og hvem som kommer til å kjempe om å unngå nedrykk. Etter tre runder har det blitt skåret 58 mål. Av disse har 12 mål kommet på dødball. Hvilket lag tenker du er farligst på dødballer sålangt? I denne artikkelen vil jeg undersøke hvor mye sjanser/forventede mål(xG) lagene har skapt på dødball. Tallene er hentet fra fotmob, som benytter data fra opta.  
 
 ![Eliteserien xG dødball 20 4 2024](https://github.com/n0rthface43/Ball/assets/157420543/5a80f8b4-ef9f-49d0-bd7f-7fb8eb59c4f9) Kilde:[fotmob](https://www.fotmob.com/nb/leagues/59/matches/eliteserien/by-round?round=1). 
