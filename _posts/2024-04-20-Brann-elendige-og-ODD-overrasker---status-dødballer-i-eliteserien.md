@@ -27,6 +27,9 @@ Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f)  |  ![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f))
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f)  |  ![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f)
 
 
 https://www.fotmob.com/nb/matches/brann-vs-viking/2dhus9#4385416
