@@ -33,20 +33,19 @@ Akkumulert dødball-xG fordelt på antall cornere gir oss et ennå tydeligere bi
 
 #### Marginer å hente
 
-O,15 xG sjanse Sørløkk(FFK vs Sarpsborg)            |  0,04 xG Kartum(Brann vs Viking)
+O,12 xG Sørløkk(FFK vs Sarpsborg)            |  0,04 xG Kartum(Brann vs Viking)
 :-------------------------:|:-------------------------:
 ![FFK 0,15 Sørløkk 84min](https://github.com/n0rthface43/Ball/assets/157420543/756c67cf-d782-4fbb-93e6-51f229419f6a) | ![Kartum 0,04xG](https://github.com/n0rthface43/Ball/assets/157420543/9234b064-df32-40e9-a934-331c6cd9548f) 
 
 
-O,15 xG sjanse Sørløkk(FFK vs Sarpsborg)            |  0,04 xG Kartum(Brann vs Viking)
+O,12 xG sjanse Sørløkk(FFK vs Sarpsborg)            |  0,04 xG Kartum(Brann vs Viking)
 :-------------------------:|:-------------------------:
-![FFK0,15xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/5110a821-3aa6-4745-b386-8eeb971e1e79)  
-              | ![Brann kartum0,04xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/49df50df-4e62-47d0-b318-2d1528a47537) 
+![FFK0,15xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/5110a821-3aa6-4745-b386-8eeb971e1e79)   | ![Brann kartum0,04xG_1 1 1](https://github.com/n0rthface43/Ball/assets/157420543/49df50df-4e62-47d0-b318-2d1528a47537) 
 
-Her ser vi forskjellen på en sjanse som er gitt verdien 0,15 xG og verdien 0,04 xG av fotmob og opta. Vi ser av bildene at det er betydningsfull større sannsynlighet for at Sørløkk skårer på sin sjanse enn det er at Kartum setter sin. XG-modellene tar hensyn til vinkel, avstand til mål og forsvarsspillere i veien. De er ikke perfekte, men gir oss en klar idè om hvor stor en mulighet er. Det kan være utfordrende å forstå hvor stor en målsjanse med en gitt xG er, og hva forskjellen på for eksempel 0,1 og 0,2 xG innebærer. Og i hvilken grad den forskjellen kan bety noe. Når Odd skaper xG per dødball på 0,144 tilsvarer det muligheten til Sørløkk. Når Brann skaper i gjennomsnitt skaper 0,027 xG per dødball tilsvarer 
+Vi ser av bildene at det er en større målsjanse for at Sørløkk skårer på sin sjanse enn det er at Kartum setter sin, og 0,08 høyere xG på skuddet til Sørløkk. 0,08 høres lite ut, men over tid kan det være nok til å få litt større sjanser og litt flere mål. Når Odd i gjennomsnitt skaper 0,144 xG per dødball tilsvarer det faktisk en litt større mulighet enn skuddet til Sørløkk. Når Brann skaper i gjennomsnitt skaper 0,027 xG per dødball tilsvarer det i gjennomsnitt en ennå mindre målsjans enn skuddet til Kartum. Over en sesong kan dette være det som bidrar til å vippe medaljene den ene veien eller hvem som spiller i OBOS-ligaen neste år.
 
 
 ### Oppsummering
-Odd har sålangt, produsert klart mest xG på dødball. FFK, RBK og Bodø Glimt har også produsert en del gode målsjanser. De aller fleste lagene har fått betalt omtrent ut i fra xG de har akkumulert. Noen lag har fått bedre(Haugesund og Sandefjord), mens RBK hadde fortjent ett dødballmål. Antallet cornere er ulikt og gir noen lag forutsetninger for å skape mye mer på dødballer enn det de har gjort. Når en tar hensynet til antallet cornere kommer Odd og FFK fortsatt sævrt godt ut, mens Molde, LSK og Brann viser tegn på enormt forbedringspotensiale. Datamaterialet er litt tynt med kun tre serierunder og det øker sannsynligheten for varians med lag som skårer mye mer(Sandefjord og Haugesund) eller mindre(RBK) enn sjansene de har akkumulert. Det blir interessant å se hvordan dette utvikler seg når en får mer data.
+Odd har sålangt, produsert klart mest xG på dødball. FFK, RBK og Bodø Glimt har også produsert en del gode målsjanser. De aller fleste lagene har fått betalt omtrent ut i fra xG de har akkumulert. Noen lag har fått bedre(Haugesund og Sandefjord), mens RBK hadde fortjent ett dødballmål. Antallet cornere er ulikt og gir noen lag forutsetninger for å skape mye mer på dødballer enn det de har gjort. Når en tar hensynet til antallet cornere kommer Odd og FFK fortsatt svært godt ut, mens Molde, LSK og Brann viser tegn på enormt forbedringspotensiale. Datamaterialet er litt tynt med kun tre serierunder og det øker sannsynligheten for varians med lag som skårer mye mer(Sandefjord og Haugesund) eller mindre(RBK) enn sjansene de har akkumulert. Det blir interessant å se hvordan dette utvikler seg når en får mer data, og også å se nærmere på hva hvert av lagene gjør på sine dødballer. 
 
 
