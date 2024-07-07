@@ -1,8 +1,8 @@
-Bodø Glimt certainly put up an impressive performance against Ajax in the Conference League, and the 2-2 draw was quite entertaining. Let’s take a closer look at why Glimt might have been disappointed with the result after the match.
-
-Let's start with their brilliant first goal. Here they solve the pressure from Ajax with creating 3v2 and then the timing of movement and passes between Berg and Grønbæk is perfect. Pure class.   
+Bodø Glimt certainly put up an impressive performance against Ajax in the Conference League, and the 2-2 draw was quite entertaining. Let’s take a closer look at Bodø Glimts performance.
 
 {% include video id="914601318" provider="vimeo" %}
+
+Let's start with the highlight of the game, the brilliant first goal. Here Glimt solve the pressure from Ajax with creating 3v2. That overload results in opportunity to pass forward. Then the timing of movement and passes between Berg and Grønbæk is perfect. Football at the highest level, pure class.   
 
 Glimt effectively dealt with Ajax’s high pressing by finding space on the sides of Ajax’s midfield. They achieved this through direct passes to their central midfielders and overlapping runs from the fullbacks when Ajax’s defensive line was narrow. Prior to both of Glimt’s goals, there were passes through the lines to Grønbæk, who initiated the attacks. Additionally, Glimt’s center-backs engaged Ajax’s attackers during the press, freeing up a teammate.
 
