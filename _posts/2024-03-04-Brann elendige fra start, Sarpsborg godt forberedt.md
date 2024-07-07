@@ -44,7 +44,7 @@ Sarpsborg forsvarte seg i en sone variant med 1 på første stolpe, 3 langs femm
 Muligheter vs Sarpsborg: Markeringen på første stolpe står langt inne ved stolpen. Det er mulig å få til en avslutning fra femmeteren på første stolpe. De sterkeste hodespillerne står i sonen. Om en kan isolere noen av de andre fire som mannsmarkerer mot en god hodespiller kan det øke muligheten for å skape en god målsjanse. 
 
 
-###Cornertabellen
+###Cornertabellen<br>
 Sarpsborg<br>
 Viking<br>
 Brann
