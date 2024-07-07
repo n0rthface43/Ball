@@ -9,13 +9,13 @@ UEFA B-lisence
 Statsbomb:Introduction to football analytics 
 [(kurssertifikat)](https://courses.statsbomb.com/certificates/pxcspldijl/)
 
-Deltakelse på hacktathon, event med fotballanalyse: [(Info om event)([(https://hackathon.xfbanalytics.com/?trk=public_post_comment-text)].
+Participiant at football analytics hacktathon: [(Event information)([(https://hackathon.xfbanalytics.com/?trk=public_post_comment-text)].
 
 Coaching experience: 
-Ullern(2024)
+Ullern(present)
 BK SKjold(Denmark)
 NTNUI Futsal
 
 
-### Om meg
-{{ site.author.name }} heter jeg, og er en 33 år gammel matematikklærer, fotballfan og hobbyanalytiker. Jeg bor og jobber i Oslo. Jeg er fotballnerd, og nå har jeg begynt å lage analyser. Dødballer er min spesialitet. Ta gjerne kontakt om du er interessert i å høre mer, kommentarer til artiklene eller bare en fotballprat. Jeg er åpen for oppdrag og kan veilede både klubb og enkelt lag. Foretrekker e-post, mobil eller linkedin. 
+###Om meg
+{{ site.author.name }} heter jeg, og er en 33 år gammel fotballfan og hobbyanalytiker. Jeg bor og jobber i Oslo. Jeg er fotballnerd, lager analyser. Ekstra interessert i dødballer, spiller og laganalyser. Jeg er åpen for oppdrag og kan veilede både klubb og enkelt lag. Foretrekker e-post, mobil eller linkedin. 
