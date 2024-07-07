@@ -1,10 +1,9 @@
-Første runde av eliteserien er over, og jeg har selvfølgelig undersøkt det alle lurer på, hva alle lagene i eliteserien gjorde på cornere! Jeg har sett på både defensive og offensive cornere. I tillegg har jeg prøvd å si noe om hvordan en kan angripe lagenes ulike forsvarsoppstillinger på cornerne. Cornertabellen med hvem jeg tror vil gjøre det bra på cornere kommer til slutt! La oss ta en titt!
+Første runde av eliteserien er over, og jeg har selvfølgelig undersøkt det alle lurer på, strategien på cornere! Jeg har sett på Brann, Viking og Sarpsborg, både defensive og offensive cornere. I tillegg har jeg prøvd å si noe om hvordan en kan angripe lagenes ulike forsvarsoppstillinger på cornerne. Cornertabellen med hvem jeg tror vil gjøre det best på cornere av de tre kommer til slutt! La oss ta en titt!
 
 ### Brann(Vs Tromsø): 
 Forsvar:
 Brann setter tre mann i sone, på første stolpe og midten foran keeper. To mann hadde løsere markering og ligger nærmere 16m(Finne og Mathisen/Castro) og resten mannsmarkerer.
 ![Brann forsvar](https://github.com/n0rthface43/Ball/assets/157420543/494250f5-d372-4f45-9a96-5e5aa25dafcc)
-
 
 
 Angrep:
@@ -18,7 +17,7 @@ Brann angriper med 4 mann som samlet løper inn. Finne starter bak de andre og k
 
 {% include video id="930404101" provider="vimeo" %}
 ### Tromsø - forsvar
-Tromsø en tydelig strategi om å forsvare med 5 mann i sone. Tok ned alle mann mot Brann. Resten mannsmarkerer. Fordel med så mange i sone er at de har noen langs hele femmeteren fra første til bakre stolpe. 
+Tromsø en tydelig strategi om å forsvare med 5 mann i sone. Tok ned alle mann mot Brann. Resten mannsmarkerer. Fordel med så mange i sone er at de har noen langs hele femmeteren fra første til bakre stolpe. Ulempen er at at Tromsø vil havne i undertall mot Branns angripere. Dette kan utnyttes ved å isolere sterke hodespillere mot svakere hodespillere i et område eller skape overtall.
 
 
 
@@ -45,9 +44,8 @@ Sarpsborg forsvarte seg i en sone variant med 1 på første stolpe, 3 langs femm
 Muligheter vs Sarpsborg: Markeringen på første stolpe står langt inne ved stolpen. Det er mulig å få til en avslutning fra femmeteren på første stolpe. De sterkeste hodespillerne står i sonen. Om en kan isolere noen av de andre fire som mannsmarkerer mot en god hodespiller kan det øke muligheten for å skape en god målsjanse. 
 
 
-Cornertabellen
-Sarpsborg
-Viking
-Tromsø
+###Cornertabellen
+Sarpsborg<br>
+Viking<br>
 Brann
 
