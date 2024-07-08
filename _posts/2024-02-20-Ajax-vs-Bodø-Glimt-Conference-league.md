@@ -14,11 +14,11 @@ Brice Wembangomo’s one-on-one ability going forward was crucial when Glimt fac
 
 In another instance, when Ajax pressed high, Glimt exploited space on their left side. Gundersen engaged Brobbey and Berghuis to press, and Berghuis positioned himself wide. Gundersen found a passing lane to Grønbæk with excellent timing, and Bjørkan made a well-timed run to receive the ball and drive toward Ajax’s defensive line. Notice how Hauge and Evjen stayed high, pinning Ajax’s fullback and center-back to prevent them from pressing.
 
-{% include video id=“914600806” provider=“vimeo” %}
+{% include video id="914600806" provider="vimeo" %}
 
 Ajax pressed even higher in the next situation. Berghuis positioned himself narrower this time, creating space for Bjørkan. Glimt managed to escape the pressure, and the larger distances between Ajax players allowed for multiple opportunities. Berg was open for most of the sequence, and he created a great chance for Zugelj.
 
-{% include video id=“914600772” provider=“vimeo” %}
+{% include video id="914600772" provider="vimeo" %}
 
 When Bodø Glimt pressed high (which was rare in this match), their front three stayed narrow. Evjen occasionally dropped into midfield, while the wingers pushed higher. This made it difficult for Ajax to find central spaces, where Glimt had more players controlling the game.
 
