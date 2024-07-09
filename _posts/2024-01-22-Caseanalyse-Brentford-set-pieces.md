@@ -10,32 +10,59 @@ tags:
   - Brentford
 ---
 
-H2 Øyeblikksanalyse av dødballene til Brentford
 ------------
-Brentford er kjent for å være svært dyktige på dødballer. De er innovative i bruk av data og analyse og skaper mye mål og målsjanser. Men hvor gode er de egentlig, sammenliknet med resten av Premier League? Og hva er det egentlig Brentford gjør på dødball som funker? De to spørsmålene har jeg forsøkt å finne svar på. For å svare på det siste har jeg sett på dødballene til Brentford i kampen mot Nottingham Forest 20. januar. Jeg har valgt å fokusere på offensive frispark og cornere.
+### A game analysis of Brentfords set pieces
+------------
+Brentford are known for being very good at set pieces. They are innovative in their use of data and analytics and create a lot of goals and scoring chances. How good are they compared to the rest of the Premier League? And what is behind their high creation of chances ang goals from this set-pieces? I've tried to find answers to these two questions. To answer the latter, I've looked at Brentford's set pieces in the match against Nottingham Forest on January 20. I've chosen to limit my research to offensive free kicks and corners.
 
-
-#### Hvor gode er Brentford på dødballer?
+#### How good are Brentford at set pieces?
 ![figur-a](https://github.com/n0rthface43/Ball/assets/157420543/fc6bc51d-3ac0-428b-a3c3-a2045801940f)
 
-Figur a. XgSP viser xG fra set pieces for hvert av lagene (inkludert straffer). Data er hentet fra Xg score.
+Figure-a. XgSP shows the xG from set pieces for each of the teams (including penalties). The data is taken from Xg-score.
 
-Det korte svaret er at Brentford er det fjerde beste laget i Premier League på dødballer. Per 24. januar 2024 er de nummer fire på tabellen over xG (forventede mål) etter dødballer i Premier League. Straffer er inkludert i de 11,7 xG. Brentford har fått 3 straffer hittil i sesongen. Det har sålangt blitt tildelt totalt 55 straffer i PL sålangt. Det tilsvarer gjennomsnittlig 2,75 straffer per lag, så straffene endrer ikke nevneverdig på statistikken for Brentfords del. Faktisk har alle tre lagene som har høyere xG på dødball enn Brentford, fått flere straffer, Liverpool(4), Arsenal (6), og Chelsea(7). Så la oss kikke nærmere på cornerne.For denne analysen vil jeg konsentrere meg om frispark og cornere.  
+The short answer is that Brentford are the fourth best team in the Premier League at set pieces. As of January 24, 2024 they are fourth in the Premier League for xG (expected goals) table for set pieces. Here, penalty kicks are included in the xG of 11.7. Brentford has been awarded 3 penalties so far this season. There have been 55 penalty kicks awarded in PL so far this season.
 
 ![figur-b](https://github.com/n0rthface43/Ball/assets/157420543/6f6839d1-e650-4e12-b44f-9f9b944f2a51)
 
-Figur b. Viser antall cornere og expected goals fra dødballer(xGSP). Data er hentet fra [totalcorner](https://www.totalcorner.com/league/corner_stats/1) og [xgscore](https://xgscore.io/xg-statistics/epl).
+Figure b. Shows the number of corners and expected goals from set pieces (xGSP). Data is taken from [totalcorner](https://www.totalcorner.com/league/corner_stats/1) og [xgscore](https://xgscore.io/xg-statistics/epl).
 
-Ut fra statistikken ser vi at Brentford har 98 cornere. Det er lite sammenliknet med de fleste andre lagene i Premier League. Likevel har de skåret fjerde høyest på xG fra dødballer. Dette tyder på at Brentford utnytter sine cornere i større grad til å skape målsjanser enn lagene som får omtrent like mange cornere (West Ham, Newcastle Everton, Palace og Luton). De skaper også mer målsjanser enn mange av lagene som har flere cornere (Tottenham, Bournemouth, Manchester United. Brentford skaper flere målsjanser på dødball enn for eksempel Manchester City, til tross for at Manchester City har 141, det vil si 43 flere cornere. Chelsea, Liverpool og Arsenal har høyere total xG på dødballer enn Brentford. Chelsea(107), Liverpool(138) og Arsenal(162!) cornere. Arsenal har altså hatt 64 flere enn Brentford. Om en tenker xG per corner. kan en kanskje hevde at Brentford er ligaens beste lag på corner!
+According to the statistic Brentford scores fourth highest on xG from set pieces. However, Brentford have a only 98 corners. This is low compared to most of the other teams in Premier League. This suggests that Brentford are utilizing their corners to create more scoring chances than the teams that receive roughly the same number of corners (West Ham, Newcastle Everton, Palace and Luton). They also create more goal-scoring chances than many of the teams that have more corners (Tottenham, Bournemouth, Manchester United. Brentford create more goal scoring chances from set pieces than for example Manchester City, despite Manchester City having 141, i.e. 43 more corners. Chelsea, Liverpool and Arsenal have higher total xG on set pieces than Brentford. Chelsea(107), Liverpool(138) and Arsenal(162!) corners. So Arsenal have had 64 more than Brentford. If you think about xG per corner, you could argue that Brentford is the league's best team at corners!
 
 ![figur-c](https://github.com/n0rthface43/Ball/assets/157420543/f19d8afa-b20d-4fb2-b51a-8d1c68769135)
 
-Figur c. Mål per 100 corner fra PL 2022/23. Hentet fra Athletic(data fra opta).
+Figur c. Goals per 100 corner from PL 2022/23. Taken from The Athletic(data from opta).
 
-Statistikken fra The Athletic viser mål per corner fra forrige sesong. Forrige sesong skåret Brentford 5,6 mål per 100. dødball. Et foreløpig svar på spørsmålet fra begynnelsen, må være at Brentford er et av ligaens aller beste lag på offensiv dødball. Derfor er det interessant å se nærmere på Brentford tilnærming til disse dødballene. Jeg har laget en "øyeblikksanalyse" av dødballene i kampen mot Nottingham Forest og begrenset meg til offensive frispark og cornere. Brentford skapte i denne kampen 1,13 (xg) på disse situasjonene[(Understat)](https://understat.com/match/22104/ "Understat"). Totalt skapte Brentford 1,94 xg i denne kampen. Frispark og corner utgjorde 58% av dette. Nedenfor følger en oversikt over strategien til Brentford på deres offensive cornerne og frispark mot Forest.
+The stats from The Athletic show goals per corner from last season. Last season Brentford scored 5.6 goals per 100 set piece. The so-far-answer to the question from the beginning, must be that Brentford is one of the league's very best teams at offensive set pieces. So let's take a closer look at Brentford's approach to these set pieces. I've done a 'snapshot' analysis of the set-pieces in the match against Nottingham Forest and limited myself to attacking free-kicks and corners. Brentford created 1.13 (xg) on these situations in this match[(Understat)](https://understat.com/match/22104/ "Understat"). In total Brentford created 1.94 xg in this match. Free kicks and corners accounted for 58% of this. Below is an overview of Brentford's strategy on their offensive corners and free kicks against Forest.
 
-##### 12 min Frispark Mathias Jensen
+
+
+##### 12 min Freekick Mathias Jensen
 ![figur-en](https://github.com/n0rthface43/Ball/assets/157420543/fd62670c-88a8-4d78-9ddc-fdc6ec66cb72)
+Figure 1: Nottingham set a high line. Brentford have two men offside before the ball goes. The rest of Brentford's players are gathered at the far end of Forest's horizontal defensive line (except Røerslev on the right). 
+
+![figur-to](https://github.com/n0rthface43/Ball/assets/157420543/19f75394-e244-46a3-b05d-c6376d24dc1d)
+Figure 2: Toney and Maupay position themselves in an offside position before the free kick is taken. 
+
+![figur-tre](https://github.com/n0rthface43/Ball/assets/157420543/4c2a5ac2-0a8d-40e3-bd62-5b82007e9d1d)
+Figure 3: The free kick is taken towards the far post, towards Pinnock, Mee and Collins. Forest begin to drop their defence line as the ball goes.
+
+![figur-fire](https://github.com/n0rthface43/Ball/assets/157420543/ac3f614f-b452-4af9-b863-25e13645d281)
+Figure 4: Mee wins in the air and heads the ball in centrally. Toney and Maupay are now onside and heading into the space behind.
+
+![figur-fem](https://github.com/n0rthface43/Ball/assets/157420543/fb6df5d8-1736-4440-b2da-e2ccc116f12d)
+Figure 5: Mee's header is too short and Forest get the clearance. 
+
+##### 19 min - direct free kick Ivan Toney 
+![figur-seks](https://github.com/n0rthface43/Ball/assets/157420543/32a40513-f997-405a-a54f-71f741df994c)
+Figure 6. Forest have set up a wall with a man lying behind the wall. 
+
+![figur-syv](https://github.com/n0rthface43/Ball/assets/157420543/4b674dc2-6a4e-4262-9782-d9b3a0098969)
+Figure 7. Ivan Toney grabs the ball after Forest's wall has been set.
+
+Figure 8. Toney moves the ball 20-30 cm to the side from where it was originally located. Toney shoots the ball in the nearest corner, around the wall.
+
+Summary of strategy: Toney succeeds at the first attempt in his comeback! Brentford put two men behind the wall to disrupt the goalkeeper's view. This helps reduce the time the goalkeeper has to react if Toney chooses the far corner. After Forest has set the wall, Toney moves the ball 20-30 cm to the side. That was enough to shoot the ball around the wall and into the shortest corner. A cheeky and successful move by Toney and Brentford. The shot is set at 0.11 xg [(Understat)](https://understat.com/match/22104/ "Understat")
+
 Figur 1: Nottingham setter linjen høyt. Brentford har to mann i offside før ballen går. Resten av spillerne til Brentford er samlet helt i enden av den horisontale forsvarslinjen til Forest(unntak er Røerslev til høyre). 
 
 ![figur-to](https://github.com/n0rthface43/Ball/assets/157420543/19f75394-e244-46a3-b05d-c6376d24dc1d)
@@ -60,7 +87,7 @@ Figur 7. Ivan Toney tar tak i ballen etter at muren til Forest er satt.
 ![figur-otte](https://github.com/n0rthface43/Ball/assets/157420543/780c074a-7816-4435-8b51-0fda6f28b67c)
 Figur 8. Toney flytter ballen 20-30 cm til siden fra der den opprinnelig lå. Toney skyter ballen i nærmeste hjørnet, rundt muren.
 
-Oppsummering av strategi: Toney lykkes på første forsøk i sitt comeback! Brentford setter to mann bak muren for å forstyrre sikten til keeperen. Det bidrar til å redusere tiden keeperen får til å reagere om skytter (Toney) velger det lengste hjørnet. Etter at Forest har satt muren flytter Toney ballen 20-30 cm til siden. Det var nok til å kunne skyte ballen rundt muren og i det korteste hjørnet. Et frekt, og vellykket trekk av Toney og Brentford. Skuddet er satt til 0,11 xg (Understat).
+Oppsummering av strategi: Toney lykkes på første forsøk i sitt comeback! Brentford setter to mann bak muren for å forstyrre sikten til keeperen. Det bidrar til å redusere tiden keeperen får til å reagere om skytter (Toney) velger det lengste hjørnet. Etter at Forest har satt muren flytter Toney ballen 20-30 cm til siden. Det var nok til å kunne skyte ballen rundt muren og i det korteste hjørnet. Et frekt, og vellykket trekk av Toney og Brentford. Skuddet er satt til 0,11 xg (Understat).https://understat.com/match/22104
 
 ##### 24min - Corner fra venstre (Mathias Jensen)
 ![figur-ni](https://github.com/n0rthface43/Ball/assets/157420543/2f631067-75c2-4a77-965e-1f4e3293f37e)
