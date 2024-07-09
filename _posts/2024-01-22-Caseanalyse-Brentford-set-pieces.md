@@ -65,7 +65,7 @@ Summary of strategy: Toney succeeds at the first attempt in his comeback! Brentf
 
 ##### 24min - Corner from left (Mathias Jensen)
 ![figur-ni](https://github.com/n0rthface43/Ball/assets/157420543/2f631067-75c2-4a77-965e-1f4e3293f37e)
-Figure 9. Brentford set up a man offering a short solution at the corner flag, and a man down at the dead ball line, and one just outside 16m (Lewis Potter). Brentford put 5 men close to the penalty spot. Forest have 3 men in zone marking. Two men following Brentford's two short options, and the rest man-marking. Note that Forest don't have anyone on the edge of the 16m.
+Figure 9. Brentford set up a man offering a short solution at the corner flag, and a man down at byline, and one just outside 16m (Lewis Potter). Brentford put 5 men close to the penalty spot. Forest have 3 men in zone marking. Two men following Brentford's two short options, and the rest man-marking. Note that Forest don't have anyone on the edge of the 16m.
 
 ![figur-ti](https://github.com/n0rthface43/Ball/assets/157420543/308eede0-ff23-4d34-bd1a-ad38616d751e)
 Figure 10. Five Brentford players in the box are almost on a horizontal line before the corner is taken. Forest man-mark four of them, Maupay is free.
@@ -108,7 +108,7 @@ Brentford's set-up is similar to the previous corner. It's obvious that the aim 
 
 #### 58 min - corner from left(Mathias Jensen)
 ![figur-tjueen](https://github.com/n0rthface43/Ball/assets/157420543/ae35308e-1ea6-4135-8bcf-c233d88b648b)
-Figure 21. Brentford have again put a man on the dead ball line. Two men offside at the 16, the rest in the box between the penalty area and 16m.
+Figure 21. Brentford have again put a man on the byline. Two men offside at the 16, the rest in the box between the penalty area and 16m.
 
 ![figur-tjueto](https://github.com/n0rthface43/Ball/assets/157420543/a55cdb4b-ed30-4931-8f4e-68d6e234f41a)
 Figure 22. In addition to the zone, Forest have man marking on Brentford's players in the box. Mee(16) is marked by Montiel.
