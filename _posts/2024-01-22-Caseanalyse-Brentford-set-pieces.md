@@ -1,5 +1,5 @@
 ---
-title: "The set piece specialists- Brentford"
+title: "The Set Piece Specialists: Brentford"
 excerpt_separator: "<!--more-->"
 categories:
   - Set piece
