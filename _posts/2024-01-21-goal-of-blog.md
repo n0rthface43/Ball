@@ -2,11 +2,8 @@
 title: "My first blog post"
 excerpt_separator: "<!--more-->"
 categories:
-  - Personal
 tags:
-  - Personal
   - Programming
-  - Competence
   - Learning
 ---
 
