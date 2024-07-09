@@ -2,7 +2,6 @@
 title: "Danish Dynamite: Albert Grønbæk"
 excerpt_separator: "<!--more-->"
 categories:
-  - Set piece
   - Albert Grønbæk
   - Bodø Glimt
 tags:
