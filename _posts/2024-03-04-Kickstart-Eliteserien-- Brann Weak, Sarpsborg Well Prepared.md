@@ -1,3 +1,18 @@
+---
+title: "Kickstart-Eliteserien - Brann Weak, Sarpsborg Well Prepared"
+excerpt_separator: "<!--more-->"
+categories:
+  - Set piece
+  - Eliteserien
+  
+tags:
+  - Eliteserien
+  - Brann
+  - Sarpsborg
+  - Viking
+  - Set piece
+---
+
 Eliteserien is finally back. I have started with Brann, Viking and Sarpsborg. Lets investigate their set pieces and see how they defend and if they can be dangerous on attack this season.  I have looked at both their defensive and offensive corners. In addition, I've tried to say something about how to attack the teams' different defensive positions at corners. The corner table with who I think will do best at corners out of the three comes at the end! Let's take a look!
 
 ### Brann (vs. Tromsø): 
