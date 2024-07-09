@@ -1,3 +1,10 @@
+Eliteserien is finally back. I have started with Brann, Viking and Sarpsborg. Lets investigate their set pieces and see how they defend and if they can be dangerous on attack this season.  I have looked at both their defensive and offensive corners. In addition, I've tried to say something about how to attack the teams' different defensive positions at corners. The corner table with who I think will do best at corners out of the three comes at the end! Let's take a look!
+
+### Brann(Vs Tromsø): 
+Defence:
+Brann put three men in the zone, at the first post and centre in front of the keeper. Two men had looser marking and are closer to 16m(Finne and Mathisen/Castro) and the rest are man marking.
+![Brann forsvar](https://github.com/n0rthface43/Ball/assets/157420543/494250f5-d372-4f45-9a96-5e5aa25dafcc)
+
 Første runde av eliteserien er over, og jeg har selvfølgelig undersøkt det alle lurer på, strategien på cornere! Jeg har sett på Brann, Viking og Sarpsborg, både defensive og offensive cornere. I tillegg har jeg prøvd å si noe om hvordan en kan angripe lagenes ulike forsvarsoppstillinger på cornerne. Cornertabellen med hvem jeg tror vil gjøre det best på cornere av de tre kommer til slutt! La oss ta en titt!
 
 ### Brann(Vs Tromsø): 
