@@ -58,31 +58,31 @@ author:
   name  : "Henrik Schjøth"
   age : 
   education : ""
-  education_place : "NTNU, Trondheim"
+  education_place : "NTNU, Trondheim and Oslomet, Oslo"
   education_duration : 
-  location: ""
+  location: "Oslo"
   searching_job : "true"
-  avatar : "/assets/images/Bilde1.jpg"
+  avatar : "/assets/images/b2.jpg"
   bio    : "Passionate football fan :coffee: Enjoys analyzing football.  :mag_right:"
   links:
-    - label: "Twitter"
+    - label: "Twitter/x"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/Henrikschjoth"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/n0rthface43"
+      url: "https://github.com/n0rthface43/Ball"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/henrik-schjoth/"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "Twitter/x"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/Henrikschjoth"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/n0rthface43/Ball"
 
 defaults:
   # _posts
