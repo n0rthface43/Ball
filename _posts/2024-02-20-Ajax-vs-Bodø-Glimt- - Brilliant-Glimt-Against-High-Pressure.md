@@ -1,3 +1,15 @@
+---
+title: "Ajax-vs-Bodø-Glimt- - Brilliant-Glimt-Against-High-Pressure"
+excerpt_separator: "<!--more-->"
+categories:
+  - Bodø Glimt
+tags:
+  - Analyse
+  - Conference League
+  - Ajax
+  - Bodø Glimt
+  - Albert Grønbæk
+---
 Bodø Glimt certainly put up an impressive performance against Ajax in the Conference League, and the 2-2 draw was quite entertaining. Let’s take a closer look at Bodø Glimts performance.
 Let's start with the highlight of the game, the brilliant first goal. Here Glimt solve the pressure from Ajax with creating 3v2. That overload results in opportunity to pass forward. Then the timing of movement and passes between Berg and Grønbæk is perfect. Football at the highest level, pure class.   
 
