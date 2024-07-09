@@ -1,5 +1,5 @@
 
-### Danish dynamite - Albert Erlykke Grønbæk 
+### Danish Dynamite - Albert Erlykke Grønbæk 
 5? 8? 10? 15?... or 20 million pounds? How much is Bodø Glimt player Albert Grønbæk worth? 9,8 million pounds is definitely not enough to get Bodø Glimt to sell Grønbæk. Charlotte had the offer rejected, and Grønbæk subsequently signed a new contract(until 2028). Grønbæk was bought for around 1,96 million pounds from danish AGF in August 2022. Transfermarkt values him now at 10 million pounds. He top the value list in the norwegian Eliteserien, three million pounds more than the next player on the list (Sverre Nypan(Rosenborg)).
 
 ![Transfermarkt A G Value](https://github.com/n0rthface43/Ball/assets/157420543/a425449a-ed8f-48a8-8159-2808333296df)
