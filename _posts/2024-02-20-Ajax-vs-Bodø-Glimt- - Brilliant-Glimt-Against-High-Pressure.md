@@ -1,5 +1,5 @@
 ---
-title: "Ajax-vs-Bodø-Glimt- - Brilliant-Glimt-Against-High-Pressure"
+title: "Ajax vs. Bodø-Glimt: Brilliant Glimt Against High Pressure"
 excerpt_separator: "<!--more-->"
 categories:
   - Bodø Glimt
@@ -19,7 +19,7 @@ Brice Wembangomo’s one-on-one ability going forward was crucial when Glimt fac
 
 {% include video id="914601340" provider="vimeo" %}
 
-In addition to WEmbangomos individual skills, Glimt effectively dealt with Ajax’s high pressing by finding space on the sides of Ajax’s midfield. They achieved this through direct passes to their central midfielders and overlapping runs from the fullbacks when Ajax’s defensive line was narrow. Prior to both of Glimt’s goals, there were passes through the lines to Grønbæk, who initiated the attacks. Additionally, Glimt’s center-backs engaged Ajax’s attackers during the press, freeing up a teammate.
+In addition to Wembangomos individual skills, Glimt effectively dealt with Ajax’s high pressing by finding space on the sides of Ajax’s midfield. They achieved this through direct passes to their central midfielders and overlapping runs from the fullbacks when Ajax’s defensive line was narrow. Prior to both of Glimt’s goals, there were passes through the lines to Grønbæk, who initiated the attacks. Additionally, Glimt’s center-backs engaged Ajax’s attackers during the press, freeing up a teammate.
 
 {% include video id="914601328" provider="vimeo" %}
 
