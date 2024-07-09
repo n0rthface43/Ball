@@ -1,3 +1,4 @@
+---
 title: "Danish Dynamite: Albert Grønbæk"
 excerpt_separator: "<!--more-->"
 categories:
