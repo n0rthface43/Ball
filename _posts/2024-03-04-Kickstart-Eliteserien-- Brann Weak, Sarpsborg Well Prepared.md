@@ -20,7 +20,7 @@ Defence:
 Brann put three men in the zone, at the first post and centre in front of the keeper. Two men had looser marking and are closer to 16m(Finne and Mathisen/Castro) and the rest are man marking.
 ![Brann forsvar](https://github.com/n0rthface43/Ball/assets/157420543/494250f5-d372-4f45-9a96-5e5aa25dafcc)
 
-Første runde av eliteserien er over, og jeg har selvfølgelig undersøkt det alle lurer på, strategien på cornere! Jeg har sett på Brann, Viking og Sarpsborg, både defensive og offensive cornere. I tillegg har jeg prøvd å si noe om hvordan en kan angripe lagenes ulike forsvarsoppstillinger på cornerne. Cornertabellen med hvem jeg tror vil gjøre det best på cornere av de tre kommer til slutt! La oss ta en titt!
+Første runde av eliteserien er over, og jeg har undersøkt det alle lurer på, strategien på cornere! Jeg har sett på Brann, Viking og Sarpsborg, både defensive og offensive cornere. I tillegg har jeg ut fra lagenes forsvarsoppstilling sett på hvordan en kan angripe det mest mulig effektivt. La oss ta en titt!
 
 ### Brann(Vs Tromsø): 
 Forsvar:
