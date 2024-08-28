@@ -64,10 +64,3 @@ Forsvar
 Sarpsborg forsvarte seg i en sone variant med 1 på første stolpe, 3 langs femmeteren og på 7-8meter. En ved 16m. De fire som ligger på linje hadde en slags blanding av sone og mannsmarkering. De står i sonen, men forstyrrer motstander når de kommer løpende inn i sonen. 
 
 Muligheter vs Sarpsborg: Markeringen på første stolpe står langt inne ved stolpen. Det er mulig å få til en avslutning fra femmeteren på første stolpe. De sterkeste hodespillerne står i sonen. Om en kan isolere noen av de andre fire som mannsmarkerer mot en god hodespiller kan det øke muligheten for å skape en god målsjanse. 
-
-
-###Cornertabellen<br>
-Sarpsborg<br>
-Viking<br>
-Brann
-
