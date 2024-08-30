@@ -13,28 +13,26 @@ tags:
 ------------
 ### A game analysis of Brentfords set pieces
 ------------
-Brentford are known for being very good at set pieces. They are innovative in their use of data and analytics and create a lot of goals and scoring chances. How good are they compared to the rest of the Premier League? And what is behind their high creation of chances ang goals from this set-pieces? In this article I will try to find answer to these two questions. To answer the latter, I've looked at Brentford's set pieces in the match against Nottingham Forest on January 20. I've limited my research to offensive free kicks and corners.
+Brentford are known for being very good at set pieces. They are innovative in their use of data and analytics and create a lot of goals and scoring chances. How good are they compared to the rest of the Premier League? And what is behind their high creation of chances ang goals from this set-pieces? In this article I will try to find answers to these two questions. To answer the latter, I've looked at Brentford's set pieces in the match against Nottingham Forest on January 20. I've limited my research to offensive free kicks and corners.
 
 #### How good are Brentford at set pieces?
 ![figur-a](https://github.com/n0rthface43/Ball/assets/157420543/fc6bc51d-3ac0-428b-a3c3-a2045801940f)
 
 Figure-a. XgSP shows the xG from set pieces for each of the teams (including penalties). The data is taken from [xgscore](https://xgscore.io/xg-statistics/epl).
 
-The short answer is that Brentford are the fourth best team in the Premier League at set pieces. As of January 24, 2024 they are fourth in the Premier League for xG (expected goals) table for set pieces. Here, penalty kicks are included in the xG of 11.7. Brentford has been awarded 3 penalties so far this season. There have been 55 penalty kicks awarded in PL so far this season.
+The short answer is that Brentford are the fourth best team in the Premier League at set pieces. As of January 24, 2024 they are fourth in the Premier League for xG (expected goals) table for set pieces. Here, penalty kicks are included in the xG of 11.7. There have been 55 penalty kicks awarded in PL so far this season, and Brentford have been awarded 3 penalties.
 
 ![figur-b](https://github.com/n0rthface43/Ball/assets/157420543/6f6839d1-e650-4e12-b44f-9f9b944f2a51)
 
 Figure b. Shows the number of corners and expected goals from set pieces (xGSP). Data is taken from [totalcorner](https://www.totalcorner.com/league/corner_stats/1) og [xgscore](https://xgscore.io/xg-statistics/epl).
 
-According to the statistic Brentford scores fourth highest on xG from set pieces. However, Brentford have a only 98 corners. This is low compared to most of the other teams in Premier League. This suggests that Brentford are utilizing their corners to create more scoring chances than the teams that receive roughly the same number of corners (West Ham, Newcastle Everton, Palace and Luton). They also create more goal-scoring chances than many of the teams that have more corners (Tottenham, Bournemouth, Manchester United. Brentford create more goal scoring chances from set pieces than for example Manchester City, despite Manchester City having 141, i.e. 43 more corners. Chelsea, Liverpool and Arsenal have higher total xG on set pieces than Brentford. Chelsea(107), Liverpool(138) and Arsenal(162!) corners. So Arsenal have had 64 more than Brentford. If you think about xG per corner, you could argue that Brentford is the league's best team at corners!
+According to the statistic Brentford scores fourth highest on xG from set pieces. However, Brentford have only 98 corners, low when comparing to most teams in Premier League. This indicates that Brentford are utilizing their corners to create more scoring chances than teams with similar corner numbers (West Ham, Newcastle Everton, Palace and Luton). They also create more goal-scoring chances than many of the teams that have more corners (Tottenham, Bournemouth, Manchester United. Brentford create more goal scoring chances from set pieces than for example Manchester City, despite Manchester City having 141, i.e. 43 more corners. Chelsea, Liverpool and Arsenal have a higher total xG on set pieces than Brentford. Chelsea(107), Liverpool(138) and Arsenal(162!) corners. So Arsenal have had 64 more than Brentford. If you think about xG per corner, you could argue that Brentford is the league's best team at corners!
 
 ![figur-c](https://github.com/n0rthface43/Ball/assets/157420543/f19d8afa-b20d-4fb2-b51a-8d1c68769135)
 
-Figur c. Goals per 100 corner from PL 2022/23. Taken from The Athletic(data from opta).
+Figur c. Goals per 100 corner from PL 2022/23. Taken from The Athletic(with data from opta).
 
-The stats from The Athletic show goals per corner from last season. Last season Brentford scored 5.6 goals per 100 set piece. The so-far-answer to the question from the beginning, must be that Brentford is one of the league's very best teams at offensive set pieces. So let's take a closer look at Brentford's approach to these set pieces. I've done a 'snapshot' analysis of the set-pieces in the match against Nottingham Forest and limited myself to attacking free-kicks and corners. Brentford created 1.13 (xg) on these situations in this match[(Understat)](https://understat.com/match/22104/ "Understat"). In total Brentford created 1.94 xg in this match. Free kicks and corners accounted for 58% of this. Below is an overview of Brentford's strategy on their offensive corners and free kicks against Forest.
-
-
+The stats from The Athletic show goals per corner from last season. Last season Brentford scored 5.6 goals per 100 set piece. Brentford numbers seems consitent over time, and this numbers are without their main man Ivant Toney. The so-far-answer to the question from the beginning, must be that Brentford is one of the league's very best at offensive set pieces. So let's dig into their approach to these set pieces. I've done a 'snapshot' analysis of their set-pieces in the match against Nottingham Forest, and limited myself to attacking free-kicks and corners. Brentford created 1.13 (xG) on these situations in this match[(Understat)](https://understat.com/match/22104/ "Understat"). In total Brentford created 1.94 xG in this match. Free kicks and corners accounted for 58% of this. Below is an overview of Brentford's strategy on their offensive corners and free kicks against Forest.
 
 ##### 12 min Freekick Mathias Jensen
 ![figur-en](https://github.com/n0rthface43/Ball/assets/157420543/fd62670c-88a8-4d78-9ddc-fdc6ec66cb72)
@@ -61,7 +59,7 @@ Figure 7. Ivan Toney grabs the ball after Forest's wall has been set.
 
 Figure 8. Toney moves the ball 20-30 cm to the side from where it was originally located. Toney shoots the ball in the nearest corner, around the wall.
 
-Summary of strategy: Toney succeeds at the first attempt in his comeback! Brentford put two men behind the wall to disrupt the goalkeeper's view. This helps reduce the time the goalkeeper has to react if Toney chooses the far corner. After Forest has set the wall, Toney moves the ball 20-30 cm to the side. That was enough to shoot the ball around the wall and into the shortest corner. A cheeky and successful move by Toney and Brentford. The shot is set at 0.11 xg [(Understat)](https://understat.com/match/22104/ "Understat")
+Summary of strategy: Toney succeeds at the first attempt in his comeback! Brentford put two men behind the wall to disrupt the goalkeeper's view. This helps reduce the time the goalkeeper has to react if Toney chooses the far corner. After Forest has set the wall, Toney moves the ball 20-30 cm to the side. That was enough to shoot the ball around the wall and into the shortest corner. A cheeky and successful move by Toney and Brentford. The shot is set at 0.11 xG [(Understat)](https://understat.com/match/22104/ "Understat")
 
 ##### 24min - Corner from left (Mathias Jensen)
 ![figur-ni](https://github.com/n0rthface43/Ball/assets/157420543/2f631067-75c2-4a77-965e-1f4e3293f37e)
@@ -128,7 +126,7 @@ Figure 26. Mee gets in front of the zone marker on the first post and wins the d
 Summary of strategy
 This time Brentford succeeds! Again there is co-operation between the players in the box, and this time it is Pinnock who helps prevent the opposition from marking Ben Mee, allowing Mee to easily head in the equaliser. Pinnock was instrumental in stopping Mee's marker (Montiel). Mee is one of Brentford's best players in the air. Smart of Brentford to try to set Mee up to head freely in the box.He wins about 60% of duels [fbref](https://fbref.com/en/players/8df7a2fb/Ben-Mee#all_stats_defense). In addition to Mee, Maupay was also free at the near post, which could have been dangerous if the ball went lower (see Figure 26). 
 
-### Oppsummering
+### Summary
 The numbers for the season so far shows clearly that Brentford are one of the league's best teams at set pieces. They create almost as many goal-scoring chances from set-pieces, despite having far fewer corners. It's fascinating to see Brentford's strategies with the different variants. Just looking at one match we saw both short corners and corners at front and back posts. Brentford had a lot of variation, even within the same setup. This makes Brentford unpredictable and difficult to defend against. With Ivan Toney also back with a cheeky free kick variation, it can help Brentford improve in the final stages this season. It will be exciting to follow Brentford going forward. It's clear that their variations are both well thought-out and well-rehearsed. It will be interesting to see if they can continue to create as much from set pieces for the rest of the season. If so, it could be a very exciting spring season!
 
 
