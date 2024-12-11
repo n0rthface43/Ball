@@ -43,13 +43,9 @@ For the end location (figure above), the goal probability is even higher in area
 ### Model development
 One hot encoding was used for handling the nominal categories and creating dummy variables. Both the start and end areas each have 15 categories, one for each respective area on the pitch. The pass-types categories were represented with one category each. 
 Each category was given a dummy variable (1 and 0).  To avoid the ‘dummy trap’ one dummy variable for each category was removed. The next step was using logistic regression to create a model. The data set was divided into training and test data, for training and testing the model on different data. This was all done by using functions from the sklearn-module. Lasso (penalty =’l1’) was used for regulation.
-
 <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:30px;">
-  <img src="https://github.com/user-attachments/assets/53710975-8951-40e1-b7c9-ee15e3f5c2c3" alt="L6" style="width:40%;"/>
-  <img src="https://github.com/user-attachments/assets/902a48ba-ae07-4457-85f3-f26e78aa490f" alt="L7" style="width:40%;"/>
-</div>
-
-The first attempts gave no promising results. The message "Maximum Likelihood optimization failed to converge" occurred multiple times.  This often happens due to multicollinearity.  To help decide which features to remove, a VIF-test (Variance Inflation Factor) was carried out to check for multicollinearity among the features. That test gave some high values (see figure above on the right side).   Crosses, types of long-passes, and areas on the side of the pitch for both start and end location were removed to get the model to converge (find stable coefficient estimates). This choice was based on the combination of high VIF-values and high p-values. Another tool was using an 'lbfgs' method from a statsmodels-module to optimize training of the model. 
+  <img src="https://github.com/user-attachments/assets/53710975-8951-40e1-b7c9-ee15e3f5c2c3" alt="L6" style="width:40%;"/> </p> The first attempts gave no promising results. The message "Maximum Likelihood optimization failed to converge" occurred multiple times.  This often happens due to multicollinearity.  To help decide which features to remove, a VIF-test (Variance Inflation Factor) was carried out to check for multicollinearity among the features. That test gave some high values (see figure above on the right side).   Crosses, types of long-passes, and areas on the side of the pitch for both start and end location were removed to get the model to converge (find stable coefficient estimates). </p>
+This choice was based on the combination of high VIF-values and high p-values. Another tool was using an 'lbfgs' method from a statsmodels-module to optimize training of the model. 
 
 Results
 After multiple changes in the selection of features, the model did converge, and the results showed multiple significant p-values. Smartpass significantly increased the likelihood for a pass giving a goal. Wyscout defines smartpass as a “A creative and penetrative pass that attempts to break the opposition's defensive lines to gain a significant advantage in attack” (Wyscout, 2024).  
@@ -61,7 +57,6 @@ Adding a player with ability to deliver more smartpasses into these areas could 
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/e8477f16-c8ff-4e31-90fc-72f4c21795a3" alt="L14" style="max-width:90%;"/>
 </div>
-
 All coefficients for the six areas close to the box were significant, for both start and end location. See values in their respective areas on the pitch (start location on the left and end location on the right).  In addition, the areas straight outside the 18-yard box were significant for the start location.  There is a high value in front of the goal for the end location, which in a football context makes sense, considering the increase in likelihood for scoring from these areas.
 
 ![L12](https://github.com/user-attachments/assets/6752a8ae-39f5-4e9e-8ce2-bb4e3147d294)
