@@ -53,7 +53,7 @@ Results
 After multiple changes in the selection of features, the model did converge, and the results showed multiple significant p-values. Smartpass significantly increased the likelihood for a pass giving a goal. Wyscout defines smartpass as a “A creative and penetrative pass that attempts to break the opposition's defensive lines to gain a significant advantage in attack” (Wyscout, 2024).  
 Adding a player with ability to deliver more smartpasses into these areas could add value to the team and increase goal probability. 
 <div style="display: flex; align-items:flex-start;">
-  <img src="https://github.com/user-attachments/assets/662260ad-487b-49aa-9294-d9690525d534" alt="L8" style="margin-right:20px; width:40%;"/> <p> All six close-to-goal areas were significant for both start and end location. Areas just outside the 18-yard box were also significant for start locations.<p>
+  <img src="https://github.com/user-attachments/assets/662260ad-487b-49aa-9294-d9690525d534" alt="L8" style="margin-right:20px; width:40%;"/> <p> All six close-to-goal areas were significant for both start and end location. Areas just outside the 18-yard box were also significant for start locations.</p>
 
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/e8477f16-c8ff-4e31-90fc-72f4c21795a3" alt="L14" style="max-width:90%;"/>
