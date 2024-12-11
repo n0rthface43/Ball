@@ -12,27 +12,24 @@ tags:
 ### Creating a metric
 ------------
 ### Context
-During the Soccermatics course, I was tasked with creating a new football metric. This involved building a machine learning model and using it to evaluate players. In this article, I summarize the metric and the process behind it. We started with Wyscout data from the top five European leagues in the 2017/2018 season and focused on potential recruits for Leicester City.
+During soccermatics course, I was tasked with creating a new football metric. This involved building a machine learning model, using it to evaluate players. In this article, I summarize the metric and the process behind it. As a part of the task, Leicester was the club we (my group) selected to "scout" for. Wyscout data from the 2017/2018 season were used.
 
 ### Introduction 
 In a low-scoring sport like football, every goal-scoring opportunity is crucial. Increasing the number and quality of chances can make a significant difference. The aim of this task was both simple and challenging: Identify passes that directly lead to goals and the players who make them.
-
 This goal led to formulating a machine learning problem: finding the goal probability for the next event after a pass. The result is a new metric, Direct-Expected Assist (Direct-xA), defined as the goal probability in the next event following a pass that leads to a shot. 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github.com/user-attachments/assets/35ebe3fb-bd73-4841-ba97-034a8a02fd3e" alt="L1" style="margin-right:20px; width:40%;"/>
-  <p> Direct-expected assist (Direct-xA) measures the likelihood that the next event after a pass will be a goal. This article details how the metric was developed and which players could be valuable signings based on this metric.</p>
+  <p> Direct-expected assist (Direct-xA) measures the likelihood that the next event after a pass will be a goal. This article details how the metric was developed and which players could be valuable signings based on this metric.When examining passes that lead to shots, I chose start and end locations as key variables. To do this, the pitch was divided into five vertical lanes to include half-spaces (Maric, 2014).</p>
 </div>
-Variables and Approach
-When examining passes that lead to shots, I chose start and end locations as key variables. To do this, the pitch was divided into five vertical lanes to include half-spaces (Maric, 2014).
+### Variables and Approach
 ![L2](https://github.com/user-attachments/assets/a3ec810e-d733-46e3-bb40-d37e4c08c800)
 In addition to location, I selected seven pass-type variables (cross, high cross, low cross, long ground, long high, long launch, and smart pass). Certain pass types may increase the likelihood of a goal, aiding in scouting players who excel at delivering these passes.
-
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/dff2b8d3-7a75-41dd-bf10-21504a5efb3b" alt="L3" style="max-width:80%;"/>
 </div>
 Mpl-soccer was used to create pitches, and I extended half-space lines and added a horizontal line through the penalty area. 
 
-Data Processing
+### Data Processing
 The Wyscout data included the top five European leagues from the 2017/2018 season. Passes were filtered to those starting and ending in the final third, as goals often arise from these areas.
 
 Descriptive statistics were generated for passes leading to shots and goals. The rectangular areas formed the basis for heatmaps. The probability for a goal in the next event became the output variable for the logistic regression model.
@@ -44,7 +41,7 @@ The figure above shows goal probability for the next event given the start locat
   <img src="https://github.com/user-attachments/assets/0dede729-cfa6-4e91-ad67-b43a45fe6208" alt="L5" style="max-width:80%;"/>
 </div>
 For the end location (figure above), the goal probability is even higher in areas closer to the goal. Some outliers (like a high value in the right corner) result from very few samples. However, compared to start location the goal probability increases a lot for the end location (right figure) area closest to the goal (0.38). And the probability is also really high (0.17) for the area in the middle straight inside the 18-yard box. In a football context this last figure (end location) is confirming knowledge about the importance of the shot location and the classic xG-model. What looks a bit odd, however, is the high probability in the area on the right corner; this number (0.33) does not makes sense in a football context, and looks like an outlier. Checking the opposite corner, ‘nan’-values is the result because no passes ended there and gave a goal in next event. A very low number of passes ending in the right corner with a rare goal can explain the high probability in the red corner.
-Model development
+### Model development
 One hot encoding was used for handling the nominal categories and creating dummy variables. Both the start and end areas each have 15 categories, one for each respective area on the pitch. The pass-types categories were represented with one category each. 
 Each category was given a dummy variable (1 and 0).  To avoid the ‘dummy trap’ one dummy variable for each category was removed. The next step was using logistic regression to create a model. The data set was divided into training and test data, for training and testing the model on different data. This was all done by using functions from the sklearn-module. Lasso (penalty =’l1’) was used for regulation.
 
