@@ -15,23 +15,22 @@ tags:
 During soccermatics course, I was tasked with creating a new football metric. This involved building a machine learning model, using it to evaluate players. In this article, I summarize the metric and the process behind it. As a part of the task, Leicester was the club we (my group) selected to "scout" for. Wyscout data from the 2017/2018 season were used.
 
 ### Introduction 
-In a low-scoring sport like football, every goal-scoring opportunity is crucial. Increasing the number and quality of chances can make a significant difference. The aim of this task was both simple and challenging: Identify passes that directly lead to goals and the players who make them.
-This goal led to formulating a machine learning problem: finding the goal probability for the next event after a pass. The result is a new metric, Direct-Expected Assist (Direct-xA), defined as the goal probability in the next event following a pass that leads to a shot. 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github.com/user-attachments/assets/35ebe3fb-bd73-4841-ba97-034a8a02fd3e" alt="L1" style="margin-right:20px; width:40%;"/>
-  <p> Direct-expected assist (Direct-xA) measures the likelihood that the next event after a pass will be a goal. This article details how the metric was developed and which players could be valuable signings based on this metric.When examining passes that lead to shots, I chose start and end locations as key variables. To do this, the pitch was divided into five vertical lanes to include half-spaces (Maric, 2014).</p>
+  <p>In a low-scoring sport like football, every goal-scoring opportunity is crucial. Increasing the number and quality of chances can make a significant difference. The aim of this task was both simple and challenging: Identify passes that directly lead to goals and the players who make them.
+This goal led to formulating a machine learning problem: finding the goal probability for the next event after a pass. The result is a new metric, Direct-Expected Assist (Direct-xA), defined as the goal probability in the next event following a pass that leads to a shot.</p>
 </div>
+Direct-expected assist (Direct-xA) measures the likelihood that the next event after a pass will be a goal. This article details how the metric was developed and which players could be valuable signings based on this metric. When examining passes that lead to shots, start and end locations were chosen as key variables. The pitch was divided into five vertical lanes to include half-spaces (Maric, 2014).
 ### Variables and Approach
 ![L2](https://github.com/user-attachments/assets/a3ec810e-d733-46e3-bb40-d37e4c08c800)
-In addition to location, I selected seven pass-type variables (cross, high cross, low cross, long ground, long high, long launch, and smart pass). Certain pass types may increase the likelihood of a goal, aiding in scouting players who excel at delivering these passes.
+In addition to location, seven pass-type variables (cross, high cross, low cross, long ground, long high, long launch, and smart pass) were selected. Certain pass types may increase the likelihood of a goal, aiding in scouting players who excel at delivering these passes.
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/dff2b8d3-7a75-41dd-bf10-21504a5efb3b" alt="L3" style="max-width:80%;"/>
 </div>
-Mpl-soccer was used to create pitches, and I extended half-space lines and added a horizontal line through the penalty area. 
+Mpl-soccer was used to create pitches, and half-space lines were extended and a horizontal line through the penalty area was added. 
 
 ### Data Processing
 The Wyscout data included the top five European leagues from the 2017/2018 season. Passes were filtered to those starting and ending in the final third, as goals often arise from these areas.
-
 Descriptive statistics were generated for passes leading to shots and goals. The rectangular areas formed the basis for heatmaps. The probability for a goal in the next event became the output variable for the logistic regression model.
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/3f98d6b8-87c9-4afc-9f8e-0d1b469a946f" alt="L4" style="max-width:80%;"/>
@@ -46,8 +45,8 @@ One hot encoding was used for handling the nominal categories and creating dummy
 Each category was given a dummy variable (1 and 0).  To avoid the ‘dummy trap’ one dummy variable for each category was removed. The next step was using logistic regression to create a model. The data set was divided into training and test data, for training and testing the model on different data. This was all done by using functions from the sklearn-module. Lasso (penalty =’l1’) was used for regulation.
 
 <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:30px;">
-  <img src="https://github.com/user-attachments/assets/53710975-8951-40e1-b7c9-ee15e3f5c2c3" alt="L6" style="width:48%;"/>
-  <img src="https://github.com/user-attachments/assets/902a48ba-ae07-4457-85f3-f26e78aa490f" alt="L7" style="width:48%;"/>
+  <img src="https://github.com/user-attachments/assets/53710975-8951-40e1-b7c9-ee15e3f5c2c3" alt="L6" style="width:40%;"/>
+  <img src="https://github.com/user-attachments/assets/902a48ba-ae07-4457-85f3-f26e78aa490f" alt="L7" style="width:40%;"/>
 </div>
 
 The first attempts gave no promising results. The message "Maximum Likelihood optimization failed to converge" occurred multiple times.  This often happens due to multicollinearity.  To help decide which features to remove, a VIF-test (Variance Inflation Factor) was carried out to check for multicollinearity among the features. That test gave some high values (see figure above on the right side).   Crosses, types of long-passes, and areas on the side of the pitch for both start and end location were removed to get the model to converge (find stable coefficient estimates). This choice was based on the combination of high VIF-values and high p-values. Another tool was using an 'lbfgs' method from a statsmodels-module to optimize training of the model. 
@@ -57,7 +56,7 @@ After multiple changes in the selection of features, the model did converge, and
 Adding a player with ability to deliver more smartpasses into these areas could add value to the team and increase goal probability. 
 <div style="display: flex; align-items:flex-start;">
   <img src="https://github.com/user-attachments/assets/662260ad-487b-49aa-9294-d9690525d534" alt="L8" style="margin-right:20px; width:40%;"/>
-  <p> All six close-to-goal areas were significant for both start and end location. Areas just outside the 18-yard box were also significant for start locations.
+  <p> All six close-to-goal areas were significant for both start and end location. Areas just outside the 18-yard box were also significant for start locations.<p>
 
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/e8477f16-c8ff-4e31-90fc-72f4c21795a3" alt="L14" style="max-width:90%;"/>
@@ -75,9 +74,10 @@ Using the model gave direct expected assist for each player. The numbers are adj
 </div>
 Before signing someone, current Leicester players had to be evaluated. The figure shows direct xA per 90 for current midfielders. One problem were the different task within the team.  Wilfried Ndidi for example, is playing in central midfield and tasked with performing on other metrics, and as a consequence score low on this metric. Therefore, to create a benchmark, top three midfielders performers on the metric from each club in premier league laid the foundation for an average score per 90 which is equal to 0.026. Leicesters top three performers on this metric gave following list: 
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/e8477f16-c8ff-4e31-90fc-72f4c21795a3" alt="L14" style="max-width:95%;"/>
+  <img src="https://github.com/user-attachments/assets/e8477f16-c8ff-4e31-90fc-72f4c21795a3" alt="L14" style="max-width:100%;"/>
 </div>
-Based on this evaluation, a suggestion would be consider upgrade Mark Albrighton. 
+Based on this evaluation, a suggestion would be consider upgrade Mark Albrighton
+
 Figure: Calculating benchmark
 ![L14](https://github.com/user-attachments/assets/e8477f16-c8ff-4e31-90fc-72f4c21795a3)
 
