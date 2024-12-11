@@ -28,6 +28,24 @@ Figure 3 Spain passes into finalthird
 Spain obviously had more possession, and passes into final third. England did managed to keep them away from their box most of the time, with few passes directly into the box. Spain have a lot of passes outside of the box, and a mixture of vertical and horisontal passes.  
 
 ### The shining stars
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
+    <div style="flex: 1;">
+        <img src="https://github.com/user-attachments/assets/279dbbc0-a7ec-4ee7-ad29-4e6978e50368" alt="Nico Williams carries" style="width: 100%;">
+        <p style="text-align: center;">Figure 4. Nico Williams carries</p>
+        <p>
+            Williams has been shining the whole tournament, so in the final. Some of his carries is long distance, shows his combination of physics and technique. His ability to run with the ball is extraordinary! He often managed to get into dangerous areas. So he did for his goal, and his finishing was brilliant.
+        </p>
+    </div>
+    <div style="flex: 1;">
+        <img src="https://github.com/user-attachments/assets/2715017c-2b7b-4214-85b7-8cf3b8c7eece" alt="Lamine Yamal carries" style="width: 100%;">
+        <p style="text-align: center;">Figure 5. Lamine Yamal carries</p>
+        <p>
+            Yamal is the same, but different. He is, along with Williams, top for carries in the final third. Yamal is really dangerous if he gets the ball in space to either carry or pass to create a chance or even take the shot by himself (everyone still remembers that semifinal match-winning goal:)). His unpredictability makes him dangerous, and his involvement is high.
+        </p>
+    </div>
+</div>
+
+
 ![carries_player_nico_williams](https://github.com/user-attachments/assets/279dbbc0-a7ec-4ee7-ad29-4e6978e50368) Figrue 4. Nico Williams carries
 Williams has been shining the whole tournament, so in the final. Some of his carries is long distance, shows his combination og physics and technique. His ability to run with the ball is extrordinary! He often managed to get into dangerous areas. So he did for his goal, and his finishing was brilliant. 
 ![carries_player_lamineyamal](https://github.com/user-attachments/assets/2715017c-2b7b-4214-85b7-8cf3b8c7eece)
