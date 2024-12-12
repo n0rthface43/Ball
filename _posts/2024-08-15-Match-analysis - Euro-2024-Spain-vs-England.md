@@ -1,5 +1,5 @@
 ---
-title: " - how Spain dominated England"
+title: " EURO final - how Spain dominated England"
 excerpt_separator: "<!--more-->"
 categories:
   - International
