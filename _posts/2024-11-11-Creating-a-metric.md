@@ -41,18 +41,21 @@ The difference in my model is the inclusion of the pass type and location for th
 One hot encoding was used for handling the nominal categories and creating dummy variables. Both the start and end areas each have 15 categories, one for each respective area on the pitch. The pass-types categories were represented with one category each. Each category was given a dummy variable (1 and 0).  To avoid the ‘dummy trap’ one dummy variable for each category was removed. The next step was using logistic regression to create a model. The data set was divided into training and test data, for training and testing the model on different data. This was all done by using functions from the sklearn-module. Lasso (penalty =’l1’) was used for regulation.
 <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
   <img src="https://github.com/user-attachments/assets/53710975-8951-40e1-b7c9-ee15e3f5c2c3" alt="L6" style="width:50%;"/> <p>
-The first attempts gave no promising results. The message "Maximum Likelihood optimization failed to converge" occurred multiple times. This often happens due to multicollinearity.</p> </div>
-Crosses, types of long-passes, and areas on the side of the pitch for both start and end location were removed to get the model to converge (find stable coefficient estimates). This choice was based on the high p-values. Another tool was using an 'lbfgs' method from a statsmodels-module to optimize training of the model. 
+The first attempts gave no promising results. The message "Maximum Likelihood optimization failed to converge" occurred multiple times. This often happens due to multicollinearity.Crosses, types of long-passes, and areas on the side of the pitch for both start and end location were removed to get the model to converge (find stable coefficient estimates).</p> </div>
+This choice was based on the high p-values. Another tool was using an 'lbfgs' method from a statsmodels-module to optimize training of the model. 
 ### Results
 Finally, the model did converge with significant p-values. Results show smartpass significantly increased the likelihood for a pass giving a goal. Wyscout defines smartpass as a “A creative and penetrative pass that attempts to break the opposition's defensive lines to gain a significant advantage in attack” (Wyscout, 2024).  
 <div style="display: flex; align-items:flex-start;">
   <img src="https://github.com/user-attachments/assets/662260ad-487b-49aa-9294-d9690525d534" alt="L8" style="margin-right:20px; width:50%;"/> <p> Adding a player with ability to deliver more smartpasses into these areas could add value to the team and increase goal probability. All six close-to-goal areas were significant for both start and end location. On the left is coefficients for start location and smart pass(pass type). The figure also illustrate the area just outside the 18-yard box were also significant for start locations.</p> </div>
 
 <div style="display: flex; align-items:flex-start;">
-  <img src="https://github.com/user-attachments/assets/9a20ed3e-7316-43e7-a13f-551a912f332c" alt="L14" style="margin-right:20px; width:30%;"/><p> For end location there is a really high value in front of the goal (0.88) and the area which include the penalty area. In a football context this makes sense, considering the increase in likelihood for scoring from these areas. No significant value outside the box. Receiving and shooting from those areas in next event does not increase likelihood for scoring. </p>
+  <img src="https://github.com/user-attachments/assets/9a20ed3e-7316-43e7-a13f-551a912f332c" alt="L14" style="margin-right:30px; width:40%;"/><p> 
+For end location there is a really high value in front of the goal (0.88) and the area which include the penalty area. In a football context this makes sense, considering the increase in likelihood for scoring from these areas. No significant value outside the box. Receiving and shooting from those areas in next event does not increase likelihood for scoring. </p>
 </div>  
 
+
 ![L12](https://github.com/user-attachments/assets/6752a8ae-39f5-4e9e-8ce2-bb4e3147d294)
+
 A ROC-test (receiver operating characteristic curve) was done to test the accuracy. A score of 0.75 shows selected variables are relevant for predicting goal probability, and better than a wild guess. The score also says there are other variables outside the model that might affect the outcome. Knowing the model measure passes that leads to shots in the next event, also means the model does not give information about all the events afterwards. When using the model, these limitations should be taken into account.
 
 ### Applying the model
@@ -68,8 +71,7 @@ Players realistically available considering club, value and reputation is highli
 Lorenzo Insigne will cost around 60 m euros, and he will demand a high salary. He will be the most likely to produce most direct-expected assist per 90 from our targets. He also have played a lot of minutes, which makes him a safr option. Isaac Success is a budget option, with great numbers, but low minutes.
 
 ### Summarize
-Developing a machine learning model and create this metric was a great learning experience. I still would not use it for scouting, because a scouting metric should include events after the ball get into dangerous areas too. Analyzing the results still gave valuable information about the 
-the smart pass as only pass type and the numbers showed the importance of getting close to goal before the final pass. Thanks to Ágúst and Nicole for great help in the process!
+Analyzing the results still gave valuable insight about the Direct - expected assist. Findings suggest penetrating and creative passes (smartpass) and the importance of getting into areas close to goal for start location, and in front of goal for end location was important. Developing a machine learning model and create this metric was a great learning experience. I still would not use it for scouting, because I think such a metric metric should include events after the ball get into dangerous areas. Thanks to Ágúst and Nicole for great help in the process!
 
 Sources 
 Maric, R. (2014). The Half-Spaces. https://spielverlagerung.com/2014/09/16/the-half-spaces/
