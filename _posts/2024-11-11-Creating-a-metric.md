@@ -9,7 +9,7 @@ tags:
   - Premier League
 ---
 ------------
-### Creating a metric
+### A machine learning model - in football
 ------------
 ### Context
 During soccermatics course, I was tasked with creating a new football metric. This involved building a machine learning model, using it to evaluate players. In this article, I summarize the metric and the process behind it. As a part of the task, Leicester was the club we (my group) selected to "scout" for. Wyscout data from the 2017/2018 season were used.
