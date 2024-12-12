@@ -83,23 +83,25 @@ However, compared to start location the goal probability increase more (compared
 The difference in my model is the inclusion of the pass type and location for the pass before the shot as variables. Some outliers (ex. high value in the right corner) result from very few samples from that spesific area. A low number of passes ending in the right corner with a rare goal can explain the high probability in the red corner. 
 ### Model development
 One hot encoding was used for handling the nominal categories and creating dummy variables. Both the start and end areas each have 15 categories, one for each respective area on the pitch. The pass-types categories were represented with one category each. Each category was given a dummy variable (1 and 0).  To avoid the ‘dummy trap’ one dummy variable for each category was removed. The next step was using logistic regression to create a model. The data set was divided into training and test data, for training and testing the model on different data. This was all done by using functions from the sklearn-module. Lasso (penalty =’l1’) was used for regulation.
-<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
+<div <div class="figure-text">
   <img src="https://github.com/user-attachments/assets/53710975-8951-40e1-b7c9-ee15e3f5c2c3" alt="L6" style="width:50%;"/> <p>
 The first attempts gave no promising results. The message "Maximum Likelihood optimization failed to converge" occurred multiple times. This often happens due to multicollinearity.Crosses, types of long-passes, and areas on the side of the pitch for both start and end location were removed to get the model to converge (find stable coefficient estimates).This choice was based on the high p-values. Another tool was using an 'lbfgs' method from a statsmodels-module to optimize training of the model. </p> 
 </div>
 
 ### Results
-Finally, the model did converge with significant p-values. Results show smartpass significantly increased the likelihood for a pass giving a goal. Wyscout defines smartpass as a “A creative and penetrative pass that attempts to break the opposition's defensive lines to gain a significant advantage in attack” (Wyscout, 2024).  
-<div style="display: flex; align-items:flex-start;">
+Finally, the model did converge with significant p-values. Results show smartpass significantly increased the likelihood for a pass giving a goal. Wyscout defines smartpass as a “A creative and penetrative pass that attempts to break the opposition's defensive lines to gain a significant advantage in attack” (Wyscout, 2024). 
+<div 
+  <img src="https://github.com/user-attachments/assets/35ebe3fb-bd73-4841-ba97-034a8a02fd3e" alt="L1" style="margin-right: 20px; width: 40%;" />
+  <p>
+<div class="figure-text">
   <img src="https://github.com/user-attachments/assets/662260ad-487b-49aa-9294-d9690525d534" alt="L8" style="margin-right:20px; width:50%;"/> <p> Adding a player with ability to deliver more smartpasses into these areas could add value to the team and increase goal probability. All six close-to-goal areas were significant for both start and end location. On the left is coefficients for start location and smart pass(pass type). The figure also illustrate the area just outside the 18-yard box were also significant for start locations.</p> 
 </div>
-<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+<div class="figure-text">
   <img src="https://github.com/user-attachments/assets/9a20ed3e-7316-43e7-a13f-551a912f332c" alt="L14" style="margin-left: 10%; margin-right: 30px; width: 40%;" />
   <p style="margin-top: 20px;"> 
     For end location there is a really high value in front of the goal (0.88) and the area which include the penalty area. In a football context this makes sense, considering the increase in likelihood for scoring from these areas. No significant value outside the box. Receiving and shooting from those areas in next event does not increase likelihood for scoring.
   </p>
 </div>
-
 
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/6752a8ae-39f5-4e9e-8ce2-bb4e3147d294" alt="L5" style="max-width:80%;"/>
