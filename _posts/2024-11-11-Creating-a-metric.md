@@ -49,7 +49,7 @@ Finally, the model did converge with significant p-values. Results show smartpas
   <img src="https://github.com/user-attachments/assets/662260ad-487b-49aa-9294-d9690525d534" alt="L8" style="margin-right:20px; width:50%;"/> <p> Adding a player with ability to deliver more smartpasses into these areas could add value to the team and increase goal probability. All six close-to-goal areas were significant for both start and end location. On the left is coefficients for start location and smart pass(pass type). The figure also illustrate the area just outside the 18-yard box were also significant for start locations.</p> </div>
 
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/9a20ed3e-7316-43e7-a13f-551a912f332c" alt="L14" style="max-width:30%;"/><p> For end location there is a really high value in front of the goal (0.88) and the area which include the penalty area. In a football context this makes sense, considering the increase in likelihood for scoring from these areas. No significant value outside the box. Receiving and shooting from those areas in next event does not increase likelihood for scoring. </p>
+  <img src="https://github.com/user-attachments/assets/9a20ed3e-7316-43e7-a13f-551a912f332c" alt="L14" style="margin-right:20px; width:30%;"/><p> For end location there is a really high value in front of the goal (0.88) and the area which include the penalty area. In a football context this makes sense, considering the increase in likelihood for scoring from these areas. No significant value outside the box. Receiving and shooting from those areas in next event does not increase likelihood for scoring. </p>
 </div>  
 
 ![L12](https://github.com/user-attachments/assets/6752a8ae-39f5-4e9e-8ce2-bb4e3147d294)
