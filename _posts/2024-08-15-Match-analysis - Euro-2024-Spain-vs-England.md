@@ -1,5 +1,5 @@
 ---
-title: "Numbers and reality - how Spain dominated England"
+title: " - how Spain dominated England"
 excerpt_separator: "<!--more-->"
 categories:
   - International
@@ -59,7 +59,7 @@ Spain obviously had more possession, and passes into final third. England did ma
         <img src="https://github.com/user-attachments/assets/2715017c-2b7b-4214-85b7-8cf3b8c7eece" alt="Lamine Yamal carries" style="width: 100%;">
         <p style="text-align: center;">Figure 5. Lamine Yamal carries</p>
         <p>
-            Yamal is the same, but different. He is, along with Williams, top for carries in the final third. Yamal is really dangerous if he gets the ball in space to either carry or pass to create a chance or even take the shot by himself (everyone still remembers that semifinal match-winning goal:)). His unpredictability makes him dangerous, and his involvement is high.
+            Yamal is similar, and still posess other valuable abilities. He is, along with Williams, top for carries in the final third. Yamal is really dangerous if he gets the ball in space to either carry or pass to create a chance or even take the shot by himself (everyone still remembers that semifinal match-winning goal:)). His unpredictability makes him dangerous, and his involvement is high, also inside the final third.
         </p>
     </div>
 </div>
