@@ -51,15 +51,14 @@ tags:
 </style>
 
 
-
 ### Context
 During soccermatics course, I was tasked with creating a new football metric. This involved building a machine learning model, using it to evaluate players. In this article, I summarize the metric and the process behind it. As a part of the task, Leicester was the club we (my group) selected to "scout" for. Wyscout data from the 2017/2018 season were used.
 ### Introduction 
 <div class="figure-text">
-  <img src="https://github.com/user-attachments/assets/35ebe3fb-bd73-4841-ba97-034a8a02fd3e" alt="L1"style="margin-right:20px; width:40%;" />
+  <img src="https://github.com/user-attachments/assets/35ebe3fb-bd73-4841-ba97-034a8a02fd3e" alt="L1" style="margin-right: 20px; width: 40%;" />
   <p> In a low-scoring sport like football, every goal-scoring opportunity is crucial. Increasing the number and quality of chances can make a significant difference. The aim of this task was both simple and challenging: Identify passes that directly lead to goals and the players who make them.
-This goal led to formulating a machine learning problem: finding the goal probability for the next event after a pass. The result is a new metric, Direct-Expected Assist (Direct-xA), defined as the goal probability in the next event following a pass that leads to a shot. </p> 
-</div> 
+  This goal led to formulating a machine learning problem: finding the goal probability for the next event after a pass. The result is a new metric, Direct-Expected Assist (Direct-xA), defined as the goal probability in the next event following a pass that leads to a shot. </p> 
+</div>
 
 Direct-expected assist (Direct-xA) measures the likelihood that the next event after a pass will be a goal. This article details how the metric was developed and which players could be valuable signings based on this metric. 
 ### Variables and Approach
