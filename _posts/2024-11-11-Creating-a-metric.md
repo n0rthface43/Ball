@@ -11,13 +11,56 @@ tags:
 ------------
 ### A machine learning model
 ------------
+<style>
+  /* Generell stil for bilder og tekst ved siden av hverandre */
+  .figure-text {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  /* Gjør bildene responsive */
+  .figure-text img {
+    width: 40%; /* Bildene tar 40% av bredden */
+    max-width: 300px; /* Begrens maksimal bredde på PC */
+  }
+
+  /* Teksten ved siden av bildene */
+  .figure-text p {
+    flex: 1; /* Teksten tar resten av plassen */
+    margin: 0;
+  }
+
+  /* Responsiv tilpasning for smale skjermer */
+  @media screen and (max-width: 768px) {
+    .figure-text {
+      flex-direction: column; /* Stable bildet og teksten vertikalt */
+      align-items: center; /* Midtstill innholdet */
+    }
+
+    .figure-text img {
+      width: 100%; /* Bildene tar hele bredden på smale skjermer */
+      max-width: none; /* Fjern maksimal breddebegrensning */
+    }
+
+    .figure-text p {
+      text-align: center; /* Juster teksten til midten */
+    }
+  }
+</style>
+
+
+
 ### Context
 During soccermatics course, I was tasked with creating a new football metric. This involved building a machine learning model, using it to evaluate players. In this article, I summarize the metric and the process behind it. As a part of the task, Leicester was the club we (my group) selected to "scout" for. Wyscout data from the 2017/2018 season were used.
 ### Introduction 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/user-attachments/assets/35ebe3fb-bd73-4841-ba97-034a8a02fd3e" alt="L1" style="margin-right:20px; width:40%;"/> <p>In a low-scoring sport like football, every goal-scoring opportunity is crucial. Increasing the number and quality of chances can make a significant difference. The aim of this task was both simple and challenging: Identify passes that directly lead to goals and the players who make them.
+<div class="figure-text">
+  <img src="https://github.com/user-attachments/assets/35ebe3fb-bd73-4841-ba97-034a8a02fd3e" alt="L1"style="margin-right:20px; width:40%;" />
+  <p> In a low-scoring sport like football, every goal-scoring opportunity is crucial. Increasing the number and quality of chances can make a significant difference. The aim of this task was both simple and challenging: Identify passes that directly lead to goals and the players who make them.
 This goal led to formulating a machine learning problem: finding the goal probability for the next event after a pass. The result is a new metric, Direct-Expected Assist (Direct-xA), defined as the goal probability in the next event following a pass that leads to a shot. </p> 
 </div> 
+
 Direct-expected assist (Direct-xA) measures the likelihood that the next event after a pass will be a goal. This article details how the metric was developed and which players could be valuable signings based on this metric. 
 ### Variables and Approach
 When examining passes that lead to shots, start and end locations were chosen as variables. The pitch was divided into five vertical lanes to include half-spaces (Maric, 2014). Mpl-soccer was used to create pitches, and half-space lines were extended and a horizontal line through the penalty area was added. In addition to location, seven pass-type variables (cross, high cross, low cross, long ground, long high, long launch, and smart pass) from the wyscout data were selected. Certain pass types may increase the likelihood of a goal, aiding in scouting players who excel at delivering these passes. Descriptive statistics were generated for passes leading to shots and goals. Below the two figures show number of passes which directly led to shots (top figure), and passes which lead to goal (bottom figure) from the different areas.
