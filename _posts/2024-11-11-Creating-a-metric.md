@@ -42,10 +42,9 @@ One hot encoding was used for handling the nominal categories and creating dummy
 Each category was given a dummy variable (1 and 0).  To avoid the ‘dummy trap’ one dummy variable for each category was removed. The next step was using logistic regression to create a model. The data set was divided into training and test data, for training and testing the model on different data. This was all done by using functions from the sklearn-module. Lasso (penalty =’l1’) was used for regulation.
 <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:30px;">
   <img src="https://github.com/user-attachments/assets/53710975-8951-40e1-b7c9-ee15e3f5c2c3" alt="L6" style="width:40%;"/> <p>
-The first attempts gave no promising results. The message "Maximum Likelihood optimization failed to converge" occurred multiple times.</p> 
-This often happens due to multicollinearity.  To help decide which features to remove, a VIF-test (Variance Inflation Factor) was carried out to check for multicollinearity among the features. That test gave some high values (see figure above on the right side).
-Crosses, types of long-passes, and areas on the side of the pitch for both start and end location were removed to get the model to converge (find stable coefficient estimates). 
-This choice was based on the combination of high VIF-values and high p-values. Another tool was using an 'lbfgs' method from a statsmodels-module to optimize training of the model. 
+The first attempts gave no promising results. The message "Maximum Likelihood optimization failed to converge" occurred multiple times.</p> </div>
+
+This often happens due to multicollinearity.  To help decide which features to remove, a VIF-test (Variance Inflation Factor) was carried out to check for multicollinearity among the features. That test gave some high values (see figure above on the right side). Crosses, types of long-passes, and areas on the side of the pitch for both start and end location were removed to get the model to converge (find stable coefficient estimates). This choice was based on the combination of high VIF-values and high p-values. Another tool was using an 'lbfgs' method from a statsmodels-module to optimize training of the model. 
 
 ### Results
 After multiple changes in the selection of features, the model did converge, and the results showed multiple significant p-values. Smartpass significantly increased the likelihood for a pass giving a goal. Wyscout defines smartpass as a “A creative and penetrative pass that attempts to break the opposition's defensive lines to gain a significant advantage in attack” (Wyscout, 2024).  
