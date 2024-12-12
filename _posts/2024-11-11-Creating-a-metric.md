@@ -54,13 +54,6 @@ Finally, the model did converge with significant p-values. Results show smartpas
   </p>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/9a20ed3e-7316-43e7-a13f-551a912f332c" alt="L14" style="margin-left: 10%; margin-right: 30px; width: 40%;" />
-  <p style="margin-top: 20px;"> 
-    For end location there is a really high value in front of the goal (0.88) and the area which include the penalty area. In a football context this makes sense, considering the increase in likelihood for scoring from these areas. No significant value outside the box. Receiving and shooting from those areas in next event does not increase likelihood for scoring.
-  </p>
-</div>
-
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/6752a8ae-39f5-4e9e-8ce2-bb4e3147d294" alt="L5" style="max-width:80%;"/>
 </div>
