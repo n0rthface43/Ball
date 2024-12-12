@@ -50,25 +50,27 @@ Finally, the model did converge with significant p-values. Results show smartpas
 
 <div style="display: flex; align-items:flex-start;">
   <img src="https://github.com/user-attachments/assets/9a20ed3e-7316-43e7-a13f-551a912f332c" alt="L14" style="margin-right:30px; width:40%;"/><p> 
+
 For end location there is a really high value in front of the goal (0.88) and the area which include the penalty area. In a football context this makes sense, considering the increase in likelihood for scoring from these areas. No significant value outside the box. Receiving and shooting from those areas in next event does not increase likelihood for scoring. </p>
 </div>  
 
-
-![L12](https://github.com/user-attachments/assets/6752a8ae-39f5-4e9e-8ce2-bb4e3147d294)
-
+<div style="text-align:center;">
+  <img src="https://github.com/user-attachments/assets/6752a8ae-39f5-4e9e-8ce2-bb4e3147d294" alt="L5" style="max-width:80%;"/>
+</div>
 A ROC-test (receiver operating characteristic curve) was done to test the accuracy. A score of 0.75 shows selected variables are relevant for predicting goal probability, and better than a wild guess. The score also says there are other variables outside the model that might affect the outcome. Knowing the model measure passes that leads to shots in the next event, also means the model does not give information about all the events afterwards. When using the model, these limitations should be taken into account.
 
 ### Applying the model
 Using the model gave direct expected assist for each player. The numbers are adjusted to per 90. There is a threshold for players with at least 300 minutes.  After normalizing for minutes,  the table show the direct expected assist per 90 (in the table below’ xA_per90’ is used as a shorter term for that). 
 
-Possible transfers in
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/96ceee42-020c-4763-aa1f-a44598f07016" alt="L18" style="max-width:100%;"/>
-</div>    
-Players realistically available considering club, value and reputation is highlighted. Based on the model, signing Lorenzo Insigne is my suggestion. A short-list with three names contains Lorenzo Insigne, Isaac Succes and Dominik Solanke. Karim Bellarabi might be an option, is 30 years of age, other options should be considered.  
+</div> 
+
+Figure shows potential transfer targets. Players realistically available considering club, value and reputation are highlighted. Based on the model, signing Lorenzo Insigne is the top suggestion. A short-list with three names contains Lorenzo Insigne, Isaac Succes and Dominik Solanke. Karim Bellarabi might be an option, is 30 years of age, other options should be considered.  
+
 ![i](https://github.com/user-attachments/assets/ee307410-a85e-4172-904e-5cdba9361d22)
 
-Lorenzo Insigne will cost around 60 m euros, and he will demand a high salary. He will be the most likely to produce most direct-expected assist per 90 from our targets. He also have played a lot of minutes, which makes him a safr option. Isaac Success is a budget option, with great numbers, but low minutes.
+Lorenzo Insigne will cost around 60 m euros, and he will demand a high salary. He will be the most likely to produce most direct-expected assist per 90 from our targets. He also have played a lot of minutes, which makes him a safer option. Isaac Success is a budget option, with great numbers, but low minutes.
 
 ### Summarize
 Analyzing the results still gave valuable insight about the Direct - expected assist. Findings suggest penetrating and creative passes (smartpass) and the importance of getting into areas close to goal for start location, and in front of goal for end location was important. Developing a machine learning model and create this metric was a great learning experience. I still would not use it for scouting, because I think such a metric metric should include events after the ball get into dangerous areas. Thanks to Ágúst and Nicole for great help in the process!
