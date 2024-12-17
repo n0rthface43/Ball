@@ -63,7 +63,7 @@ author:
   location: "Oslo"
   searching_job : "true"
   avatar : "/assets/images/b2.jpg"
-  bio    : "Passionate football fan :coffee: Enjoys analyzing football  :mag_right:"
+  bio    : "Enjoys analyzing football :coffee: :mag_right:"
   links:
     - label: "Twitter/x"
       icon: "fab fa-fw fa-twitter-square"
