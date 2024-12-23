@@ -5,8 +5,7 @@ Welcome to the **Ball** repository! This GitHub repository is designed to share 
 ## 📂 Contents
 
 ### 1. **Posts** (`_posts/`)
-A collection of articles analyzing various aspects of football. Topics include:
-- **2024-01-21:** Goal of the blog
+A collection of articles analyzing various aspects of football. Topics included:
 - **2024-02-19:** Danish Dynamite: Albert Grønbæk
 - **2024-08-15:** Spain vs England - Euro 2024 Match Analysis
 - **2024-12-07:** Expected Threat - Understanding City's Patterns
@@ -17,9 +16,6 @@ Jupyter Notebooks with metrics and visualizations:
 - `Fabián_Ruiz_passmap.ipynb` - Pass map analysis for Fabián Ruiz.
 - `Passmap Spain vs England Euro 2024.ipynb` - Detailed pass analysis of Spain vs England.
 - `Shotmap Spain vs England Eurofinal.ipynb` - Shot map analysis of Eurofinal.
-
-### 3. **Site Configurations**
-The repository also contains configuration files and resources for the accompanying GitHub Pages site.
 
 ## 🌐 Visit the Blog
 Check out the articles and visualizations on [my GitHub Pages site](https://n0rthface43.github.io/Ball/).
