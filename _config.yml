@@ -66,7 +66,7 @@ author:
   bio    : "Enjoys analyzing football :coffee: :mag_right:"
   links:
     - label: "Bluesky"
-      icon: "/assets/images/Bluesky_Logo.svg.png" 
+      icon: "/assets/images/Bluesky_Logo.jpg"  # Oppdatert med .jpg-fil
       url: "https://bsky.app/profile/hschjot.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -75,15 +75,15 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/henrik-schjoth/"
 
-
 footer:
   links:
     - label: "Bluesky"
-      icon: "/assets/images/Bluesky_Logo.svg.png" 
+      icon: "/assets/images/Bluesky_Logo.jpg"  # Oppdatert med .jpg-fil
       url: "https://bsky.app/profile/hschjot.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/n0rthface43/Ball"
+
 
 defaults:
   # _posts
