@@ -65,9 +65,9 @@ author:
   avatar : "/assets/images/b2.jpg"
   bio    : "Enjoys analyzing football :coffee: :mag_right:"
   links:
-    - label: "Twitter/x"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/Henrikschjoth"
+    - label: "Bluesky"
+      icon: "/assets/images/Bluesky_Logo.svg.png" 
+      url: "https://bsky.app/profile/hschjot.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/n0rthface43/Ball"
@@ -75,11 +75,12 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/henrik-schjoth/"
 
+
 footer:
   links:
-    - label: "Twitter/x"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/Henrikschjoth"
+    - label: "Bluesky"
+      icon: "/assets/images/Bluesky_Logo.svg.png" 
+      url: "https://bsky.app/profile/hschjot.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/n0rthface43/Ball"
