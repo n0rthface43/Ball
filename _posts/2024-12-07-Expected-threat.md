@@ -1,5 +1,5 @@
 ---
-title: "Using xT - looking for value on three continents"
+title: "Using xT - on three continents"
 excerpt_separator: "<!--more-->"
 categories:
   - Player analysis
@@ -9,7 +9,7 @@ tags:
   - International
 ---
 ------------
-### Using xT - who adds most value 
+### Using xT - pass and carry
 ------------
 <style>
   /* Generell stil for bilder og tekst ved siden av hverandre */
@@ -53,11 +53,12 @@ tags:
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/f5e85d9e-d250-4866-85a2-471bae04541d" alt="L4" style="max-width:80%;"/>
 </div>
-Football is a low scoring sport, shots and goals rare. Passes (28%) and carries (23%) are events that happens more often. During Euro 45630 passes and 44139 carries were completed. In this article I will explore which of those passes and carries that adds value, and which players who are best at this. And Europe is not enough. Players from Copa America and Africa Cup of Nations will also be analyzed. Expected threat, or xT will be the analytical framework for doing that.  
+Football is a low scoring sport, where shots and goals are rare. During Euro 45630 passes and 44139 carries were completed. What happens most often in a football match is passes and carries [Statsbomb]([https://github.com/statsbomb/open-data/blob/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf]). In this article I will explore which of those passes and carries that adds value, and finding the best players conducting these actions. Expected threat, or xT will be the analytical framework for doing that. I will briefly go through position based expected threat. Finally I will evaluate players in different positions from Euro (2024) Copa America (2024) and Africa Cup of Nations (2023) will be analyzed. 
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/830d66c8-dfe7-4625-9164-727fec1c6b15" alt="L4" style="max-width:80%;"/>
 </div>
-In Euros the player with most passes was John Stones, accumulating 526 with his teammate Mark Guehi in fifth. Going back 15 years, knowing this might increase the view on their ability. Today football have adapted.
+
+In the Euros John Stones was top for highest number of passes, accumulating 526 passes through the tournament, with his teammate in defence Mark Guehi in fifth place. Going back 15 years, knowing this might increase the view on their passing ability. Moving beyond this statistics  Today expected threat exist in more ver
 If you want to dig into more about the metric, there is brilliant articles from Karun Singh[Karun Sing](https://karun.in/blog/expected-threat.html), David Sumpter and Tom Worville.Each of them created a grid for the football pitch, with values.  
 The idea behind expected threat have becoming popular since Karun Singh, (inspired by work from Sarah Rudd) introduced it in an article in 2018. 
 
@@ -85,10 +86,10 @@ Position based expected threat is one of many approaches among the extended use 
 
 
 Sources:   
-[Wearebrighton(2024)]((https://www.wearebrighton.com/newsopinion/how-simon-adingra-and-ivory-coast-became-afcon-champions/)
-[Statsbomb (2019) ]((https://github.com/statsbomb/open-data/blob/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf)
-[Worville, T. (2021)]((https://www.nytimes.com/athletic/2751525/2021/08/06/introducing-expected-threat-or-xt-the-new-metric-on-the-block/)
-[Sumpter, D. (2022)]((https://soccermatics.readthedocs.io/en/latest/lesson4/xTPos.html)
-[Singh, K. (2018)]((https://karun.in/blog/expected-threat.html)
+[Wearebrighton(2024)]([https://www.wearebrighton.com/newsopinion/how-simon-adingra-and-ivory-coast-became-afcon-champions/]).
+[Statsbomb]([https://github.com/statsbomb/open-data/blob/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf]).
+[Worville, T. (2021)]([https://www.nytimes.com/athletic/2751525/2021/08/06/introducing-expected-threat-or-xt-the-new-metric-on-the-block/])
+[Sumpter, D. (2022)]([https://soccermatics.readthedocs.io/en/latest/lesson4/xTPos.html])
+[Singh, K. (2018)]([https://karun.in/blog/expected-threat.html])
 
 
