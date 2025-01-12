@@ -49,6 +49,7 @@ tags:
     }
   }
 </style>
+<em>cat's meow</em>
 Football is a low-scoring sport where goals are rare, but passes and carries dominate the action. During EURO last summer, an incredible 45,630 passes and 44,139 carries were completed. This article explores which of these actions add the most value—and identifies the players excelling at them. Using position-based expected threat (xT), I will answer key questions, such as:
 - Is there a correlation between xT and winning?
 - Which teams and players created the most xT per game during EURO 2024?
