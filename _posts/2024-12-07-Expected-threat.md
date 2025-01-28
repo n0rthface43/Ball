@@ -58,7 +58,7 @@ There are different types of expected threat. On-ball-value, possession-value, p
 Position-based expected threat assigns a <em> value </em> to each point on the pitch. That value is the expected threat, or xT. This value is the probability of scoring either directly from that position, or after moving the ball elsewhere before ball is lost or out of play. David Sumpter from Twelve have written a great article about this. You can read more [here](([https://soccermatics.readthedocs.io/en/latest/lesson4/xTPos.html])).  
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/203f262a-a956-484a-b12f-3b65a1e2f393" alt="L4" style="max-width:80%;"/>
-</div> Figure 1. Grid fromt The Athletic. Worville, Tom. (2021)
+</div> Figure 1. Grid from The Athletic. Worville, Tom. (2021)
 
 The grid above is an example with xT values for all locations on the pitch, divided into bins. Attacking from left to right, values obviously increase close to opposition goal. xT-values is set from 0.0 - 1.0. Outside the box location(A) have a value of 0,034. This means scoring directly from here or scoring after moving the ball to another location is given a 3,4 % chance. If ball is moved from (A) to (B) we can calculate xT. The xT-value is the difference between those two values. <br>
 $$
@@ -78,22 +78,19 @@ Using data from the Premier League 2017/2018 season, I investigated whether team
 The results indicate that top teams generate significantly more xT. The old "Top Six" teams stand apart from the rest, underscoring the influence of xT on league outcomes. Carrying out a correlation test gave more information about the size of connection.   
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/c63e9dd3-5d22-4603-bde4-01f78be73cc2" alt="L4" style="max-width:80%;"/>
-</div> Figure 3. Pearson correlation for xT and leaguerank PL 2017/2018
+</div> Figure 3. Pearson correlation for xT and leaguerank PL 2017/2018 <br>
 In this context the correlation coefficient measures the linear relationship between xT and leaguerank. Pearson correlation is measured from -1 to 1 where 1 meaning xT-value explaining all league ranks, 0 meaning there is no connection, and -1 is negative correlation (Leaguerank is flipped to avoid negative correlation (1.place would originally mean low league rank where high xT and low leaguerank would have give negative correlation, so here it was flipped in purpose of avoiding negative values)). There is a strong relationship (0.785) between xT and leaguerank. Teams that accumulated more xT were more likely to finish higher in the table. After establishing xT’s relevance for 2017/2018, let’s now apply this lens to modern football and EURO 2024.
 ### EURO 2024 
-For this analysis xT is split into passes and carries. 
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/e195b057-a81b-4d99-9a13-5767713ed259" alt="L4" style="max-width:80%;"/>
-</div> 
+  <img src="https://github.com/user-attachments/assets/db0aca82-8543-44a4-b22e-ab7efd3b823b" alt="L4" style="max-width:80%;"/>
+</div> <br>
+Francisco Conceição (Portugal) leading the chart. He just got himself into this list after playing 202 minutes (threshold for minutes is set to minimum 150). Splitting xT into separate charts for passes and carries gives a more clear picture about different abilities.
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/3af088bd-38cb-49a4-99e5-58b6338d3171" alt="L4" style="max-width:80%;"/>
-</div> 
-
+  <img src="https://github.com/user-attachments/assets/9b664f69-b5df-46ba-92b1-ff424b572367" alt="L4" style="max-width:80%;"/>
+</div> <br>
 <div style="text-align:center;">
-  <img src="ACC_xT_pass_carries](https://github.com/user-attachments/assets/25dd981d-7530-4b69-b9d5-bff10cd8a163" alt="L4" style="max-width:80%;"/>
+  <img src="https://github.com/user-attachments/assets/14b58d66-0f57-428c-98fb-c08c393cc532" alt="L4" style="max-width:80%;"/>
 </div> 
-
-
 
 
 Sources:   
