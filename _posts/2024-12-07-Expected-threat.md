@@ -49,12 +49,12 @@ tags:
     }
   }
 </style>
-In football, we often talk about goals and shots, but what if the most important actions happen long before the ball reaches the net? With expected threat we can quantify how teams and players create dangerous situations – and perhaps even predict who will win. During EURO last summer, 45,630 passes and 44,139 carries were completed. This article explores which of these actions add the most value—and identifies the players and teams excelling at them. Using <em> position-based expected threat </em> (xT), I will answer key questions, such as:
+In football, we often talk about goals and shots, but what if the most important actions happen long before the ball reaches the net? With expected threat we can quantify how teams and players create dangerous situations – and perhaps even predict who will win. During EURO last summer, 45,630 passes and 44,139 carries were completed. This article explores which of these actions add the most value and identifies the players and teams excelling at them. Using <em> position-based expected threat </em> (xT), I will explore questions such as:
 - Is there a connection between xT and winning?
 - Which teams and players created most xT per game during EURO 2024?
-- Which player positions are most efficient at creating xT?<br>
+- Which player positions are most efficient at creating xT?
 ### Position-based expected threat
-Position-based expected threat assigns a <em> value </em> to each point on the pitch. That value is the expected threat, or xT. This value is the probability of scoring either directly from that position, or after moving the ball elsewhere before ball is lost or out of play. We can think of xT as a way to measure how ‘dangerous’ a movement of the ball is. If you move the ball from a harmless position to a more threatening one, your team’s chances of scoring increase – and that’s exactly what we can quantify.<br> 
+Position-based expected threat assigns a <em> value </em> to each point on the pitch. That value is the expected threat: xT. This value is the probability of scoring either directly from that position, or after moving the ball elsewhere before ball is lost or out of play. We can think of xT as a way to measure how ‘dangerous’ a specific ball move is. If you move the ball from a harmless position to a more threatening one, your team’s chances of scoring increase. These types of moves can be calculated and quantified, which gives us the xT value. <br> 
 ### The grid
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/203f262a-a956-484a-b12f-3b65a1e2f393" alt="L4" style="max-width:80%;"/>
