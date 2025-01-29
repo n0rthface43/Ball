@@ -54,22 +54,17 @@ In football, we often talk about goals and shots, but what if the most important
 - Which teams and players created most xT per game during EURO 2024?
 - Which player positions are most efficient at creating xT?<br>
 ### Position-based expected threat
-Position-based expected threat assigns a <em> value </em> to each point on the pitch. That value is the expected threat, or xT. This value is the probability of scoring either directly from that position, or after moving the ball elsewhere before ball is lost or out of play. We can think of xT as a way to measure how ‘dangerous’ a movement of the ball is. If you move the ball from a harmless position to a more threatening one, your team’s chances of scoring increase – and that’s exactly what we can quantify. 
-
-
-
+Position-based expected threat assigns a <em> value </em> to each point on the pitch. That value is the expected threat, or xT. This value is the probability of scoring either directly from that position, or after moving the ball elsewhere before ball is lost or out of play. We can think of xT as a way to measure how ‘dangerous’ a movement of the ball is. If you move the ball from a harmless position to a more threatening one, your team’s chances of scoring increase – and that’s exactly what we can quantify.<br> 
 ### The grid
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/203f262a-a956-484a-b12f-3b65a1e2f393" alt="L4" style="max-width:80%;"/>
 </div> Figure 1. Grid from The Athletic. Worville, Tom. (2021)
-The grid above is an example with xT values divided into bins. xT-values are set from 0-1. A value of 1.0 means that every action from that location would result in a goal, either directly from a shot or indirectly after moving the ball elsewhere. Values obviously increase closer to the opposition goal (Attacking from left to right in figure).
-Location (A) has a value of 0.034. This means scoring directly from here or scoring after moving the ball to another location has a 3.4% chance. If the ball is moved from (A) to (B), we can calculate xT as follows:
-\[
-xT = xT(B) - xT(A) \\[5pt]
+xT-values is calculated using a grid. The grid above is an example with 16x12 bins, each containing xT for that area. xT-values are set from 0-1. A value of 1 means that every action from that location would result in a goal, either directly from a shot or indirectly after moving the ball elsewhere. Values obviously increase closer to the opposition goal (Attacking from left to right in figure). Location (A) has a value of 0.034. This means scoring directly from here or scoring after moving the ball to another location has a 3.4% chance. If the ball is moved from (A) to (B), we can calculate xT as follows:
+\[xT = xT(B) - xT(A) \\[5pt]
 xT = 0.134 - 0.034 = 0.1
 \]
 The player moving the ball is credited with 0.1 xT, increasing the team's chance of scoring by 10%. 
-While the grid in Figure 1 uses a 16x12 layout, this analysis uses a 12x8 grid taken from McKay Johns' github (link in description). Credit to him for his valuable sharing and contributions. The grid is bases on data from multiple seasons. The numbers in the grid represent values for each location on the pitch. Calculating probabilities of the ball moving to different locations is the foundation for calculating xT. "Moving the ball" can be splitted into three different football actions; passes, carries and dribbles. Dribbles on avergage only make up 0.94% of football match events, while passes (28%) and carries (23%) are what happens most often in a match [(Hudl/Statsbomb).([https://github.com/statsbomb/open-data/blob/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf]). David Sumpter from Twelve have written a great article where goes more into depth. You can read more [here](([https://soccermatics.readthedocs.io/en/latest/lesson4/xTPos.html])). With a foundational understanding of xT, let’s dive into real-world applications. 
+While the grid in Figure 1 uses a 16x12 layout, this analysis uses a 12x8 grid taken from McKay Johns' github (link in description). Credit to him for his valuable sharing and contributions. The grid is bases on data from multiple seasons. The numbers in the grid represent values for each location on the pitch. Calculating probabilities of the ball moving to different locations is the foundation for calculating xT. "Moving the ball" can be splitted into three different football actions; passes, carries and dribbles. David Sumpter from Twelve have written a great article where goes more into depth. You can read more [here](([https://soccermatics.readthedocs.io/en/latest/lesson4/xTPos.html])) if you wnat to dig further into it. With a foundational understanding of xT, let’s dive into real-world applications. 
 
 ### xT and Winning: Is There a Connection?
 Using data from the Premier League 2017/2018 season, I investigated whether teams with higher xT-values consistently performed better, measured with leaguerank. Here only passes are measured, since carries were not implemented in the Statsbomb data at this point.  
@@ -77,7 +72,7 @@ Using data from the Premier League 2017/2018 season, I investigated whether team
   <img src="https://github.com/user-attachments/assets/8091bea4-22c1-4166-b3f1-62cba2c1dffb" alt="L4" style="max-width:90%;"/>
 </div> 
 
-The results indicate that top teams generate significantly more xT. The old "Top Six" teams stand apart from the rest, underscoring the influence of xT on league outcomes. Carrying out a correlation test gave more information about the size of connection.   
+The results indicate that top teams generate significantly more xT. The old "Top Six" teams stand apart from the rest, underscoring the influence of xT on league outcomes. Carrying out a correlation test gave more information about the size of connection. There is definately more factors affecting the outcome, but there is reason to argument that xT is relevant.  
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/c63e9dd3-5d22-4603-bde4-01f78be73cc2" alt="L4" style="max-width:80%;"/>
 </div> Figure 3. Pearson correlation for xT and leaguerank PL 2017/2018 <br>
