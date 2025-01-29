@@ -1,5 +1,5 @@
 ---
-title: "Using xT - and the connection with winning?"
+title: "xT - and winning?"
 excerpt_separator: "<!--more-->"
 categories:
   - Player analysis
@@ -9,7 +9,7 @@ tags:
   - International
 ---
 ------------
-### Using xT - pass and carry
+### Expected threat - a tool for evaluating performance
 ------------
 <style>
   /* Generell stil for bilder og tekst ved siden av hverandre */
@@ -54,32 +54,28 @@ In football, we often talk about goals and shots, but what if the most important
 - Which teams and players created most xT per game during EURO 2024?
 - Which player positions are most efficient at creating xT?
 ### Position-based expected threat
-Position-based expected threat assigns a <em> value </em> to each point on the pitch. That value is the expected threat: xT. This value is the probability of scoring either directly from that position, or after moving the ball elsewhere before ball is lost or out of play. We can think of xT as a way to measure how ‘dangerous’ a specific ball move is. If you move the ball from a harmless position to a more threatening one, your team’s chances of scoring increase. xT quantifies how much more(or less) threatening the new position is. And that value is the expected threat.   <br> 
-### The grid
-xT values are calculated using a grid. The grid below is an example with 12x8 bins, each bin containing numbers from 0-1. These numbers are probabilities for scoring from that position before ball go out of play. The probabilities are based on markow chains, which both takes into account the probability for scoring directly from the location and the probability for moving the ball to other locations and then scoring. This thought were first used by Sarah Rudd in 2012, and later Karun Singh called it "expected threat" in an article in 2018.
+Position-based expected threat assigns a <em> value </em> to each point on the pitch. These values is probabilities for their respective areas and used for finding expected threat, or xT. Each probability is the chance for scoring from that particular position, either directly or after moving the ball elsewhere before ball is lost or out of play. The grid below is an example with probabilities split into 12x8 bins, where each bin containing these probabilities. These probabilities are based on multiple seasons of football data. They are made with the use of a mathematical concept called markow chains, which calculate probabilities for sequence of events. This thought were first used in football by Sarah Rudd, and later Karun Singh called it "expected threat" in an article in 2018. 
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/c3c8290d-e678-4822-a017-a77f8bb7c7f1" alt="L4" style="max-width:80%;"/>
-</div> Figure 1. Grid with xT-values 
-A value of 1 means that every sequence from that location would result in a goal, either directly from a shot, or indirectly after moving the ball elsewhere. The values obviously increase the closer we get to the opposition goal (attacking from left to right in figure).
-The difference between end and start location give the xT-value for whatever action that moved the ball. Lets use an example to illustrate how to find the xT-value.  
+</div> Figure 1. Grid with probabilities 
+A value of 1 means every sequence of play from that location would result in a goal, either directly from a shot, or indirectly after moving the ball elsewhere. The values obviously increase the closer we get to the opposition goal (attacking from left to right in figure). The <em> difference</em> in probabilities between end and start location give the xT-value. Lets use an example to illustrate.  
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/676a3be7-3ee4-4d2a-ac51-85efe84ab6fc" alt="L4" style="max-width:80%;"/>
-</div>
-Location (A) has a value of 0.019. This means that there is a 1.9% chance of scoring either directly from A or scoring after moving the ball to another location. If the ball is moved from (A) to (B), we can calculate xT with subtracting xT(B)-xT(A).  The player moving the ball (Calhanoglu in this case) is credited with 0.238 xT, increasing his team's chance of scoring by 23,8 %. 
-The grid used in this analysis is from McKay Johns' github (see link at bottom). Credit to him for his valuable sharing and contributions. This grid is based on data from multiple seasons. There is multiple versions of this type of grid. Calculating probabilities of the ball moving to different locations is the foundation for calculating xT. "Moving the ball" can be split into three different football actions: passes, carries and dribbles.Tom Worville wrote an article about this, where he covers it more in-depth: [here](([https://www.nytimes.com/athletic/2751525/2021/08/06/introducing-expected-threat-or-xt-the-new-metric-on-the-block/])). With a foundational understanding of xT, let’s move into real-world applications. 
+  <img src="https://github.com/user-attachments/assets/7add0a62-dfad-40f7-8298-c2f52b9dc964" alt="L4" style="max-width:80%;"/>
+</div> 
+Location (A) has a value of 0.019. This means a 1.9% chance of scoring either directly from A or after moving the ball to another location. If the ball is moved from (A) to (B), we can calculate xT with subtracting p(B)-p(A). The player passing the ball (Calhanoglu in this case) is credited with 0.238 xT, increasing his team's chance of scoring by 23,8 %. 
+The numbers in the grid above are from McKay Johns' github (see link at bottom). Credit to him for his valuable sharing and contributions. There is multiple versions of this type of grid. Tom Worville wrote an article about this, where he covers it more in-depth: [here](([https://www.nytimes.com/athletic/2751525/2021/08/06/introducing-expected-threat-or-xt-the-new-metric-on-the-block/?onboarded=true])). With a foundational understanding of xT, let’s move into real-world applications. 
 
 ### xT and Winning: Is There a Connection?
 Using data from the Premier League 2017/2018 season, I investigated whether teams with higher xT values consistently performed better, measured with leaguerank. Here, I only measure passes, as carries were not a part of the Statsbomb data at that point.  
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/8091bea4-22c1-4166-b3f1-62cba2c1dffb" alt="L4" style="max-width:90%;"/>
 </div> 
-
-The results indicate that top teams generate significantly more xT. The old "Top Six" teams stand apart from the rest, underscoring the influence of xT on league outcomes. Carrying out a correlation test give more information about the size of connection between the two. 
+The results indicate top teams generate significantly more xT. The old "top six" teams stand apart from the rest, underscoring the influence of xT on league outcomes. Carrying out a correlation test give more information about the size of connection between the two. 
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/c63e9dd3-5d22-4603-bde4-01f78be73cc2" alt="L4" style="max-width:100%;"/>
-</div> Figure 3. Pearson correlation for xT and leaguerank PL 2017/2018 <br>
-
-The correlation coefficient measures the linear relationship between xT and leaguerank. Pearson correlation is measured from -1 to 1, where 1 meaning xT value explaining all league ranks, 0 meaning there is no connection, and -1 is negative correlation. Here, leaguerank is flipped to avoid negative correlation (1st place would originally mean low league rank, and combination of high xT and low leaguerank would then give negative correlation). There is a strong relationship (0.785) between xT and leaguerank. Teams that accumulated more xT were more likely to finish higher in the table. There are definately more factors affecting the outcome, but the high correlation suggest xT as a relevant metric. After establishing xT’s relevance for 2017/2018, let’s apply this to present time and EURO 2024.
+</div> Figure 3. Pearson correlation for xT and leaguerank PL 2017/2018 
+<br>
+The correlation coefficient measures the linear relationship between xT and leaguerank. Pearson correlation is measured from -1 to 1, where 1 meaning xT value explaining all league ranks, 0 meaning there is no connection, and -1 is negative correlation. Here, leaguerank is flipped to avoid negative correlation (1st place would originally mean low leaguerank). There is a strong relationship (0.785) between xT and leaguerank. Teams that accumulated more xT were more likely to finish higher in the table. There are definately more factors affecting the outcome, but the high correlation suggest xT as a relevant metric. After establishing xT’s relevance for 2017/2018, let’s apply this to present time and EURO 2024.
 ### EURO 2024
 Here are three examples of different passes and their xT values during EURO 2024. These passes had some of the highest xT values in the tournament.
 {% include video id="YS2X1fw62Ko" provider="youtube" %}
@@ -91,15 +87,15 @@ Francisco Conceição (Portugal) leads the xT chart: The threshold for minutes i
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/6d5e85de-f2b5-41d0-94c4-0d51581c8198" alt="L4" style="max-width:80%;"/>
 </div> <br>
-One observation from this figure is the much higher number of xT created by passes, compared to carries. Passing is an easier way to get the ball into dangerous areas, unless your name is Jeremy Doku. Doku is a clear example of a player tasked with carrying the ball and creting chances. A comparison between players make more sense for players in similar position and roles (original positions is taken from Hudl/Statsbomb lineups). From those positions, I then made six groups.  
+One observation from this figure is the much higher number of xT created by passes, compared to carries. Passing is an easier way to get the ball into dangerous areas, unless your name is Jeremy Doku. Doku is a clear example of a player tasked with carrying the ball and creating chances. A comparison between players make more sense for players in similar position and roles (original positions is taken from Hudl/Statsbomb lineups). From those positions, I then made six groups.  
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/4a9c89d7-fd05-4d3c-b66e-d7cae55b0bc5" alt="L4" style="max-width:80%;"/>
 </div> 
-The figure above indicates a high amount of carries for wingers, as well as passes and carries for both defence and central midfielders. The low average for forwards could maybe be explained by low involvement. The wingers and CMs stand out for carries. Accumulating xT might be easier for a winger or a central midfielder who recieves the ball wider or deeper. 
+The figure above show a high amount of carries for wingers, as well as passes and carries for both defence and central midfielders. The low average for forwards could maybe be explained by low involvement. The wingers and CMs stand out for carries. Accumulating xT might be easier for a winger or a central midfielder who can recieve the ball wider or deeper compared to a forward who could have more difficult to get on the ball. After splitting into positions, we can explore who performed in spesific position groups.
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/f8e2690c-975a-4b59-a2ba-7ee2fed5a203" alt="L4" style="max-width:80%;"/>
 </div> <br>
-Wingers are top for carries, and high for passes as well. This confirms Doku's special ability of running with the ball. It also shows top passers like Eriksen and Tadic, as well as players who excell at doing both, like Conceição and Williams.  
+Wingers were top for carries in the position group, and high for passes as well. This visual confirms Doku's special ability of running with the ball. It also shows top passers like Eriksen and Tadic, as well as players who excell at doing both, like Conceição and Williams.  
 <br>
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/4f352477-0ec7-420b-a12d-254f71b5c046" alt="L4" style="max-width:80%;"/>
@@ -107,8 +103,7 @@ Wingers are top for carries, and high for passes as well. This confirms Doku's s
 In center midfield we see many players scoring high for both passes and carries. Baumgartner (Switzerland) stands out with extrordinary high xT from passes, and Bruno for carries. The numbers are even more impressive for players who reached the final stages of the tournament (like Pedri, Olmo and Simons), who managed to deliver high xT numbers for more games.
 
 ### Summing up: Advantages and limitations
-As I have shown in this article, xT is all about assigning a value to each location on the pitch, and finding the difference between the start and end location after moving the ball. This value difference is the expected threat, which tells us if the moving action increased or decreased the chance of scoring a goal. This way, even a pass on your own half can be measured as valuable, which in my opinion is one of the great properties that xT contains: xT measures ball movements that are not shots or goals (shots is less than 1% of the events). Another property, is that xT is quite simple both to implement and understand, and it can provide useful information about teams and players. One limitation with xT, however, is that it only uses the location of the ball, and does not take other factors into account (i.e. position of opponents and teammates, type of pass, pressure, passage of play, etc.) That is where an action based model like on-ball-value or other possession value models come into play and can add valuable context. More of that in a later article.
-
+As I have shown in this article, xT is all about assigning a value to the ball movement, based on difference in probabilities for scoring goals from each areas on the pitch. This difference in probabilties is the expected threat, which tells us if the moving action increased or decreased the chance of scoring a goal. This way, even a pass on your own half can be measured as valuable, which in my opinion is one of the great properties that xT contains: xT measures ball movements that are not shots or goals (shots is less than 1% of the events). Another property, is that xT is quite simple both to implement and understand, and it can provide useful information about teams and players. One limitation with xT, however, is that it only uses the location of the ball, and does not take other factors into account (i.e. position of opponents and teammates, type of pass, pressure, passage of play, etc.) That is where an action based model like on-ball-value or other possession value models come into play and can add valuable context. More of that in a later article.
 
 
 Sources:   
@@ -116,13 +111,14 @@ Sources:
 [Statsbomb](https://github.com/statsbomb/open-data/blob/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf)  
 (([https://github.com/statsbomb/open-data/blob/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf])).
 
-[Worville, T. (2021)](https://www.nytimes.com/athletic/2751525/2021/08/06/introducing-expected-threat-or-xt-the-new-metric-on-the-block/)  
-(([https://www.nytimes.com/athletic/2751525/2021/08/06/introducing-expected-threat-or-xt-the-new-metric-on-the-block/])).
+[Worville, T. (2021)](https://www.nytimes.com/athletic/2751525/2021/08/06/introducing-expected-threat-or-xt-the-new-metric-on-the-block/).
 
 [Sumpter, D. (2022)](https://soccermatics.readthedocs.io/en/latest/lesson4/xTPos.html)  
 (([https://soccermatics.readthedocs.io/en/latest/lesson4/xTPos.html])).
 
 [Singh, K. (2018)](https://karun.in/blog/expected-threat.html)  
 (([https://karun.in/blog/expected-threat.html])).
+[Mckay Johns, (github)](https://github.com/mckayjohns/youtube-videos/blob/main/code/xT%20Tutorial.ipynb)  
+(([https://github.com/mckayjohns/youtube-videos/blob/main/code/xT%20Tutorial.ipynb])).
 
 
