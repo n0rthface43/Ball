@@ -59,16 +59,16 @@ Position-based expected threat assigns a <em> value </em> to each point on the p
   <img src="https://github.com/user-attachments/assets/203f262a-a956-484a-b12f-3b65a1e2f393" alt="L4" style="max-width:80%;"/>
 </div> Figure 1. Grid from The Athletic. Worville, Tom. (2021)
 
-The grid above is an example with xT values divided into bins. xT-values are set from 0-1. A value of 1.0 means that every action from that location would result in a goal, either directly from a shot or indirectly after moving the ball elsewhere. Values obviously increase closer to the opposition goal (Attacking from left ot right in figure).
+The grid above is an example with xT values divided into bins. xT-values are set from 0-1. A value of 1.0 means that every action from that location would result in a goal, either directly from a shot or indirectly after moving the ball elsewhere. Values obviously increase closer to the opposition goal (Attacking from left to right in figure).
 Location (A) has a value of 0.034. This means scoring directly from here or scoring after moving the ball to another location has a 3.4% chance. If the ball is moved from (A) to (B), we can calculate xT as follows:
 \[
 xT = xT(B) - xT(A) \\[5pt]
 xT = 0.134 - 0.034 = 0.1
 \]
 
-The player moving the ball is credited with 0.1 xT, increasing the team's chance of scoring by 10%.
-
-
+The player moving the ball is credited with 0.1 xT, increasing the team's chance of scoring by 10%. Here are some examples of different passes during the Euro. They were all among the top 30 actions for xT during the whole tournament. 
+{% include video id="YS2X1fw62Ko" provider="youtube" %}
+ 
 ### The grid
 While the grid in Figure 1 uses a 16x12 layout, this analysis uses a 12x8 grid taken from McKay Johns' github (link in description). Credit to him for his valuable sharing and contributions. The grid is bases on data from multiple seasons. The numbers in the grid represent values for each location on the pitch. Calculating probabilities of the ball moving to different locations is the foundation for calculating xT. "Moving the ball" can be splitted into three different football actions; passes, carries and dribbles. Dribbles on avergage only make up 0.94% of football match events, while passes (28%) and carries (23%) are what happens most often in a match [(Hudl/Statsbomb).([https://github.com/statsbomb/open-data/blob/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf]). With a foundational understanding of xT, let’s dive into real-world applications. 
 
