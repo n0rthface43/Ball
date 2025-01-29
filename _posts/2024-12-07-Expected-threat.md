@@ -98,15 +98,15 @@ One observation from this, is the much higher number of xT created by passes com
 </div> 
 This give more information about what xT-numbers to expect from players in different positions. The figure indicates high carries for wingers, passing and carries for both defence, and central midfielders. The low average for forwards is interesting. Starting actions in a position far up the pitch will give a high xT for the starting position, which might make it more difficult getting the ball to an even more dangerous location, which would be easier for a winger or a central midfielder recieving ball wider or deeper. The wingers and CMs also stand out for carries. Checking spesific positions will tell us who the best players for xT are in spesific positions. 
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/f8e2690c-975a-4b59-a2ba-7ee2fed5a203)" alt="L4" style="max-width:80%;"/>
+  <img src="https://github.com/user-attachments/assets/f8e2690c-975a-4b59-a2ba-7ee2fed5a203" alt="L4" style="max-width:80%;"/>
 </div> <br>
 WIngers are top for carries, and high for passes as well. This confirms Dokus special ability of running with the ball. It also show top passers like Eriksen and Tadic. And players who excel at doing both, like Conceição and Williams.  
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/f8e2690c-975a-4b59-a2ba-7ee2fed5a203)" alt="L4" style="max-width:80%;"/>
+  <img src="https://github.com/user-attachments/assets/f8e2690c-975a-4b59-a2ba-7ee2fed5a203" alt="L4" style="max-width:80%;"/>
 </div> <br>
 
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/4f352477-0ec7-420b-a12d-254f71b5c046)" alt="L4" style="max-width:80%;"/>
+  <img src="https://github.com/user-attachments/assets/4f352477-0ec7-420b-a12d-254f71b5c046" alt="L4" style="max-width:80%;"/>
 </div>
 In center midfield we see a lot of players are high for both. Baumgartner (Switzerland) stands out with extrordinary high xT from passing, and Bruno for carries. The numbers are more impressive for players reaching the final stages and playing more minutes, because they have managed to delivered high xT numbers for more games.
 
