@@ -54,16 +54,16 @@ In football, we often talk about goals and shots, but what if the most important
 - Which teams and players created most xT per game during EURO 2024?
 - Which player positions are most efficient at creating xT?
 ### Position-based expected threat
-Position-based expected threat assigns a <em> value </em> to each point on the pitch. These values is probabilities for their respective areas and used for finding expected threat, or xT. Each probability is the chance for scoring from that particular position, either directly or after moving the ball elsewhere before ball is lost or out of play. The grid below is an example with probabilities split into 12x8 bins, where each bin containing these probabilities. These probabilities are based on multiple seasons of football data. They are made with the use of a mathematical concept called markow chains, which calculate probabilities for sequence of events. This thought were first used in football by Sarah Rudd, and later Karun Singh called it "expected threat" in an article in 2018. 
+Position-based expected threat assigns a <em> value </em> to each point on the pitch. These values is probabilities for their respective areas and used for finding expected threat, or xT. Each probability is the chance for scoring from that particular position, either directly or after moving the ball elsewhere before ball is lost or out of play. The grid below is an example with probabilities split into 12x8 bins, where each bin containing these probabilities. These probabilities are based on multiple seasons of football data. They are made with the use of a mathematical concept called markow chains, which calculate probabilities for sequence of events. This thought were first used in football by Sarah Rudd, and later Karun Singh used the same idea and called it "expected threat" in an article in 2018 (you can read here). 
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/c3c8290d-e678-4822-a017-a77f8bb7c7f1" alt="L4" style="max-width:80%;"/>
-</div> Figure 1. Grid with probabilities 
-A value of 1 means every sequence of play from that location would result in a goal, either directly from a shot, or indirectly after moving the ball elsewhere. The values obviously increase the closer we get to the opposition goal (attacking from left to right in figure). The <em> difference</em> in probabilities between end and start location give the xT-value. Lets use an example to illustrate.  
+</div> Figure 1. Grid with probabilities <br>
+A value of 1 means every sequence of play from that location would result in a goal, either directly from a shot, or indirectly after moving the ball elsewhere. The values obviously increase the closer we get to the opposition goal. The <em> difference</em> in probabilities between the end and start location give the xT-value. Lets use an example to illustrate.  
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/7add0a62-dfad-40f7-8298-c2f52b9dc964" alt="L4" style="max-width:80%;"/>
 </div> 
-Location (A) has a value of 0.019. This means a 1.9% chance of scoring either directly from A or after moving the ball to another location. If the ball is moved from (A) to (B), we can calculate xT with subtracting p(B)-p(A). The player passing the ball (Calhanoglu in this case) is credited with 0.238 xT, increasing his team's chance of scoring by 23,8 %. 
-The numbers in the grid above are from McKay Johns' github (see link at bottom). Credit to him for his valuable sharing and contributions. There is multiple versions of this type of grid. Tom Worville wrote an article about this, where he covers it more in-depth: [here](([https://www.nytimes.com/athletic/2751525/2021/08/06/introducing-expected-threat-or-xt-the-new-metric-on-the-block/?onboarded=true])). With a foundational understanding of xT, let’s move into real-world applications. 
+Location (A) has a prability of 0.019. This means a 1,9% chance of scoring either directly from A or after moving the ball to another location. If the ball is moved from (A) to (B), we can calculate xT for that movement with subtracting p(B)-p(A). The player passing the ball (Calhanoglu in this case) is credited with 0.238 xT, increasing his team's chance of scoring by 23,8 %. 
+The numbers in the grid above are from McKay Johns' github (see link at bottom). Credit to him for his valuable sharing and contributions. There is multiple versions of this type of grid. Tom Worville wrote an article where he covers it more in-depth: [here](([https://www.nytimes.com/athletic/2751525/2021/08/06/introducing-expected-threat-or-xt-the-new-metric-on-the-block/?onboarded=true])). With a foundational understanding of xT, let’s move into real-world applications. 
 
 ### xT and Winning: Is There a Connection?
 Using data from the Premier League 2017/2018 season, I investigated whether teams with higher xT values consistently performed better, measured with leaguerank. Here, I only measure passes, as carries were not a part of the Statsbomb data at that point.  
@@ -108,17 +108,16 @@ As I have shown in this article, xT is all about assigning a value to ball movem
 
 Sources:   
 
-[Statsbomb](https://github.com/statsbomb/open-data/blob/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf)  
-(([https://github.com/statsbomb/open-data/blob/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf])).
+### Sources:   
+[Statsbomb Open Data Specification (PDF)](https://raw.githubusercontent.com/statsbomb/open-data/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf)
 
-[Worville, T. (2021)](https://www.nytimes.com/athletic/2751525/2021/08/06/introducing-expected-threat-or-xt-the-new-metric-on-the-block/).
+[Worville, T. (2021) - Expected Threat (The Athletic)](https://www.nytimes.com/athletic/2751525/2021/08/06/introducing-expected-threat-or-xt-the-new-metric-on-the-block/)
 
-[Sumpter, D. (2022)](https://soccermatics.readthedocs.io/en/latest/lesson4/xTPos.html)  
-(([https://soccermatics.readthedocs.io/en/latest/lesson4/xTPos.html])).
+[Sumpter, D. (2022) - Expected Threat Analysis](https://soccermatics.readthedocs.io/en/latest/lesson4/xTPos.html)
 
-[Singh, K. (2018)](https://karun.in/blog/expected-threat.html)  
-(([https://karun.in/blog/expected-threat.html])).
-[Mckay Johns, (github)](https://github.com/mckayjohns/youtube-videos/blob/main/code/xT%20Tutorial.ipynb)  
-(([https://github.com/mckayjohns/youtube-videos/blob/main/code/xT%20Tutorial.ipynb])).
+[Singh, K. (2018) - Understanding Expected Threat (xT)](https://karun.in/blog/expected-threat.html)
+
+[Mckay Johns xT Tutorial (Jupyter Notebook)](https://nbviewer.jupyter.org/github/mckayjohns/youtube-videos/blob/main/code/xT%20Tutorial.ipynb)
+
 
 
