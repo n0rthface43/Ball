@@ -9,17 +9,17 @@ A collection of articles analyzing various aspects of football. Topics included:
 - **2024-02-19:** Danish Dynamite: Albert Grønbæk
 - **2024-08-15:** Spain vs England - Euro 2024 Match Analysis
 - **2024-12-07:** Expected Threat - Understanding City's Patterns
-
+  
 ### 2. **Code Notebooks** (`code/`)
 Jupyter Notebooks with metrics and visualizations:
-- 'Player Rating System-FBWB-role-progressor-epl-wyscout-data-03-03-2025.ipynb' - Player Rating System-Fullback/Wingback-role-progressor
+- '_code/Player Rating System-FBWB-role-progressor-epl-wyscout-data-03-03-2025.ipynb' - Player Rating System-Fullback/Wingback-role-progressor
 - `Carries_map.ipynb` - Mapping player carries.
 - `Fabián_Ruiz_passmap.ipynb` - Pass map analysis for Fabián Ruiz.
 - `Passmap Spain vs England Euro 2024.ipynb` - Detailed pass analysis of Spain vs England.
 - `Shotmap Spain vs England Eurofinal.ipynb` - Shot map analysis of Eurofinal.
 
 ## 🌐 Visit the Blog
-Check out the articles and visualizations on [my GitHub Pages site](https://n0rthface43.github.io/Ball/).
+Check out the articles and visualizations on [my medium blog](https://medium.com/@henrik.schjoth).
 
 ## 🔧 Tools Used
 - **StatsBombPy:** For event data analysis.
