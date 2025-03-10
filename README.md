@@ -4,20 +4,15 @@ Welcome to the **Ball** repository! This GitHub repository is designed to share 
 
 ## 📂 Contents
 
-### 1. **Posts** (`_posts/`)
-A collection of articles analyzing various aspects of football. Topics included:
-- **2024-02-19:** Danish Dynamite: Albert Grønbæk
-- **2024-08-15:** Spain vs England - Euro 2024 Match Analysis
-- **2024-12-07:** Expected Threat - Understanding City's Patterns
-  _code/Player Rating System-FBWB-role-progressor-epl-wyscout-data-03-03-2025.ipynb- 
+- ## 📌 Prosjekter og Analyser  
+| Prosjekt | Dato | Linker |
+|----------|------|--------|
+| **Web Scraping - Creating a Pipeline** | 15-02-2025 | [📝 Article](https://medium.com/@henrik.schjoth/scraping-fbref-creating-a-pipeline-f5c9c23ba9da) |
+| **Player Ratings - Fullback/Wingback (Progressor Role)** | 10-03-2025 | [📝 Article](https://medium.com/@henrik.schjoth/from-dataframe-to-player-ratings-5c05e4073e91) <br> [📄 Code](./_code/Player%20Rating%20System-FBWB-role-progressor-epl-wyscout-data-03-03-2025.ipynb) |
+| **Expected Threat Analysis** | 30-01-2025 | [📝 Article](https://medium.com/@henrik.schjoth/expected-threat-and-winning-7596715647d2) <br> [📄 Code](./_code/xT-pitch.ipynb) |
+| **Analyzing Runs Using Tracking Data** | 20-01-2025 | [📝 Article](https://medium.com/@henrik.schjoth/using-tracking-data-analyzing-runs-6eda008c6d49) <br> [📄 Code](./_code/Analyzing%20runs%20with%20tracking%20data.py) |
+| **Albert Grønbaæk - Danish Dynamite** | 13-01-2025 (originally feb 2024) | [📝 Article](https://medium.com/@henrik.schjoth/danish-dynamite-albert-gr%C3%B8nb%C3%A6k-d19c09959d74) |
 
-- ### 2. **Code Notebooks** (`_code/`)
-Jupyter Notebooks with metrics and visualizations:
-- [Player Rating System-FBWB-role-progressor](./_code/Player%20Rating%20System-FBWB-role-progressor-epl-wyscout-data-03-03-2025.ipynb) - Player Rating System-Fullback/Wingback-role-progressor.
-- `Carries_map.ipynb` - Mapping player carries.
-- `Fabián_Ruiz_passmap.ipynb` - Pass map analysis for Fabián Ruiz.
-- `Passmap Spain vs England Euro 2024.ipynb` - Detailed pass analysis of Spain vs England.
-- `Shotmap Spain vs England Eurofinal.ipynb` - Shot map analysis of Eurofinal.
 
 ## 🌐 Visit the Blog
 Check out the articles and visualizations on [my medium blog](https://medium.com/@henrik.schjoth).
