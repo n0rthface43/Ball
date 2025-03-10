@@ -12,6 +12,7 @@ A collection of articles analyzing various aspects of football. Topics included:
 
 ### 2. **Code Notebooks** (`code/`)
 Jupyter Notebooks with metrics and visualizations:
+Player Rating System-FBWB-role-progressor
 - `Carries_map.ipynb` - Mapping player carries.
 - `Fabián_Ruiz_passmap.ipynb` - Pass map analysis for Fabián Ruiz.
 - `Passmap Spain vs England Euro 2024.ipynb` - Detailed pass analysis of Spain vs England.
