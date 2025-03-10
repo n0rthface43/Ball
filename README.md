@@ -4,8 +4,8 @@ Welcome to the **Ball** repository! This GitHub repository is designed to share 
 
 ## 📂 Contents
 
-- ## 📌 Prosjekter og Analyser  
-| Prosjekt | Dato | Linker |
+- ## 📌 Projects and Analysis  
+| Project | Date | Links |
 |----------|------|--------|
 | **Web Scraping - Creating a Pipeline** | 15-02-2025 | [📝 Article](https://medium.com/@henrik.schjoth/scraping-fbref-creating-a-pipeline-f5c9c23ba9da) |
 | **Player Ratings - Fullback/Wingback (Progressor Role)** | 10-03-2025 | [📝 Article](https://medium.com/@henrik.schjoth/from-dataframe-to-player-ratings-5c05e4073e91) <br> [📄 Code](./_code/Player%20Rating%20System-FBWB-role-progressor-epl-wyscout-data-03-03-2025.ipynb) |
