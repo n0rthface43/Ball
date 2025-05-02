@@ -7,6 +7,7 @@ Welcome to the **Ball** repository! This GitHub repository is designed to share 
 - ## 📌 Projects and Analysis  
 | Project | Date | Links |
 |----------|------|--------|
+| **Clustering Wingers with Machine Learning** | 02-05-2025 | [📝 Article](https://medium.com/@henrik.schjoth/clustering-wingers-using-machine-learning-b067d2e26685) <br> [📄 Code](./_code/Clustering-Wingers.ipynb) |
 | **Web Scraping - Creating a Pipeline** | 15-02-2025 | [📝 Article](https://medium.com/@henrik.schjoth/scraping-fbref-creating-a-pipeline-f5c9c23ba9da) |
 | **Player Ratings - Fullback/Wingback (Progressor Role)** | 10-03-2025 | [📝 Article](https://medium.com/@henrik.schjoth/from-dataframe-to-player-ratings-5c05e4073e91) <br> [📄 Code](./_code/Player%20Rating%20System-FBWB-role-progressor-epl-wyscout-data-03-03-2025.ipynb) |
 | **Expected Threat Analysis** | 30-01-2025 | [📝 Article](https://medium.com/@henrik.schjoth/expected-threat-and-winning-7596715647d2) <br> [📄 Code](./_code/xT-pitch.ipynb) |
