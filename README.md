@@ -19,9 +19,13 @@ Welcome to the **Ball** repository! This GitHub repository is designed to share 
 Check out the articles and visualizations on [my medium blog](https://medium.com/@henrik.schjoth).
 
 ## 🔧 Tools Used
-- **StatsBombPy:** For event data analysis.
+- **StatsBombPy:** For event data analysis (used for xT-analysis).
+- ** Wyscout data for player ratings and clustering wingers.
+- ** Respovision tracking data used for analysizing runs.
+- **Fbref-data for Albert Grønbæk analysis
 - **mplsoccer:** For football pitch plotting and advanced visualizations.
 - **Pandas/NumPy:** For data processing.
+- Scikitlearn used for machine learning (Clustering wingers)
 - **Jupyter Notebook:** For interactive analysis.
 
 ## 🚀 Get Started
