@@ -7,7 +7,7 @@ Welcome to the **Ball** repository! This GitHub repository is designed to share 
 - ## 📌 Projects and Analysis  
 | Project | Date | Links |
 |----------|------|--------| 
-| **Data vs reality - A Legia Warsaw casestudy of how change in style affects scouting** | 11-09-2025 | [📝 Article](https://medium.com/@henrik.schjoth/clustering-wingers-using-machine-learning-b067d2e26685) <br> [📄 Code](./_code/playerrating-strikers-marc-gual-wyscout-11-09-2025.ipynb) |
+| **Data vs reality - A Legia Warsaw casestudy of how change in style affects scouting** | 11-09-2025 | [📝 Article](https://medium.com/@henrik.schjoth/data-vs-reality-how-a-change-in-style-affects-scouting-at-legia-warsaw-e1fb721871ba) <br> [📄 Code](./_code/playerrating-strikers-marc-gual-wyscout-11-09-2025.ipynb) |
 | **Clustering Wingers with Machine Learning** | 02-05-2025 | [📝 Article](https://medium.com/@henrik.schjoth/clustering-wingers-using-machine-learning-b067d2e26685) <br> [📄 Code](./_code/Clustering-Wingers.ipynb) |
 | **Web Scraping - Creating a Pipeline** | 15-02-2025 | [📝 Article](https://medium.com/@henrik.schjoth/scraping-fbref-creating-a-pipeline-f5c9c23ba9da) |
 | **Player Ratings - Fullback/Wingback (Progressor Role)** | 10-03-2025 | [📝 Article](https://medium.com/@henrik.schjoth/from-dataframe-to-player-ratings-5c05e4073e91) <br> [📄 Code](./_code/Player%20Rating%20System-FBWB-role-progressor-epl-wyscout-data-03-03-2025.ipynb) |
