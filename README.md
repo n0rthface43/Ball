@@ -13,7 +13,7 @@ Broadcast tracking data is tracking data collected through computer vision and m
 
 ### Motivation
 
-This data has been open sourced in a joint initiative between [SkillCorner](https://skillcorner.com) and [Pysports](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). The goals are multiple:
+This data has been open sourced in a joint initiative between [SkillCorner](https://skillcorner.com) and [PySport](https://pysport.org/). The goals are multiple:
 * Provide access to tracking data to researchers and the sports analytics community.
 * Increase awareness on the existence of broadcast tracking data, and how it can be of benefit to clubs, media and the betting industry.
 * Allow SkillCorner prospects to access data easily, parse our data format and get started building on top of it.
@@ -97,7 +97,7 @@ An online version of the notebook can also be found on [GoogleColab](https://col
 
 ## Future works
 
-* We'll be hosting a hackathon in collaboration with [PySports](pysport.org/analytics-cup) !
+* We'll be hosting a hackathon in collaboration with [PySport](pysport.org/analytics-cup) !
 * We intend to open source more tooling to help people get started with our data.
 * We are not an event data provider ourself, though we intend to provide some tools to synchronize tracking and event data, that you'll be able to use if you can access event data.
 
