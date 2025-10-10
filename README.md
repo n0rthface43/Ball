@@ -92,8 +92,11 @@ For detailed information on phases of play, refer to this [documentation](https:
 
 ## Working with the data
 
-We've provided an array of code and notebooks that provides a starting point to work with the tracking data. To get started visit the Kloppy tutorial or dive into the Tutorials Folder. SkillCorner customers will also find commented code they can use to connect to their match_ids using their credentials.
-An online version of the notebook can also be found on [GoogleColab](https://colab.research.google.com/drive/16JTBpuoDFoZ-PRiztLX4CPZmCatKtem7).
+In the `Resources` folder, we've provided an array of code and notebooks that provides a starting point to work with the tracking data. To get started visit the Kloppy tutorial or dive into the Tutorials Folder. SkillCorner customers will also find commented code they can use to connect to their match_ids using their credentials.
+
+Onlines version are available as well for:
+* TRACKING Notebook: [GoogleColab](https://colab.research.google.com/drive/16JTBpuoDFoZ-PRiztLX4CPZmCatKtem7).
+* SKILLCORNER VIZ visualization Library: [GoogleColab](https://colab.research.google.com/drive/1-uD-kWH7ya-PyG585L2qymVcQrBTtjFo#scrollTo=z5B8GqPiCGan)
 
 ## Future works
 
