@@ -28,6 +28,7 @@ The `data` directory contains:
 
 * `matches.json` file with basic information about the match. Using this file, pick the `id` of your match of interest.
 * `matches` folder with one folder for each match (named with its `id`).
+* `aggregates` folder with a csv for the season level, aggregated data for AUS midifielders in 2024/2025.
 
 For each match, there are four files files:
 
@@ -63,6 +64,11 @@ The x axis is the long side and the y axis in the short side.
 
 Here is an illustration for a field of size 105mx68m.
 ![Field modelization for a pitch of size 105x68](resources/field.jpg)
+
+### Physical Data (Aggregates)
+
+The physical data is aggregated at a player-group-season level and contains the key metrics from our physical data. [documentation here](https://skillcorner.crunch.help/en/glossaries/physical-data-glossary)
+The dataset is filtered for performances above 60 mins only (sub players wouldn't appear unless they've played more than 60mins)
 
 
 #### Dynamic Event Data
