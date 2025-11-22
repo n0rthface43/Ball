@@ -1,0 +1,12 @@
+# Private raw data (Wyscout, FBref)
+projects/*/data/raw/
+*_wyscout*.csv
+*_possession*.csv
+*.xlsx
+
+# Jupyter checkpoint folders
+**/.ipynb_checkpoints/
+
+# Python env
+.venv/
+venv/
