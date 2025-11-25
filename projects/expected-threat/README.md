@@ -14,7 +14,7 @@ projects/
     ├── notebooks/
     │   └── xT-pitch.ipynb
     └── figures/
-        └── xT-pitch_xt-grid.png  (generated when the notebook is executed)
+        └── xT-pitch_xt-grid.png  (generated when the notebook is executed)```
 
 
 
