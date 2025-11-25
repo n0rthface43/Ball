@@ -14,17 +14,20 @@ projects/
     ├── notebooks/
     │   └── xT-pitch.ipynb
     └── figures/
-        └── xT-pitch_xt-grid.png  (generated when the notebook is executed)```
+        └── xT-pitch_xt-grid.png  (generated when the notebook is executed)
+```
 
 
 
 ## 
 ```bash
 git clone https://github.com/n0rthface43/Ball.git
-cd Ball/projects/expected-threat```
+cd Ball/projects/expected-threat
+```
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate   # macOS/Linux
 .venv\Scripts\activate      # Windows
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
