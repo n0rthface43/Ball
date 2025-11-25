@@ -13,8 +13,8 @@ projects/
     │   └── xT_Grid.csv
     ├── notebooks/
     │   └── xT-pitch.ipynb
-    └── figures/
-        └── xT-pitch_xt-grid.png  (genereres når notebooken kjøres)```
+    └── viz/
+        └── xT-pitch_xt-grid.png```
 
 ## Install
 git clone https://github.com/n0rthface43/Ball.git
