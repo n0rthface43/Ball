@@ -8,7 +8,7 @@ https://medium.com/@henrik.schjoth/clustering-and-ranking-central-midfielders-b4
 
 ---
 
-##  Summary of Method
+## Summary of Method
 
 1. **Preprocessing**
    - Filter CMs (RCMF/LCMF), min 900 minutes.
@@ -49,7 +49,10 @@ Therefore, PCA shapes, RF importance values, and some visual outputs may differ 
 ---
 
 ## Run the Project
+
 To run without Wyscout data:
+
+```python
 USE_EXAMPLE_DATA = True
 
 central-midfielders-clustering/
