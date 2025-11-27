@@ -1,0 +1,12 @@
+# Ignore proprietary Respovision data
+data/
+
+# Ignore generated visualisations
+viz/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor / notebook checkpoints
+.ipynb_checkpoints/
