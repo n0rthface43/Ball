@@ -11,7 +11,7 @@ Welcome to the **Ball** repository! This GitHub repository is designed to share 
 | **Clustering Wingers with Machine Learning** | 02-05-2025 | [📝 Article](https://medium.com/@henrik.schjoth/clustering-wingers-using-machine-learning-b067d2e26685) <br> |
 | **Web Scraping - Creating a Pipeline** | 15-03-2025 | [📝 Article](https://medium.com/@henrik.schjoth/scraping-fbref-creating-a-pipeline-f5c9c23ba9da) |
 | **Player Ratings - Fullback/Wingback (Progressor Role)** | 10-02-2025 | [📝 Article](https://medium.com/@henrik.schjoth/from-dataframe-to-player-ratings-5c05e4073e91) <br> |
-| **Expected Threat Analysis** | 30-01-2025 | [📝 Article](https://medium.com/@henrik.schjoth/expected-threat-and-winning-7596715647d2) <br> [📄 Code](./_code/xT-pitch.ipynb) |
+| **Expected Threat Analysis** | 30-01-2025 | [📝 Article](https://medium.com/@henrik.schjoth/expected-threat-and-winning-7596715647d2) <br> [📄 Code](./_projects/expected-threat/notebooks/xT-pitch.ipynb) |
 | **Analyzing Runs Using Tracking Data** | 20-01-2025 | [📝 Article](https://medium.com/@henrik.schjoth/using-tracking-data-analyzing-runs-6eda008c6d49) <br> [📄 Code](./projects/analyzing-runs-with-tracking-data/analyzing_runs_with_tracking_data.py) |
 | **Albert Grønbaæk - Danish Dynamite** | 13-01-2025 (originally feb 2024) | [📝 Article](https://medium.com/@henrik.schjoth/danish-dynamite-albert-gr%C3%B8nb%C3%A6k-d19c09959d74) |
 
