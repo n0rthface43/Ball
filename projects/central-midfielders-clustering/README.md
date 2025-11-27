@@ -57,6 +57,5 @@ USE_EXAMPLE_DATA = True
 
 central-midfielders-clustering/
 │── data/
-│── notebooks/
 │── viz/
 │── README.md
