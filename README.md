@@ -3,10 +3,12 @@
 Welcome to the **Ball** repository! This GitHub repository is designed to share my work in football analytics, including articles, Jupyter Notebooks with custom metrics, and visualizations.
 
 ##  Contents
-
+https://medium.com/@henrik.schjoth/who-is-the-next-lamine-yamal-using-data-to-identify-similar-undervalued-profiles-c22eb068dd64
 - ## Projects and Analysis  
 | Project | Date | Links |
 |----------|------|--------| 
+|**Clustering Center Midfielders with Machine Learning** | 22-11-2025 | [📝 Article](https://medium.com/@henrik.schjoth/clustering-and-ranking-central-midfielders-b4ddea2e83e7) <br> [📄 Code](./projects/central-midfielders-clustering/notebook_clustering_cm.ipynb) |
+|**Who is the next Lamine Yamal? Using data to identify similar undervalued profiles** | 09-11-2025 | [📝 Article](https://medium.com/@henrik.schjoth/who-is-the-next-lamine-yamal-using-data-to-identify-similar-undervalued-profiles-c22eb068dd64) <br> |
 | **Data vs reality - A Legia Warsaw casestudy of how change in style affects scouting** | 11-09-2025 | [📝 Article](https://medium.com/@henrik.schjoth/data-vs-reality-how-a-change-in-style-affects-scouting-at-legia-warsaw-e1fb721871ba) <br> |
 | **Clustering Wingers with Machine Learning** | 02-05-2025 | [📝 Article](https://medium.com/@henrik.schjoth/clustering-wingers-using-machine-learning-b067d2e26685) <br> |
 | **Web Scraping - Creating a Pipeline** | 15-03-2025 | [📝 Article](https://medium.com/@henrik.schjoth/scraping-fbref-creating-a-pipeline-f5c9c23ba9da) |
