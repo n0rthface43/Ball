@@ -37,20 +37,16 @@ You can find full articles and explanations on [my Medium profile](https://mediu
 - Respovision tracking data – analyzing runs  
 - StatsBomb open data – some xT experiments
 
-```markdown
 `requirements.txt` is a combined list of dependencies used across all projects in this repository.
 Some projects only use a subset of these libraries.
 
 ## Get Started
 To run the notebooks, clone this repository and install the required Python packages:
-```bash
 git clone https://github.com/n0rthface43/Ball.git
 cd Ball
 pip install -r requirements.txt
 
 Then navigate to one of the project folders, for example:
-```bash
 cd projects/central-midfielders-clustering
 # or
 cd projects/expected-threat
-
