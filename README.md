@@ -42,11 +42,13 @@ Some projects only use a subset of these libraries.
 
 ## Get Started
 To run the notebooks, clone this repository and install the required Python packages:
+
+´´´bash 
 git clone https://github.com/n0rthface43/Ball.git
 cd Ball
 pip install -r requirements.txt
 
 Then navigate to one of the project folders, for example:
+´´´bash
 cd projects/central-midfielders-clustering
-# or
-cd projects/expected-threat
+# or cd projects/expected-threat
