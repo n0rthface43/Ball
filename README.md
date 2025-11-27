@@ -2,9 +2,9 @@
 
 Welcome to the **Ball** repository! This GitHub repository is designed to share my work in football analytics, including articles, Jupyter Notebooks with custom metrics, and visualizations.
 
-## 📂 Contents
+##  Contents
 
-- ## 📌 Projects and Analysis  
+- ## Projects and Analysis  
 | Project | Date | Links |
 |----------|------|--------| 
 | **Data vs reality - A Legia Warsaw casestudy of how change in style affects scouting** | 11-09-2025 | [📝 Article](https://medium.com/@henrik.schjoth/data-vs-reality-how-a-change-in-style-affects-scouting-at-legia-warsaw-e1fb721871ba) <br> [📄 Code](./_code/playerrating-strikers-marc-gual-wyscout-11-09-2025.ipynb) |
