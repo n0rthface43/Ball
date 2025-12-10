@@ -10,3 +10,5 @@ mplsoccer
 statsbombpy
 fuzzywuzzy
 python-Levenshtein
+openpyxl
+
