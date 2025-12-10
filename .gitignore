@@ -4,6 +4,15 @@ projects/*/data/raw/
 *_possession*.csv
 *.xlsx
 
+# Ikke last opp rå Wyscout-data
+projects/recruitment-case-viking/data/raw/*
+projects/recruitment-case-viking/data/processed/*
+
+# Tillat .gitkeep
+!projects/recruitment-case-viking/data/raw/.gitkeep
+!projects/recruitment-case-viking/data/processed/.gitkeep
+
+
 # Jupyter checkpoint folders
 **/.ipynb_checkpoints/
 
