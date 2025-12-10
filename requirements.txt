@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+notebook
+jupyterlab
+mplsoccer
+statsbombpy
+fuzzywuzzy
+python-Levenshtein
