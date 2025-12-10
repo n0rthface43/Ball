@@ -4,6 +4,7 @@ The notebook demonstrates how to merge multiple league exports from Wyscout into
 ---
 
 ## File structure:
+```
 recruitment-case-viking/
 │
 ├── notebook.ipynb # Notebook with preprocessing and merging of files
@@ -13,6 +14,7 @@ recruitment-case-viking/
 │ └── processed/ # Output generated automatically
 │
 └── viz/ # Space for visualisations
+```
 ---
 
 ## ⚠️ Wyscout data not included
