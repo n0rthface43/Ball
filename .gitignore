@@ -12,6 +12,9 @@ projects/recruitment-case-viking/data/processed/*
 !projects/recruitment-case-viking/data/raw/.gitkeep
 !projects/recruitment-case-viking/data/processed/.gitkeep
 
+# Ignore SkillCorner dataset + copied resources inside project folder
+projects/skillcorner-trackingdata/data/
+projects/skillcorner-trackingdata/resources/
 
 # Jupyter checkpoint folders
 **/.ipynb_checkpoints/
