@@ -6,7 +6,7 @@ analysis and optional video generation.
 
 📄 Article:  
 https://medium.com/@henrik.schjoth/relevant-pitch-control-and-scoring-threat-exploring-time-and-space-7fb967805811
-
+```
 ---
 
 ## 📁 Project structure
