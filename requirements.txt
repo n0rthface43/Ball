@@ -11,4 +11,4 @@ statsbombpy
 fuzzywuzzy
 python-Levenshtein
 openpyxl
-
+imageio
