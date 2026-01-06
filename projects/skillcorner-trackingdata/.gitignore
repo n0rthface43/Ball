@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+venv/
+
+# Generated outputs
+**/viz/
+
+# --- opendata: avoid committing raw/large datasets ---
+projects/opendata/data/
+projects/opendata/**/data/
+
+# Optional: also ignore large tracking files (jsonl)
+*.jsonl
+
+# Local data (do not commit)
+data/
+# --------------------
+
+# Generated outputs
+*.mp4
+*.mov
+*.avi
+*.gif
+
+# Figures/renders (optional folders)
+videos/
+viz/
+
+# Jupyter
+.ipynb_checkpoints/
+
