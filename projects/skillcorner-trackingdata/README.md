@@ -1,5 +1,4 @@
-# Exploring Tracking Data from SKillCorner and Pitch Control 
-# SkillCorner Tracking Data – Pitch Control
+# Exploring Tracking Data from SkillCorner and Pitch Control 
 
 This project contains notebooks for pitch control analysis based on SkillCorner tracking data.
 The main focus is implementing and visualising pitch control models, including frame-by-frame
@@ -18,7 +17,7 @@ skillcorner-trackingdata/
 ├── .gitignore # Ignores local data and generated outputs
 │
 ├── data/ # Local tracking data (NOT included in repo)
-├── resources/ # Supporting files / references (if applicable)
+├── resources/ # Supporting files / references
 └── viz/ # Generated figures (ignored)
 
 ---
